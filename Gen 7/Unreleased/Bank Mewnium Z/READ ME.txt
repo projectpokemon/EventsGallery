@@ -1,0 +1,6 @@
+This is the original card Pokemon Bank receives.
+
+When Pokemon Bank injects it into Sun/Moon,
+It:
+Changes WC ID to 0
+Changes WC color from Purple to Gold
