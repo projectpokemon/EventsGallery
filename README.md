@@ -4,13 +4,13 @@
 The collective effort of the Project Pokémon (and other) communities to preserve as much event Pokémon information as possible.
 
 ### How do I use this?
-#### • Legality with [PKHex](https://projectpokemon.org/home/files/file/1-pkhex/)
+#### • Legality with [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/)
 1. Download this repository.
-1. Extract the contents to a folder `mgdb` in the same folder as `PKHex.exe`.
+1. Extract the contents to a folder `mgdb` in the same folder as `PKHeX.exe`.
 
-#### • Injection with PKHex
+#### • Injection with PKHeX
 1. Find the specific wondercard or Pokémon file.
-1. Drag/drop the file onto PKHex in the spot where you want that Pokémon.
+1. Drag/drop the file onto PKHeX in the spot where you want that Pokémon.
 
 ### I don't see _X_ event. Can I contribute it?
 Sure, there are several ways.
