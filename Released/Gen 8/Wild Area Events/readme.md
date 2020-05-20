@@ -1,4 +1,4 @@
-# Wild Area Event
+﻿# Wild Area Event
 - [Index 001 (Null)](Index%20001%20(Null)) - [Wild Area Event #00](#Wild-Area-Event-#00)
 - [Index 001](Index%20001) - [Wild Area Event #1](#Wild-Area-Event-#1:-Butterfree,-Drednaw-&-Corviknight)
 - [Index 002](Index%20002) - [Wild Area Event #2](#Wild-Area-Event-#2:-Snorlax)
@@ -16,6 +16,12 @@
 - [Index 014](Index%20014) - [Wild Area Event #10](#Wild-Area-Event-#10:-Snorlax,-Machamp,-Gengar)
 - [Index 015](Index%20015) - [Wild Area Event #11](#Wild-Area-Event-#11:-Pokédex-Completion-Event)
 - [Index 016](Index%20016) - [Wild Area Event #12](#Wild-Area-Event-#12:-Duraludon-and-Charizard)
+- [Index 017](Index%20017) - [Wild Area Event #13](#Wild-Area-Event-#13:-Easter-2020)
+- [Index 018](Index%20018) - [Wild Area Event #12](#Wild-Area-Event-#12:-Duraludon-and-Charizard)
+- [Index 019](Index%20019) - [Wild Area Event #14](#Wild-Area-Event-#14:-May-2020)
+- [Index 020](Index%20020) - [Wild Area Event #14](#Wild-Area-Event-#14:-May-2020)
+- [Index 021](Index%20021) - [Wild Area Event #15](#Wild-Area-Event-#15:-Gigantamax-Pikachu)
+- [Index 022](Index%20022) - [Wild Area Event #16](#Wild-Area-Event-#16:-Gigantamax-Eevee)
 
 
 ## Instructions
@@ -148,3 +154,22 @@ This event allowed some of the previously version exclusive Pokémon be found in
 
 ## [Wild Area Event #12: Duraludon and Charizard](https://projectpokemon.org/home/files/file/4095-wild-area-event-12-duraludon-and-charizard/)
 This is a wild area event held by Sword and Shield. This event allows any game to find Gigantamax versions of Duraludon, Charizard, Copperajah and Garbodor much easier than normal.
+
+
+## [Wild Area Event #13: Easter 2020](https://projectpokemon.org/home/files/file/4112-wild-area-event-13-easter-2020/)
+ This is a wild area event held by Sword and Shield, to celebrate Easter 2020. This event allows any game to find Gigantamax versions of Duraludon, Charizard, Copperajah and Garbodor much easier than normal.
+
+
+## [Wild Area Event #14: May 2020](https://projectpokemon.org/home/files/file/4135-wild-area-event-14-may-2020/)
+This is a wild area event held by Sword and Shield. This event does not have any Gigantamax Pokémon encounters.
+This wild area event seems to feature favorites used in online battles, such as Tyranitar, Excadrill, Whimsicott, Togekiss, Dragapult and Rotom. 
+
+
+## [Wild Area Event #15: Gigantamax Pikachu](https://projectpokemon.org/home/files/file/4144-wild-area-event-15-gigantamax-pikachu/)
+This is a wild area event held by Sword and Shield. All the event slots are held by Gigantamax Pikachu.
+This also marks the first time Gigantamax Pikachu is available in Max Raids as an encounter. 
+
+
+## [Wild Area Event #16: Gigantamax Eevee](https://projectpokemon.org/home/files/file/4148-wild-area-event-16-gigantamax-eevee/)
+This is a wild area event held by Sword and Shield. All the event slots are held by Gigantamax Eevee.
+This also marks the first time Gigantamax Eevee is available in Max Raids as an encounter. 
