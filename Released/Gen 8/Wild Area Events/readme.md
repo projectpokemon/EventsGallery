@@ -22,6 +22,7 @@
 - [Index 020](Index%20020) - [Wild Area Event #14](#Wild-Area-Event-#14:-May-2020)
 - [Index 021](Index%20021) - [Wild Area Event #15](#Wild-Area-Event-#15:-Gigantamax-Pikachu)
 - [Index 022](Index%20022) - [Wild Area Event #16](#Wild-Area-Event-#16:-Gigantamax-Eevee)
+- [Index 023](Index%20023) - [Wild Area Event #17](#Wild-Area-Event-#17:-Gigantamax-Meowth)
 
 
 ## Instructions
@@ -172,4 +173,9 @@ This also marks the first time Gigantamax Pikachu is available in Max Raids as a
 
 ## [Wild Area Event #16: Gigantamax Eevee](https://projectpokemon.org/home/files/file/4148-wild-area-event-16-gigantamax-eevee/)
 This is a wild area event held by Sword and Shield. All the event slots are held by Gigantamax Eevee.
-This also marks the first time Gigantamax Eevee is available in Max Raids as an encounter. 
+This also marks the first time Gigantamax Eevee is available in Max Raids as an encounter.
+
+
+## [Wild Area Event #17: Gigantamax Meowth](https://projectpokemon.org/home/files/file/4169-max-raid-event-gigantamax-meowth/)
+This is a wild area event held by Sword and Shield. All the event slots are held by Gigantamax Meowth.
+This also marks the first time Gigantamax Meowth is available in Max Raids as an encounter.  
