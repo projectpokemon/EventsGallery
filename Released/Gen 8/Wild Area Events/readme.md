@@ -1,28 +1,28 @@
 ﻿# Wild Area Event
-- [Index 001 (Null)](Index%20001%20(Null)) - [Wild Area Event #00](#Wild-Area-Event-#00)
-- [Index 001](Index%20001) - [Wild Area Event #1](#Wild-Area-Event-#1:-Butterfree,-Drednaw-&-Corviknight)
-- [Index 002](Index%20002) - [Wild Area Event #2](#Wild-Area-Event-#2:-Snorlax)
-- [Index 003](Index%20003) - [Wild Area Event #3](#wild-area-event-#3:-christmas-2019)
-- [Index 004](Index%20004) - [Wild Area Event #3](#wild-area-event-#3:-christmas-2019)
-- [Index 005](Index%20005) - [Wild Area Event #2](#Wild-Area-Event-#2:-Snorlax)
-- [Index 006](Index%20006) - [Wild Area Event #4](#Wild-Area-Event-#4:-New-Years-2020)
-- [Index 007](Index%20007) - [Wild Area Event #2](#Wild-Area-Event-#2:-Snorlax)
-- [Index 008](Index%20008) - [Wild Area Event #5](#Wild-Area-Event-#5:-Coalossal,-Lapras,-Flapple,-Appletun)
-- [Index 009](Index%20009) - [Wild Area Event #6](#Wild-Area-Event-#6:-Gigantamax-Milcery)
-- [Index 010](Index%20010) - [Wild Area Event #7](#Wild-Area-Event-#7:-Gigantamax-Toxtricity)
-- [Index 011](Index%20011) - [Wild Area Event #8](#Wild-Area-Event-#8:-Gigantamax-Toxtricity-without-Milcery)
-- [Index 012](Index%20012) - [Wild Area Event #9](#Wild-Area-Event-#9:-Pokémon-Day-2020)
-- [Index 013](Index%20013) - [Wild Area Event #8](#Wild-Area-Event-#8:-Gigantamax-Toxtricity-without-Milcery)
-- [Index 014](Index%20014) - [Wild Area Event #10](#Wild-Area-Event-#10:-Snorlax,-Machamp,-Gengar)
-- [Index 015](Index%20015) - [Wild Area Event #11](#Wild-Area-Event-#11:-Pokédex-Completion-Event)
-- [Index 016](Index%20016) - [Wild Area Event #12](#Wild-Area-Event-#12:-Duraludon-and-Charizard)
-- [Index 017](Index%20017) - [Wild Area Event #13](#Wild-Area-Event-#13:-Easter-2020)
-- [Index 018](Index%20018) - [Wild Area Event #12](#Wild-Area-Event-#12:-Duraludon-and-Charizard)
-- [Index 019](Index%20019) - [Wild Area Event #14](#Wild-Area-Event-#14:-May-2020)
-- [Index 020](Index%20020) - [Wild Area Event #14](#Wild-Area-Event-#14:-May-2020)
-- [Index 021](Index%20021) - [Wild Area Event #15](#Wild-Area-Event-#15:-Gigantamax-Pikachu)
-- [Index 022](Index%20022) - [Wild Area Event #16](#Wild-Area-Event-#16:-Gigantamax-Eevee)
-- [Index 023](Index%20023) - [Wild Area Event #17](#Wild-Area-Event-#17:-Gigantamax-Meowth)
+- [Index 001 (Null)](Index%20001%20(Null)) - [Wild Area Event #00](#Wild-Area-Event-00)
+- [Index 001](Index%20001) - [Wild Area Event #1](#Wild-Area-Event-1-Butterfree-Drednaw--Corviknight)
+- [Index 002](Index%20002) - [Wild Area Event #2](#Wild-Area-Event-2-Snorlax)
+- [Index 003](Index%20003) - [Wild Area Event #3](#wild-area-event-3-christmas-2019)
+- [Index 004](Index%20004) - [Wild Area Event #3](#wild-area-event-3-christmas-2019)
+- [Index 005](Index%20005) - [Wild Area Event #2](#Wild-Area-Event-2-Snorlax)
+- [Index 006](Index%20006) - [Wild Area Event #4](#Wild-Area-Event-4-New-Years-2020)
+- [Index 007](Index%20007) - [Wild Area Event #2](#Wild-Area-Event-2-Snorlax)
+- [Index 008](Index%20008) - [Wild Area Event #5](#Wild-Area-Event-5-Coalossal-Lapras-Flapple-Appletun)
+- [Index 009](Index%20009) - [Wild Area Event #6](#Wild-Area-Event-6-Gigantamax-Milcery)
+- [Index 010](Index%20010) - [Wild Area Event #7](#Wild-Area-Event-7-Gigantamax-Toxtricity)
+- [Index 011](Index%20011) - [Wild Area Event #8](#Wild-Area-Event-8-Gigantamax-Toxtricity-without-Milcery)
+- [Index 012](Index%20012) - [Wild Area Event #9](#Wild-Area-Event-9-Pokémon-Day-2020)
+- [Index 013](Index%20013) - [Wild Area Event #8](#Wild-Area-Event-8-Gigantamax-Toxtricity-without-Milcery)
+- [Index 014](Index%20014) - [Wild Area Event #10](#Wild-Area-Event-10-Snorlax-Machamp-Gengar)
+- [Index 015](Index%20015) - [Wild Area Event #11](#Wild-Area-Event-11-Pokédex-Completion-Event)
+- [Index 016](Index%20016) - [Wild Area Event #12](#Wild-Area-Event-12-Duraludon-and-Charizard)
+- [Index 017](Index%20017) - [Wild Area Event #13](#Wild-Area-Event-13-Easter-2020)
+- [Index 018](Index%20018) - [Wild Area Event #12](#Wild-Area-Event-12-Duraludon-and-Charizard)
+- [Index 019](Index%20019) - [Wild Area Event #14](#Wild-Area-Event-14-May-2020)
+- [Index 020](Index%20020) - [Wild Area Event #14](#Wild-Area-Event-14-May-2020)
+- [Index 021](Index%20021) - [Wild Area Event #15](#Wild-Area-Event-15-Gigantamax-Pikachu)
+- [Index 022](Index%20022) - [Wild Area Event #16](#Wild-Area-Event-16-Gigantamax-Eevee)
+- [Index 023](Index%20023) - [Wild Area Event #17](#Wild-Area-Event-17-Gigantamax-Meowth)
 
 
 ## Instructions
@@ -163,12 +163,12 @@ This is a wild area event held by Sword and Shield. This event allows any game t
 
 ## [Wild Area Event #14: May 2020](https://projectpokemon.org/home/files/file/4135-wild-area-event-14-may-2020/)
 This is a wild area event held by Sword and Shield. This event does not have any Gigantamax Pokémon encounters.
-This wild area event seems to feature favorites used in online battles, such as Tyranitar, Excadrill, Whimsicott, Togekiss, Dragapult and Rotom. 
+This wild area event seems to feature favorites used in online battles, such as Tyranitar, Excadrill, Whimsicott, Togekiss, Dragapult and Rotom.
 
 
 ## [Wild Area Event #15: Gigantamax Pikachu](https://projectpokemon.org/home/files/file/4144-wild-area-event-15-gigantamax-pikachu/)
 This is a wild area event held by Sword and Shield. All the event slots are held by Gigantamax Pikachu.
-This also marks the first time Gigantamax Pikachu is available in Max Raids as an encounter. 
+This also marks the first time Gigantamax Pikachu is available in Max Raids as an encounter.
 
 
 ## [Wild Area Event #16: Gigantamax Eevee](https://projectpokemon.org/home/files/file/4148-wild-area-event-16-gigantamax-eevee/)
@@ -178,4 +178,4 @@ This also marks the first time Gigantamax Eevee is available in Max Raids as an 
 
 ## [Wild Area Event #17: Gigantamax Meowth](https://projectpokemon.org/home/files/file/4169-max-raid-event-gigantamax-meowth/)
 This is a wild area event held by Sword and Shield. All the event slots are held by Gigantamax Meowth.
-This also marks the first time Gigantamax Meowth is available in Max Raids as an encounter.  
+This also marks the first time Gigantamax Meowth is available in Max Raids as an encounter.
