@@ -23,6 +23,7 @@
 - [Index 021](Index%20021) - [Wild Area Event #15](#Wild-Area-Event-15-Gigantamax-Pikachu)
 - [Index 022](Index%20022) - [Wild Area Event #16](#Wild-Area-Event-16-Gigantamax-Eevee)
 - [Index 023](Index%20023) - [Wild Area Event #17](#Wild-Area-Event-17-Gigantamax-Meowth)
+- [Index 024](Index%20024) - [Wild Area Event #18](#Wild-Area-Event-18-Gigantamax-Festival)
 
 
 ## Instructions
@@ -179,3 +180,11 @@ This also marks the first time Gigantamax Eevee is available in Max Raids as an 
 ## [Wild Area Event #17: Gigantamax Meowth](https://projectpokemon.org/home/files/file/4169-max-raid-event-gigantamax-meowth/)
 This is a wild area event held by Sword and Shield. All the event slots are held by Gigantamax Meowth.
 This also marks the first time Gigantamax Meowth is available in Max Raids as an encounter.
+
+
+## [Wild Area Event #18: Gigantamax Festival](https://projectpokemon.org/home/files/file/4173-wild-area-event-18-gigantamax-festival/)
+ This is a Wild Area event held by Sword and Shield. All the event slots are held by Pokémon that can Gigantamax.
+
+This marks the first time the Gigantamax variants of Gengar, Lapras, and Appletun can be encountered on Pokémon Sword (without being hosted by a player that has Pokémon Shield).
+This also marks the first time the Gigantamax variants of Machamp, Coalossal, and Flappe can be encountered on Pokémon Shield (without being hosted by a player that has Pokémon Sword).
+This Wild Area event also sees the return of Gigantamax Snorlax and Gigantamax Toxtricity, which normally cannot be found in the base games without Wild Area events. 
