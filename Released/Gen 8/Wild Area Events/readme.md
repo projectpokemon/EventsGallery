@@ -24,6 +24,14 @@
 - [Index 022](Index%20022) - [Wild Area Event #16](#Wild-Area-Event-16-Gigantamax-Eevee)
 - [Index 023](Index%20023) - [Wild Area Event #17](#Wild-Area-Event-17-Gigantamax-Meowth)
 - [Index 024](Index%20024) - [Wild Area Event #18](#Wild-Area-Event-18-Gigantamax-Festival)
+- [Index 025](Index%20025) - [Wild Area Event #19](#Wild-Area-Event-19-Zeraora-Challenge)
+- [Index 026](Index%20026) - [Wild Area Event #18](#Wild-Area-Event-18-Gigantamax-Festival)
+- [Index 027](Index%20027) - [Wild Area Event #20](#Wild-Area-Event-20-July-2020)
+- [Index 028](Index%20028) - [Wild Area Event #20](#Wild-Area-Event-20-July-2020)
+- [Index 029](Index%20029) - [Wild Area Event #20](#Wild-Area-Event-20-July-2020)
+- [Index 030](Index%20030) - [Wild Area Event #20](#Wild-Area-Event-20-July-2020)
+- [Index 031](Index%20031) - [Wild Area Event #21](#Wild-Area-Event-21-Sea-Pokemon-Invasion)
+
 
 
 ## Instructions
@@ -183,8 +191,37 @@ This also marks the first time Gigantamax Meowth is available in Max Raids as an
 
 
 ## [Wild Area Event #18: Gigantamax Festival](https://projectpokemon.org/home/files/file/4173-wild-area-event-18-gigantamax-festival/)
- This is a Wild Area event held by Sword and Shield. All the event slots are held by Pokémon that can Gigantamax.
+This is a Wild Area event held by Sword and Shield. All the event slots are held by Pokémon that can Gigantamax.
 
 This marks the first time the Gigantamax variants of Gengar, Lapras, and Appletun can be encountered on Pokémon Sword (without being hosted by a player that has Pokémon Shield).
 This also marks the first time the Gigantamax variants of Machamp, Coalossal, and Flappe can be encountered on Pokémon Shield (without being hosted by a player that has Pokémon Sword).
 This Wild Area event also sees the return of Gigantamax Snorlax and Gigantamax Toxtricity, which normally cannot be found in the base games without Wild Area events. 
+
+
+## [Wild Area Event #19: Zeraora Challenge](https://projectpokemon.org/home/files/file/4192-wild-area-event-19-zeraora-challenge/)
+This is a Wild Area event held by Sword and Shield. Besides Zeraora, all the event slots are held by Pokémon that can Gigantamax.
+
+This event allows Zeraora to spawn as event boss, though important to note that it cannot be caught.
+This event also features the shiny Zeraora, at a higher level of difficulty.
+If a million Zeraora gets defeated before a deadline, a shiny Zeraora will be gifted to players via HOME.
+To qualify, you need to shift a mon into HOME during that period. 
+
+
+## [Wild Area Event #20: July 2020](https://projectpokemon.org/home/files/file/4212-wild-area-event-20-july-2020/)
+This is a Wild Area event held by Sword and Shield. It appears to have some kind of mining theme, with all the Pokémon being at least part Steel, Ground or Rock type.
+One can find a Gigantamax Copperajah or Gigantamax Coalossal if they are lucky.
+
+The release of this event was fraught with issues, and the servers had to redistribute the Wild Area News multiple times to try to tackle them.
+
+Note that these are to me memory, and do not have them 100% correct. I'll replace them when proof comes along.
+Index 27: Initial Release. Has bugged item (0x1604) as part of the rewards. Crashes the game upon receiving it.
+(Item assumed to be Crown Tundra's version of Armorite Ore. Whoever managed the event probably put the wrong Ore item)
+Index 28: The server removed the accursed item. However it appears to be bugged, perhaps server side. These raids could not be done online.
+Index 29: ??? (I do not have this)
+Index 30: Properly Fixed. Armorite Ore also reinstated as drop reward. 
+
+
+## [Wild Area Event #21: Sea Pokemon Invasion](https://projectpokemon.org/home/files/file/4225-wild-area-event-21-sea-pok%C3%A9mon-invasion/)
+This is a Wild Area event held by Sword and Shield. It features some water types, with the theme being Sea Pokémon Invasion.
+It also has a Guaranteed Shiny Wailord, as part of the 5 star roster.
+One can find a Gigantamax Kingler if they are lucky. 
