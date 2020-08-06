@@ -31,7 +31,9 @@
 - [Index 029](Index%20029) - [Wild Area Event #20](#Wild-Area-Event-20-July-2020)
 - [Index 030](Index%20030) - [Wild Area Event #20](#Wild-Area-Event-20-July-2020)
 - [Index 031](Index%20031) - [Wild Area Event #21](#Wild-Area-Event-21-Sea-Pokemon-Invasion)
-
+- [Index 032](Index%20032) - [Wild Area Event #20](#Wild-Area-Event-20-July-2020)
+- [Index 033](Index%20033) - [Wild Area Event #22](#Wild-Area-Event-22-August-2020)
+- [Index 034](Index%20034) - [Wild Area Event #23](#Wild-Area-Event-23-Pikachu-Mass-Appearance)
 
 
 ## Instructions
@@ -225,3 +227,10 @@ Index 30: Properly Fixed. Armorite Ore also reinstated as drop reward.
 This is a Wild Area event held by Sword and Shield. It features some water types, with the theme being Sea Pokémon Invasion.
 It also has a Guaranteed Shiny Wailord, as part of the 5 star roster.
 One can find a Gigantamax Kingler if they are lucky. 
+
+## [Wild Area Event #22: August 2020](https://projectpokemon.org/home/files/file/4241-wild-area-event-22-august-2020/)
+This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax Sandaconda and Gigantamax Drednaw.
+
+## [Wild Area Event #23: Pikachu Mass Appearance](https://projectpokemon.org/home/files/file/4244-wild-area-event-23-pikachu-mass-appearance/)
+This is a Wild Area event held by Sword and Shield.
+This event is also presently the only way for Sword and Shield players to catch Alolan Raichu in Sword and Shield..
