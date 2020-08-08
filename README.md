@@ -12,6 +12,11 @@ The collective effort of the Project Pokémon (and other) communities to preserv
 1. Find the specific wondercard or Pokémon file.
 1. Drag/drop the file onto PKHeX in the spot where you want that Pokémon.
 
+### How do I get Gen 8 Wondercards if they are not on the save file?
+Pokemon LGPE and Sword/Shield use a system called BCAT. BCAT data is synchronized when your game goes online.
+Use [JKSV](https://github.com/J-D-K/JKSV) to export the BCAT files. BCAT includes wondercards, wild area news, tournament rules, etc.
+See the section below on how to contribute your bcat export.
+
 ### What is a post event redemption?
 These are events that were redeemed using the original hardware (such as PCNY Gotta Catch 'Em All) after the original event period.
 Not all events will be categorized like this due to various reasons. Please open an [issue](https://github.com/projectpokemon/EventsGallery/issues/new) for questions.
