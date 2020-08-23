@@ -34,6 +34,7 @@
 - [Index 032](Index%20032) - [Wild Area Event #20](#Wild-Area-Event-20-July-2020)
 - [Index 033](Index%20033) - [Wild Area Event #22](#Wild-Area-Event-22-August-2020)
 - [Index 034](Index%20034) - [Wild Area Event #23](#Wild-Area-Event-23-Pikachu-Mass-Appearance)
+- [Index 035](Index%20035) - [Wild Area Event #22](#Wild-Area-Event-22-August-2020)
 
 
 ## Instructions
