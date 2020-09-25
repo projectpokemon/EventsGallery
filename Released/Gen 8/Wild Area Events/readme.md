@@ -35,6 +35,9 @@
 - [Index 033](Index%20033) - [Wild Area Event #22](#Wild-Area-Event-22-August-2020)
 - [Index 034](Index%20034) - [Wild Area Event #23](#Wild-Area-Event-23-Pikachu-Mass-Appearance)
 - [Index 035](Index%20035) - [Wild Area Event #22](#Wild-Area-Event-22-August-2020)
+- [Index 036](Index%20036) - [Wild Area Event #24](#Wild-Area-Event-24-September-2020)
+- [Index 037](Index%20037) - [Wild Area Event #25](#Wild-Area-Event-25-September-Equinox-2020)
+- [Index 038](Index%20038) - [Wild Area Event #24](#Wild-Area-Event-24-September-2020)
 
 
 ## Instructions
@@ -64,41 +67,41 @@ For base game Pokémon Sword and Shield, without this event, there is no den tha
 As per the previous events, Drednaw and Sandaconda were Sword exclusive raids, and Corviknight and Centiskorch were Shield exclusive raids. Butterfree and Snorlax can be obtained regardless of game.
 Though it is important to note, host can include players of the opposite version to join in the raids.
 
-This event ran globally from December 4th, 2019 to January 9th, 2020. <br>
-The running of this event was interrupted twice in favor of other events: <br>
-#3 Christmas 2019 (Index 03 and Index 04) <br>
+This event ran globally from December 4th, 2019 to January 9th, 2020.
+The running of this event was interrupted twice in favor of other events:
+#3 Christmas 2019 (Index 03 and Index 04)
 #5 New Years 2020 (Index 06)
 
 
 ## [Wild Area Event #3: Christmas 2019](https://projectpokemon.org/home/files/file/4028-wild-area-event-3-christmas-2019/)
-This wild area event held by Sword and Shield. It made Delibird the focus of the event, to celebrate Christmas 2019 <br>
-While Delibird crashes the #2 event, it merely shifts the spawns. As such, Gigantamax Snorlax is still available, just at a lower rate. <br>
-For base game Pokémon Sword and Shield, without this event, there is no den that will enable players to encounter a Gigantamax Snorlax. <br>
+This wild area event held by Sword and Shield. It made Delibird the focus of the event, to celebrate Christmas 2019
+While Delibird crashes the #2 event, it merely shifts the spawns. As such, Gigantamax Snorlax is still available, just at a lower rate.
+For base game Pokémon Sword and Shield, without this event, there is no den that will enable players to encounter a Gigantamax Snorlax.
 
-As per the previous events, Drednaw and Sandaconda were Sword exclusive raids, and Corviknight and Centiskorch were Shield exclusive raids. Butterfree and Snorlax can be obtained regardless of game. <br>
+As per the previous events, Drednaw and Sandaconda were Sword exclusive raids, and Corviknight and Centiskorch were Shield exclusive raids. Butterfree and Snorlax can be obtained regardless of game.
 Though it is important to note, host can include players of the opposite version to join in the raids.
 
-This event ran globally from December 20th to December 25th, 2019. <br>
+This event ran globally from December 20th to December 25th, 2019.
 When this event ended, it shifted back to Wild Area Event #2 (Index 05 in this case).
 
 
 ## [Wild Area Event #4: New Years 2020](https://projectpokemon.org/home/files/file/4029-wild-area-event-4-new-years-2020/)
-This wild area event held by Sword and Shield. It made Magikarp the focus of the event, with a high chance to encounter one shiny, to celebrate New Years 2020. The Shiny Magikarp is a 8% guaranteed spawn, across all tiers. <br>
-While Magikarp crashed the #2 event, it merely shifted the spawns. As such, Gigantamax Snorlax is still available, just at a lower rate. <br>
+This wild area event held by Sword and Shield. It made Magikarp the focus of the event, with a high chance to encounter one shiny, to celebrate New Years 2020. The Shiny Magikarp is a 8% guaranteed spawn, across all tiers.
+While Magikarp crashed the #2 event, it merely shifted the spawns. As such, Gigantamax Snorlax is still available, just at a lower rate.
 For base game Pokémon Sword and Shield, without this event, there is no den that will enable players to encounter a Gigantamax Snorlax.
 
-As per the previous events, Drednaw and Sandaconda were Sword exclusive raids, and Corviknight and Centiskorch were Shield exclusive raids. Butterfree and Snorlax can be obtained regardless of game. <br>
+As per the previous events, Drednaw and Sandaconda were Sword exclusive raids, and Corviknight and Centiskorch were Shield exclusive raids. Butterfree and Snorlax can be obtained regardless of game.
 Though it is important to note, host can include players of the opposite version to join in the raids.
 
-This event ran globally from December 31st, 2019 to January 3rd, 2020. <br>
+This event ran globally from December 31st, 2019 to January 3rd, 2020.
 When this event ended, it shifted back to Wild Area Event #2 (Index 07 in this case).
 
 
 ## [Wild Area Event #5: Coalossal, Lapras, Flapple, Appletun](https://projectpokemon.org/home/files/file/4031-wild-area-event-5-coalossal-lapras-flapple-appletun/)
-This is a wild area event held by Sword and Shield. Despite publicizing that Gigantamax variants for Coalossal, Lapras, Flapple and Appletun were to be more easily available, this event also allowed encounters for the Gigantamax variants for Alcremie. <br>
+This is a wild area event held by Sword and Shield. Despite publicizing that Gigantamax variants for Coalossal, Lapras, Flapple and Appletun were to be more easily available, this event also allowed encounters for the Gigantamax variants for Alcremie.
 For base game Pokémon Sword and Shield, without this event, there is no den that will enable players to encounter a non-Vanilla flavored Gigantamax Alcremie.
 
-Coalossal and Flapple were Sword exclusive raids, and Lapras and Appletun were Shield exclusive raids. <br>
+Coalossal and Flapple were Sword exclusive raids, and Lapras and Appletun were Shield exclusive raids.
 Some non-Vanilla forms were also version exclusive, as seen below:
 | Sword Raids	  |     |	Shield Raids |     |
 | ---	          | --- |	---          | --- |
@@ -110,39 +113,39 @@ Some non-Vanilla forms were also version exclusive, as seen below:
 | Salted Cream  | 5★ | Mint Cream    | 5★ |
 | Ruby Swirl    | 5★ | Lemon Cream   | 5★ |
 
-(All of the Gigantamax Alcremie encountered via raids, thus far, can only have the Strawberry Decoration.) <br>
-Though it is important to note, that the host can invite players of the opposite version to join in the raids. <br>
+(All of the Gigantamax Alcremie encountered via raids, thus far, can only have the Strawberry Decoration.)
+Though it is important to note, that the host can invite players of the opposite version to join in the raids.
 This event ran globally from January 9th to January 30th, 2020.
 
 
 ## [Wild Area Event #6: Gigantamax Milcery](https://projectpokemon.org/home/files/file/4033-wild-area-event-6-gigantamax-milcery/)
 This is a wild area event held by Sword and Shield. This event raid allows players to get a chance of Milcery with the Gigantamax icon.
-This is the first time, that the Ribbon and Star Sweets were made available. This means that any Alcremie of any flavor and decoration that evolved from this Milcery would be capable of Gigantamaxing. <br>
+This is the first time, that the Ribbon and Star Sweets were made available. This means that any Alcremie of any flavor and decoration that evolved from this Milcery would be capable of Gigantamaxing.
 
-Coalossal and Flapple were Sword exclusive raids, and Lapras and Appletun were Shield exclusive raids. <br>
-Though it is important to note, that the host can invite players of the opposite version to join in the raids. <br>
+Coalossal and Flapple were Sword exclusive raids, and Lapras and Appletun were Shield exclusive raids.
+Though it is important to note, that the host can invite players of the opposite version to join in the raids.
 
-While the Milcery event was reported to run from January 31st, 2020 to February 16th, 2020, <br>
-it was reported the Flapple, Appletun, Coalossal and Lapras will rotate out on February 6th, 2020. <br>
+While the Milcery event was reported to run from January 31st, 2020 to February 16th, 2020,
+it was reported the Flapple, Appletun, Coalossal and Lapras will rotate out on February 6th, 2020.
 So chances are, this Wild Area Event will run from January 31st, 2020 to February 6th, 2020.
 
 
 ## [Wild Area Event #7: Gigantamax Toxtricity](https://projectpokemon.org/home/files/file/4036-wild-area-event-7-gigantamax-toxtricity/)
-This is a wild area event held by Sword and Shield. This event raid allows players to obtain the Gigantamax Toxtricity that is not obtainable in the base game, and also get a chance to catch Milcery with the Gigantamax icon. <br>
-Using the Milcery with the icon, this means that any Alcremie of any flavor and decoration that evolved from this Milcery would be capable of Gigantamaxing. <br>
+This is a wild area event held by Sword and Shield. This event raid allows players to obtain the Gigantamax Toxtricity that is not obtainable in the base game, and also get a chance to catch Milcery with the Gigantamax icon.
+Using the Milcery with the icon, this means that any Alcremie of any flavor and decoration that evolved from this Milcery would be capable of Gigantamaxing.
 This also marks the first time the Gigantamax Toxtricity is made available to players.
 
-Grimmsnarl and Kingler were Sword exclusive raids, and Hatterene and Orbeetle were Shield exclusive raids. <br>
+Grimmsnarl and Kingler were Sword exclusive raids, and Hatterene and Orbeetle were Shield exclusive raids.
 Though it is important to note, that the host can invite players of the opposite version to join in the raids.
 
-As Milcery spawns was reported to rotate out at February 17th, 2020. <br>
+As Milcery spawns was reported to rotate out at February 17th, 2020.
 this event ran will likely last from February 7th, 2020 to February 17th, 2020.
 
 
 ## [Wild Area Event #8: Gigantamax Toxtricity without Milcery](https://projectpokemon.org/home/files/file/4053-wild-area-event-8-gigantamax-toxtricity-without-milcery/)
 This is a wild area event held by Sword and Shield. This event raid allows players to obtain the Gigantamax Toxtricity that is not obtainable in the base game.
 
-Grimmsnarl and Kingler were Sword exclusive raids, and Hatterene and Orbeetle were Shield exclusive raids. <br>
+Grimmsnarl and Kingler were Sword exclusive raids, and Hatterene and Orbeetle were Shield exclusive raids.
 Though it is important to note, that the host can invite players of the opposite version to join in the raids.
 
 
@@ -151,7 +154,7 @@ This is a wild area event held by Sword and Shield. This event raid allows playe
 
 This also marks the first time the Kanto Starters and Mewtwo have appeared in raids for Sword and Shield, though Mewtwo was programmed to be uncatchable.
 
-Grimmsnarl and Kingler were Sword exclusive raids, and Hatterene and Orbeetle were Shield exclusive raids. <br>
+Grimmsnarl and Kingler were Sword exclusive raids, and Hatterene and Orbeetle were Shield exclusive raids.
 Though it is important to note, that the host can invite players of the opposite version to join in the raids.
 
 
@@ -235,3 +238,10 @@ This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax 
 ## [Wild Area Event #23: Pikachu Mass Appearance](https://projectpokemon.org/home/files/file/4244-wild-area-event-23-pikachu-mass-appearance/)
 This is a Wild Area event held by Sword and Shield.
 This event is also presently the only way for Sword and Shield players to catch Alolan Raichu in Sword and Shield..
+
+## [Wild Area Event #24: September 2020](https://projectpokemon.org/home/files/file/4266-wild-area-event-24-september-2020/)
+This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax Appletun, Gigantamax Flapple and Gigantamax Toxtricity.
+
+## [Wild Area Event #25: September Equinox 2020](https://projectpokemon.org/home/files/file/4274-wild-area-event-25-september-equinox-2020/)
+This is a Wild Area event held by Sword and Shield. This event hosts several Pokémon that evolve or would evolve via the Sun Stone or the Moon Stone.
+Additionally, this limited time event includes a 2% chance of a guaranteed Shiny Clefable in both the 5 stars slot.
