@@ -38,6 +38,7 @@
 - [Index 036](Index%20036) - [Wild Area Event #24](#Wild-Area-Event-24-September-2020)
 - [Index 037](Index%20037) - [Wild Area Event #25](#Wild-Area-Event-25-September-Equinox-2020)
 - [Index 038](Index%20038) - [Wild Area Event #24](#Wild-Area-Event-24-September-2020)
+- [Index 039](Index%20039) - [Wild Area Event #26](#Wild-Area-Event-26-October-2020)
 
 
 ## Instructions
@@ -245,3 +246,6 @@ This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax 
 ## [Wild Area Event #25: September Equinox 2020](https://projectpokemon.org/home/files/file/4274-wild-area-event-25-september-equinox-2020/)
 This is a Wild Area event held by Sword and Shield. This event hosts several Pokémon that evolve or would evolve via the Sun Stone or the Moon Stone.
 Additionally, this limited time event includes a 2% chance of a guaranteed Shiny Clefable in both the 5 stars slot.
+
+## [Wild Area Event #26: October 2020](https://projectpokemon.org/home/files/file/4301-wild-area-event-26-october-2020/)
+This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax Grimmsnarl and Gigantamax Gengar.
