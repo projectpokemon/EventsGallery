@@ -40,6 +40,7 @@
 - [Index 038](Index%20038) - [Wild Area Event #24](#Wild-Area-Event-24-September-2020)
 - [Index 039](Index%20039) - [Wild Area Event #26](#Wild-Area-Event-26-October-2020)
 - [Index 040](Index%20040) - [Wild Area Event #26](#Wild-Area-Event-26-October-2020)
+- [Index 041](Index%20041) - [Wild Area Event #27](#Wild-Area-Event-27-Prepare-for-a-Fright)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -249,3 +250,6 @@ Additionally, this limited time event includes a 2% chance of a guaranteed Shiny
 
 ## [Wild Area Event #26: October 2020](https://projectpokemon.org/home/files/file/4301-wild-area-event-26-october-2020/)
 This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax Grimmsnarl and Gigantamax Gengar.
+
+## [Wild Area Event #27: Prepare for a Fright](https://projectpokemon.org/home/files/file/4326-wild-area-event-27-prepare-for-a-fright/)
+ This is a Wild Area event held by Sword and Shield. This event does not host any Gigantamax Pokémon, though some of the Gourgeist are forced to be shiny.
