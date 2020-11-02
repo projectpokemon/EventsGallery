@@ -255,5 +255,5 @@ This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax 
 ## [Wild Area Event #27: Prepare for a Fright](https://projectpokemon.org/home/files/file/4326-wild-area-event-27-prepare-for-a-fright/)
 This is a Wild Area event held by Sword and Shield. This event does not host any Gigantamax Pokémon, though some of the Gourgeist are forced to be shiny.
  
-## [Wild Area Event #28: November 2020] (https://projectpokemon.org/home/files/file/4335-wild-area-event-28-november-2020/)
+## [Wild Area Event #28: November 2020](https://projectpokemon.org/home/files/file/4335-wild-area-event-28-november-2020/)
 This is a Wild Area event held by Sword and Shield. This event does hosts Gigantamax Butterfree and Gigantamax Garbodor.
