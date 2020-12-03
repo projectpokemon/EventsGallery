@@ -43,6 +43,8 @@
 - [Index 041](Index%20041) - [Wild Area Event #27](#Wild-Area-Event-27-Prepare-for-a-Fright)
 - [Index 042](Index%20042) - [Wild Area Event #28](#Wild-Area-Event-28-November-2020)
 - [Index 043](Index%20043) - [Wild Area Event #29](#Wild-Area-Event-29-Get-Cheeky-with-Skwovet)
+- [Index 044](Index%20044) - [Wild Area Event #28](#Wild-Area-Event-28-November-2020)
+- [Index 045](Index%20045) - [Wild Area Event #30](#Wild-Area-Event-30-December-2020)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -261,3 +263,6 @@ This is a Wild Area event held by Sword and Shield. This event does hosts Gigant
 
 ## [Wild Area Event #29: Get Cheeky with Skwovet](https://projectpokemon.org/home/files/file/4367-wild-area-event-29-get-cheeky-with-skwovet/)
 This is a Wild Area event held by Sword and Shield. This event does not host any Gigantamax Pokémon, though it has a guaranteed Shiny Skwovet as part of the rooster. 
+
+## [Wild Area Event #30: December 2020](https://projectpokemon.org/home/files/file/4374-wild-area-event-30-december-2020/)
+This is a Wild Area event held by Sword and Shield. This event does hosts Gigantamax Lapras, Gigantamax Centiskorch and the Kantonian line of Ponyta. 
