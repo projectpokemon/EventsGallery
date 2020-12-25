@@ -45,6 +45,7 @@
 - [Index 043](Index%20043) - [Wild Area Event #29](#Wild-Area-Event-29-Get-Cheeky-with-Skwovet)
 - [Index 044](Index%20044) - [Wild Area Event #28](#Wild-Area-Event-28-November-2020)
 - [Index 045](Index%20045) - [Wild Area Event #30](#Wild-Area-Event-30-December-2020)
+- [Index 046](Index%20046) - [Wild Area Event #31](#Wild-Area-Event-31-Christmas-2020)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -266,3 +267,6 @@ This is a Wild Area event held by Sword and Shield. This event does not host any
 
 ## [Wild Area Event #30: December 2020](https://projectpokemon.org/home/files/file/4374-wild-area-event-30-december-2020/)
 This is a Wild Area event held by Sword and Shield. This event does hosts Gigantamax Lapras, Gigantamax Centiskorch and the Kantonian line of Ponyta. 
+
+## [Wild Area Event #31: Christmas 2020](https://projectpokemon.org/home/files/file/4391-wild-area-event-31-christmas-2020/)
+This is a Wild Area event held by Sword and Shield. Notably, this event hosts an Alolan Vulpix with a rare forced slot to be Shiny.
