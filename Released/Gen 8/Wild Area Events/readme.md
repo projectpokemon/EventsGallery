@@ -47,6 +47,7 @@
 - [Index 045](Index%20045) - [Wild Area Event #30](#Wild-Area-Event-30-December-2020)
 - [Index 046](Index%20046) - [Wild Area Event #31](#Wild-Area-Event-31-Christmas-2020)
 - [Index 047](Index%20047) - [Wild Area Event #30](#Wild-Area-Event-30-December-2020)
+- [Index 048](Index%20048) - [Wild Area Event #32](#Wild-Area-Event-32-January-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -271,3 +272,6 @@ This is a Wild Area event held by Sword and Shield. This event does hosts Gigant
 
 ## [Wild Area Event #31: Christmas 2020](https://projectpokemon.org/home/files/file/4391-wild-area-event-31-christmas-2020/)
 This is a Wild Area event held by Sword and Shield. Notably, this event hosts an Alolan Vulpix with a rare forced slot to be Shiny.
+
+## [Wild Area Event #32: January 2021](https://projectpokemon.org/home/files/file/4396-wild-area-event-32-january-2021/)
+This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax Snorlax and Gigantamax Duraludon. 
