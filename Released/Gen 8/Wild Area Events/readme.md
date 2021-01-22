@@ -50,6 +50,7 @@
 - [Index 048](Index%20048) - [Wild Area Event #32](#Wild-Area-Event-32-January-2021)
 - [Index 049](Index%20049) - [Wild Area Event #29](#Wild-Area-Event-29-Get-Cheeky-with-Skwovet)
 - [Index 050](Index%20050) - [Wild Area Event #32](#Wild-Area-Event-32-January-2021)
+- [Index 051](Index%20051) - [Wild Area Event #33](#Wild-Area-Event-33-Lunar-New-Year-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -277,3 +278,9 @@ This is a Wild Area event held by Sword and Shield. Notably, this event hosts an
 
 ## [Wild Area Event #32: January 2021](https://projectpokemon.org/home/files/file/4396-wild-area-event-32-january-2021/)
 This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax Snorlax and Gigantamax Duraludon. 
+
+## [Wild Area Event #33: Lunar New Year 2021](https://projectpokemon.org/home/files/file/4407-wild-area-event-33-lunar-new-year-2021/)
+This is a Wild Area event held by Sword and Shield. This event hosts Taurus, Miltank and Bouffalant, to celebrate the Lunar New Year of 2021.
+The Pokémon were all ox-like species, as this year is known as the Year of the Ox, as per the Chinese Zodiac Calendar.
+
+This event also has an increased chance of landing a Shiny Tauros. 
