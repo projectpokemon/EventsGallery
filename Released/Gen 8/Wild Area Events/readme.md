@@ -53,6 +53,7 @@
 - [Index 051](Index%20051) - [Wild Area Event #33](#Wild-Area-Event-33-Lunar-New-Year-2021)
 - [Index 052](Index%20052) - [Wild Area Event #32](#Wild-Area-Event-32-January-2021)
 - [Index 053](Index%20053) - [Wild Area Event #34](#Wild-Area-Event-34-February-2021)
+- [Index 054](Index%20054) - [Wild Area Event #35](#Wild-Area-Event-35-Secrets-of-the-Jungle-Raid-Tie-in)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -289,3 +290,11 @@ This event also has an increased chance of landing a Shiny Tauros.
 
 ## [Wild Area Event #34: February 2021](https://projectpokemon.org/home/files/file/4410-wild-area-event-34-february-2021/)
 This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax Machamp and Gigantamax Orbeetle.
+
+## [Wild Area Event #35: Secrets of the Jungle Raid Tie in](https://projectpokemon.org/home/files/file/4412-wild-area-event-35-secrets-of-the-jungle-raid-tie-in/)
+This is a Wild Area event held by Sword and Shield. This event is an event tie in to M23: Secrets of the Jungle.
+It features Pokémon that appears in the movie, and also give players a chance to encounter a shiny Cramorant! (2% guaranteed shiny at 5 star tier)
+
+Besides that, there are also specific rewards for the amount of times Max Raid Battles against Cramorant were won:
+500,000 battles won: players receive a Flame Orb, Toxic Orb, and Light Ball
+1,000,000 battles won: players receive a Gold Bottle Cap, 3 Bottle Caps, and 3 Pearl Strings. 
