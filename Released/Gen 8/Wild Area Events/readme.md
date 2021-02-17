@@ -55,6 +55,8 @@
 - [Index 053](Index%20053) - [Wild Area Event #34](#Wild-Area-Event-34-February-2021)
 - [Index 054](Index%20054) - [Wild Area Event #35](#Wild-Area-Event-35-Secrets-of-the-Jungle-Raid-Tie-in)
 - [Index 055](Index%20055) - [Wild Area Event #34](#Wild-Area-Event-34-February-2021)
+- [Index 056](Index%20056) - [Wild Area Event #36](#Wild-Area-Event-36-The-Return-of-Gigantamax-Milcery)
+- [Index 057](Index%20057) - [Wild Area Event #34](#Wild-Area-Event-34-February-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -299,3 +301,10 @@ It features Pokémon that appears in the movie, and also give players a chance t
 Besides that, there are also specific rewards for the amount of times Max Raid Battles against Cramorant were won:
 500,000 battles won: players receive a Flame Orb, Toxic Orb, and Light Ball
 1,000,000 battles won: players receive a Gold Bottle Cap, 3 Bottle Caps, and 3 Pearl Strings. 
+
+## [Wild Area Event #36: The Return of Gigantamax Milcery](https://projectpokemon.org/home/files/file/4424-wild-area-event-36-the-return-of-gigantamax-milcery/)
+This is a Wild Area event held by Sword and Shield. All slots of this event hosts Milcery with the Gigantamax Factor.
+At time of writing, there is no other way to obtain Ribbon and Star sweets in-game, without Mystery Gift or Max Raid updates.
+Thus this max raid update is one of the only times players can obtain those items.
+
+This event also has an increased chance of landing a Shiny Milcery; players have a 2% chance of landing on a guaranteed Shiny, only at the 5 star tier. 
