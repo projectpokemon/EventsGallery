@@ -310,7 +310,7 @@ Thus this max raid update is one of the only times players can obtain those item
 
 This event also has an increased chance of landing a Shiny Milcery; players have a 2% chance of landing on a guaranteed Shiny, only at the 5 star tier. 
 
-## [Wild Area Event #37: Pokemon Day 2021 Gigantamax Pikachu] (https://projectpokemon.org/home/files/file/4428-wild-area-event-37-pok%C3%A9mon-day-2021-gigantamax-pikachu/)
+## [Wild Area Event #37: Pokemon Day 2021 Gigantamax Pikachu](https://projectpokemon.org/home/files/file/4428-wild-area-event-37-pok%C3%A9mon-day-2021-gigantamax-pikachu/)
 This is a Wild Area event held by Sword and Shield. This Max Raid event was distributed to players to commemorate the Pokémon Day 2021.
 This Max Raid event adds Gigantamax Pikachu as a possible encounter into the previous Max Raid encounters.
 This event also has an increased chance of landing a Shiny Gigantamax Pikachu; players have a 2% chance of landing on a guaranteed Shiny, only at the 5 star tier. 
