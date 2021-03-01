@@ -57,7 +57,8 @@
 - [Index 055](Index%20055) - [Wild Area Event #34](#Wild-Area-Event-34-February-2021)
 - [Index 056](Index%20056) - [Wild Area Event #36](#Wild-Area-Event-36-The-Return-of-Gigantamax-Milcery)
 - [Index 057](Index%20057) - [Wild Area Event #34](#Wild-Area-Event-34-February-2021)
-- [Index 058](Index%20058) - [Wild Area Event #37](#Wild-Area-Event-34-Pokemon-Day-2021-Gigantamax-Pikachu)
+- [Index 058](Index%20058) - [Wild Area Event #37](#Wild-Area-Event-37-Pokemon-Day-2021-Gigantamax-Pikachu)
+- [Index 059](Index%20059) - [Wild Area Event #38](#Wild-Area-Event-38-March-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -314,3 +315,6 @@ This event also has an increased chance of landing a Shiny Milcery; players have
 This is a Wild Area event held by Sword and Shield. This Max Raid event was distributed to players to commemorate the Pokémon Day 2021.
 This Max Raid event adds Gigantamax Pikachu as a possible encounter into the previous Max Raid encounters.
 This event also has an increased chance of landing a Shiny Gigantamax Pikachu; players have a 2% chance of landing on a guaranteed Shiny, only at the 5 star tier. 
+
+## [Wild Area Event #38: March 2021](https://projectpokemon.org/home/files/file/4430-wild-area-event-38-march-2021/)
+This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax Hatterene and Gigantamax Corviknight.
