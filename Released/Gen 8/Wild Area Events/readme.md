@@ -59,6 +59,7 @@
 - [Index 057](Index%20057) - [Wild Area Event #34](#Wild-Area-Event-34-February-2021)
 - [Index 058](Index%20058) - [Wild Area Event #37](#Wild-Area-Event-37-Pokemon-Day-2021-Gigantamax-Pikachu)
 - [Index 059](Index%20059) - [Wild Area Event #38](#Wild-Area-Event-38-March-2021)
+- [Index 060](Index%20060) - [Wild Area Event #39](#Wild-Area-Event-39-Flower-Event)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -318,3 +319,6 @@ This event also has an increased chance of landing a Shiny Gigantamax Pikachu; p
 
 ## [Wild Area Event #38: March 2021](https://projectpokemon.org/home/files/file/4430-wild-area-event-38-march-2021/)
 This is a Wild Area event held by Sword and Shield. This event hosts Gigantamax Hatterene and Gigantamax Corviknight.
+
+## [Wild Area Event #39: Flower Event](https://projectpokemon.org/home/files/file/4440-wild-area-event-39-flower-event/)
+This is a Wild Area event held by Sword and Shield. This event give players a chance to encounter a shiny Lilligant. 
