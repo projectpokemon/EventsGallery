@@ -60,6 +60,7 @@
 - [Index 058](Index%20058) - [Wild Area Event #37](#Wild-Area-Event-37-Pokemon-Day-2021-Gigantamax-Pikachu)
 - [Index 059](Index%20059) - [Wild Area Event #38](#Wild-Area-Event-38-March-2021)
 - [Index 060](Index%20060) - [Wild Area Event #39](#Wild-Area-Event-39-Flower-Event)
+- [Index 061](Index%20061) - [Wild Area Event #38](#Wild-Area-Event-38-March-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
