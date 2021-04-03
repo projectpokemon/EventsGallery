@@ -62,6 +62,7 @@
 - [Index 060](Index%20060) - [Wild Area Event #39](#Wild-Area-Event-39-Flower-Event)
 - [Index 061](Index%20061) - [Wild Area Event #38](#Wild-Area-Event-38-March-2021)
 - [Index 062](Index%20062) - [Wild Area Event #40](#Wild-Area-Event-40-April-Fools-2021)
+- [Index 063](Index%20063) - [Wild Area Event #41](#Wild-Area-Event-41-April-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -327,3 +328,7 @@ This is a Wild Area event held by Sword and Shield. This event give players a ch
 
 ## [Wild Area Event #40: April Fools 2021](https://projectpokemon.org/home/files/file/4445-wild-area-event-40-april-fools-2021/)
 This is a Wild Area event held by Sword and Shield. This event only contains a non-catchable Magikarp. 
+
+## [Wild Area Event #41: April 2021](https://projectpokemon.org/home/files/file/4446-wild-area-event-41-april-2021/)
+ This is a Wild Area event held by Sword and Shield. It appears this event hosts a bunch of rabbit Pokémon, probably to celebrate Easter.
+This event gives players a chance to encounter a guaranteed shiny Azumarill. This event also hosts an uncatchable Gigantamax Cinderace. 
