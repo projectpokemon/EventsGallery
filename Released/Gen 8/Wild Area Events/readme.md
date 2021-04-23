@@ -64,6 +64,7 @@
 - [Index 062](Index%20062) - [Wild Area Event #40](#Wild-Area-Event-40-April-Fools-2021)
 - [Index 063](Index%20063) - [Wild Area Event #41](#Wild-Area-Event-41-Easter-2021)
 - [Index 064](Index%20064) - [Wild Area Event #42](#Wild-Area-Event-42-April-2021)
+- [Index 065](Index%20065) - [Wild Area Event #43](#Wild-Area-Event-43-World-Penguin-Day-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -336,3 +337,7 @@ This event gives players a chance to encounter a guaranteed shiny Azumarill. Thi
 
 ## [Wild Area Event #42: April 2021](https://projectpokemon.org/home/files/file/4450-wild-area-event-42-april-2021/)
 This is a Wild Area event held by Sword and Shield. This event does not appear to host any Gigantamaxes. 
+
+## [Wild Area Event #43: World Penguin Day 2021](https://projectpokemon.org/home/files/file/4464-wild-area-event-43-world-penguin-day-2021/)
+This is a Wild Area event held by Sword and Shield. This event gives players a chance to land on a slot with a guaranteed shiny Eiscue, 2% chance at 5 star raids.
+Every slot gives players an encounter with Eiscue, to commemorate the World Penguin Day.
