@@ -338,7 +338,7 @@ This is a Wild Area event held by Sword and Shield. This event only contains a n
 This is a Wild Area event held by Sword and Shield. It appears this event hosts a bunch of rabbit Pokémon, probably to celebrate Easter.
 This event gives players a chance to encounter a guaranteed shiny Azumarill. This event also hosts an uncatchable Gigantamax Cinderace. 
 
-## [Wild Area Event #42: April 2021](https://projectpokemon.org/home/files/file/4450-wild-area-event-42-april-2021/)
+## [Wild Area Event #42: April & May 2021](https://projectpokemon.org/home/files/file/4450-wild-area-event-42-april-2021/)
 This is a Wild Area event held by Sword and Shield. This event does not appear to host any Gigantamaxes. 
 
 ## [Wild Area Event #43: World Penguin Day 2021](https://projectpokemon.org/home/files/file/4464-wild-area-event-43-world-penguin-day-2021/)
