@@ -68,6 +68,7 @@
 - [Index 066](Index%20066) - [Wild Area Event #42](#Wild-Area-Event-42-April--May-2021)
 - [Index 067](Index%20067) - [Wild Area Event #44](#Wild-Area-Event-44-Golden-Week-Meowth)
 - [Index 068](Index%20068) - [Wild Area Event #42](#Wild-Area-Event-42-April--May-2021)
+- [Index 069](Index%20068) - [Wild Area Event #45](#Wild-Area-Event-45-Wooloo-Event)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -346,4 +347,7 @@ This is a Wild Area event held by Sword and Shield. This event gives players a c
 Every slot gives players an encounter with Eiscue, to commemorate the World Penguin Day.
 
 ## [Wild Area Event #44: Golden Week Meowth](https://projectpokemon.org/home/files/file/4476-wild-area-event-44-golden-week-meowth-2021/)
-This is a Wild Area event held by Sword and Shield. With this event, you get a chance to encounter Gigantamax Meowth; and with 5-stars raids, you get a chance to land on a 2% guaranteed Shiny Galar Meowth slot. You also get to encounter the various different forms of Meowth. 
+This is a Wild Area event held by Sword and Shield. With this event, you get a chance to encounter Gigantamax Meowth; and with 5-stars raids, you get a chance to land on a 2% guaranteed Shiny Galar Meowth slot. You also get to encounter the various different forms of Meowth.
+
+## [Wild Area Event #45: Wooloo Event](https://projectpokemon.org/home/files/file/4489-wild-area-event-45-wooloo-event/)
+This is a Wild Area event held by Sword and Shield. This event give players a chance to encounter a shiny Wooloo from 5-star Raids. 
