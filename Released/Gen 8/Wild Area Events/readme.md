@@ -68,7 +68,7 @@
 - [Index 066](Index%20066) - [Wild Area Event #42](#Wild-Area-Event-42-April--May-2021)
 - [Index 067](Index%20067) - [Wild Area Event #44](#Wild-Area-Event-44-Golden-Week-Meowth)
 - [Index 068](Index%20068) - [Wild Area Event #42](#Wild-Area-Event-42-April--May-2021)
-- [Index 069](Index%20068) - [Wild Area Event #45](#Wild-Area-Event-45-Wooloo-Event)
+- [Index 069](Index%20069) - [Wild Area Event #45](#Wild-Area-Event-45-Wooloo-Event)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
