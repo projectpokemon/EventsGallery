@@ -70,6 +70,7 @@
 - [Index 068](Index%20068) - [Wild Area Event #42](#Wild-Area-Event-42-April--May-2021)
 - [Index 069](Index%20069) - [Wild Area Event #45](#Wild-Area-Event-45-Wooloo-Event)
 - [Index 070](Index%20070) - [Wild Area Event #42](#Wild-Area-Event-42-April--May-2021)
+- [Index 071](Index%20071) - [Wild Area Event #46](#Wild-Area-Event-Froggy-Pokemon-Event)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -352,3 +353,6 @@ This is a Wild Area event held by Sword and Shield. With this event, you get a c
 
 ## [Wild Area Event #45: Wooloo Event](https://projectpokemon.org/home/files/file/4489-wild-area-event-45-wooloo-event/)
 This is a Wild Area event held by Sword and Shield. This event give players a chance to encounter a shiny Wooloo from 5-star Raids. 
+
+## [Wild Area Event #46: Froggy Pokemon Event] (https://projectpokemon.org/home/files/file/4494-wild-area-event-46-rainy-season-with-froggy/)
+ This is a Wild Area event held by Sword and Shield. With this event, you get a chance to encounter Giganantamax Venusaur; and with 5-stars raids, you get a chance to land on a 2% guaranteed Shiny Politoed slot. The theme of this raid focuses on frogs. 
