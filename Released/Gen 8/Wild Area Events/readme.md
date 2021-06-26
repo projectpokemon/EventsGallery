@@ -72,6 +72,7 @@
 - [Index 070](Index%20070) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 071](Index%20071) - [Wild Area Event #46](#Wild-Area-Event-46-Froggy-Pokemon-Event)
 - [Index 072](Index%20072) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 073](Index%20072) - [Wild Area Event #47](#Wild-Area-Event-47-Tentacle-Pokemon)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -342,8 +343,10 @@ This is a Wild Area event held by Sword and Shield. This event only contains a n
 This is a Wild Area event held by Sword and Shield. It appears this event hosts a bunch of rabbit Pokémon, probably to celebrate Easter.
 This event gives players a chance to encounter a guaranteed shiny Azumarill. This event also hosts an uncatchable Gigantamax Cinderace. 
 
-## [Wild Area Event #42: April & May 2021](https://projectpokemon.org/home/files/file/4450-wild-area-event-42-april-2021/)
+## [Wild Area Event #42: Monthly Default (2021)](https://projectpokemon.org/home/files/file/4450-wild-area-event-42-monthly-default-2021/)
 This is a Wild Area event held by Sword and Shield. This event does not appear to host any Gigantamaxes. 
+This appears to be the default max event raids that Sword and Shield will use going forward (ignoring the monthly 1 week events).
+This "monthly default"  went into use starting April 2021. 
 
 ## [Wild Area Event #43: World Penguin Day 2021](https://projectpokemon.org/home/files/file/4464-wild-area-event-43-world-penguin-day-2021/)
 This is a Wild Area event held by Sword and Shield. This event gives players a chance to land on a slot with a guaranteed shiny Eiscue, 2% chance at 5 star raids.
@@ -356,10 +359,7 @@ This is a Wild Area event held by Sword and Shield. With this event, you get a c
 This is a Wild Area event held by Sword and Shield. This event give players a chance to encounter a shiny Wooloo from 5-star Raids. 
 
 ## [Wild Area Event #46: Froggy Pokemon Event](https://projectpokemon.org/home/files/file/4494-wild-area-event-46-rainy-season-with-froggy/)
- This is a Wild Area event held by Sword and Shield. With this event, you get a chance to encounter Giganantamax Venusaur; and with 5-stars raids, you get a chance to land on a 2% guaranteed Shiny Politoed slot. The theme of this raid focuses on frogs. 
-
-## [Wild Area Event #42: Monthly Default (2021)](https://projectpokemon.org/home/files/file/4450-wild-area-event-42-monthly-default-2021/)
-This is a Wild Area event held by Sword and Shield. This event does not appear to host any Gigantamaxes. 
-
-This appears to be the default max event raids that Sword and Shield will use going forward (ignoring the monthly 1 week events).
-This "monthly default"  went into use starting April 2021. 
+This is a Wild Area event held by Sword and Shield. With this event, you get a chance to encounter Giganantamax Venusaur; and with 5-stars raids, you get a chance to land on a 2% guaranteed Shiny Politoed slot. The theme of this raid focuses on frogs. 
+ 
+## [Wild Area Event #47: Tentacle Pokemon](https://projectpokemon.org/home/files/file/4507-wild-area-event-47-tentacle-pokemon/)
+This is a Wild Area event held by Sword and Shield. This event give players a chance to encounter a shiny Grapploct from 5-star Raids.
