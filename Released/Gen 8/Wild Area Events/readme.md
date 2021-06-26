@@ -72,6 +72,7 @@
 - [Index 070](Index%20070) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 071](Index%20071) - [Wild Area Event #46](#Wild-Area-Event-46-Froggy-Pokemon-Event)
 - [Index 072](Index%20072) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 073](Index%20073) - [Wild Area Event #47](#Wild-Area-Event-47-tentacle-pokemon)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -363,3 +364,7 @@ This is a Wild Area event held by Sword and Shield. This event does not appear t
 
 This appears to be the default max event raids that Sword and Shield will use going forward (ignoring the monthly 1 week events).
 This "monthly default"  went into use starting April 2021. 
+
+##[Wild Area Event #47: Tentacle Pokemon](https://projectpokemon.org/home/files/file/4507-wild-area-event-47-tentacle-pokemon/)
+This is a Wild Area event held by Sword and Shield.  This event does not appear to host any Gigantamaxes.
+This event give players a chance to encounter a shiny Grapploct from 5-star Raids. 
