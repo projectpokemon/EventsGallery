@@ -74,6 +74,7 @@
 - [Index 072](Index%20072) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 073](Index%20073) - [Wild Area Event #47](#Wild-Area-Event-47-Tentacle-Pokemon)
 - [Index 074](Index%20074) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 075](Index%20075) - [Wild Area Event #48](#Wild-Area-Event-48-Curry-Rank-Pokemon)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -364,3 +365,9 @@ This is a Wild Area event held by Sword and Shield. With this event, you get a c
  
 ## [Wild Area Event #47: Tentacle Pokemon](https://projectpokemon.org/home/files/file/4507-wild-area-event-47-tentacle-pokemon/)
 This is a Wild Area event held by Sword and Shield. This event give players a chance to encounter a shiny Grapploct from 5-star Raids.
+
+## [Wild Area Event #48: Curry Rank Pokemon](https://projectpokemon.org/home/files/file/4513-wild-area-event-48-curry-rank-pok%C3%A9mon/)
+This is a Wild Area event held by Sword and Shield.  This event features Pokémon that appear on the ranking of Curry made in Pokémon Camp.
+As a result, this event allows players to get Gigantamax Charizard and Gigantamax Copperajah.
+This event also has a guaranteed 2% Shiny Copperajah slot in the 5-star raids.
+This event also gives players a chance to acquire the ingredients that are normally version exclusive.
