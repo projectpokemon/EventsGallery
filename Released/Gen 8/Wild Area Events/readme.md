@@ -75,6 +75,7 @@
 - [Index 073](Index%20073) - [Wild Area Event #47](#Wild-Area-Event-47-Tentacle-Pokemon)
 - [Index 074](Index%20074) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 075](Index%20075) - [Wild Area Event #48](#Wild-Area-Event-48-Curry-Rank-Pokemon)
+- [Index 076](Index%20076) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
