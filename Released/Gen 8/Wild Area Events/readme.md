@@ -76,6 +76,7 @@
 - [Index 074](Index%20074) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 075](Index%20075) - [Wild Area Event #48](#Wild-Area-Event-48-Curry-Rank-Pokemon)
 - [Index 076](Index%20076) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 077](Index%20077) - [Wild Area Event #49](#Wild-Area-Event-49-Kanto-Fossil-Pokemon)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -372,3 +373,9 @@ This is a Wild Area event held by Sword and Shield.  This event features Pokémo
 As a result, this event allows players to get Gigantamax Charizard and Gigantamax Copperajah.
 This event also has a guaranteed 2% Shiny Copperajah slot in the 5-star raids.
 This event also gives players a chance to acquire the ingredients that are normally version exclusive.
+
+## [Wild Area Event #49: Kanto Fossil Pokemon](https://projectpokemon.org/home/files/file/4519-wild-area-event-49-kanto-fossil-pok%C3%A9mon/)
+This is a Wild Area event held by Sword and Shield.  This event features Fossil Pokémon from Kanto.
+This event also has a guaranteed 2% Shiny Omanyte slot in the 5-star raids.
+
+
