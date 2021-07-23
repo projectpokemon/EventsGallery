@@ -374,7 +374,7 @@ As a result, this event allows players to get Gigantamax Charizard and Gigantama
 This event also has a guaranteed 2% Shiny Copperajah slot in the 5-star raids.
 This event also gives players a chance to acquire the ingredients that are normally version exclusive.
 
-## [Wild Area Event #48: Kanto Fossil Pokemon](https://projectpokemon.org/home/files/file/4519-wild-area-event-49-kanto-fossil-pok%C3%A9mon/)
+## [Wild Area Event #49: Kanto Fossil Pokemon](https://projectpokemon.org/home/files/file/4519-wild-area-event-49-kanto-fossil-pok%C3%A9mon/)
 This is a Wild Area event held by Sword and Shield.  This event features Fossil Pokémon from Kanto.
 This event also has a guaranteed 2% Shiny Omanyte slot in the 5-star raids.
 
