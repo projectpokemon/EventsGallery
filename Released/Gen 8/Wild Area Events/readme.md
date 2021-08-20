@@ -80,6 +80,7 @@
 - [Index 078](Index%20078) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 079](Index%20079) - [Wild Area Event #50](#Wild-Area-Event-50-Summer-2021)
 - [Index 080](Index%20080) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 081](Index%20081) - [Wild Area Event #51](#Wild-Area-Event-51-Summer-Ghost-Event-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -384,3 +385,7 @@ This event also has a guaranteed 2% Shiny Omanyte slot in the 5-star raids.
 ## [Wild Area Event #50: Summer 2021](https://projectpokemon.org/home/files/file/4523-wild-area-event-50-summer-2021/)
 This is a Wild Area event held by Sword and Shield. This event is themed around Summer, such as catching bugs, eating snowcones, using a fan to cool off, bunch of Cicadas everywhere, and catching goldfish at a Summer Festival.
 This event also has a guaranteed 2% Shiny Vanilluxe slot in the 5-star raids. 
+
+## [Wild Area Event #51: Summer Ghost Event 2021](https://projectpokemon.org/home/files/file/4526-wild-area-event-51-summer-ghost-event-2021/)
+This is a Wild Area event held by Sword and Shield. This event hosts Ghost Pokemon, with a chance of encountering a Gigantamax Gengar and a Shiny Chandelure in 5-star raids.
+This event created a precedent, as only "normal_encount", "normal_encount_rigel2" and "normal_encount_rigel3" files were actually updated to Index 81, whereas "dai_encount", "bonus_rewards" and "drop_rewards" remained unchanged at the old Index 80.
