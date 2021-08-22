@@ -1,0 +1,5 @@
+JPN:
+100 Default Female Skin BW was prefixed 00
+101 Default Male Skin BW was prefixed ff
+003 Starter Pals Female Skin BW was prefixed 01
+004 Starter Pals Male Skin BW was prefixed 02

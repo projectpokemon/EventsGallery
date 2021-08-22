@@ -1,0 +1,4 @@
+JPN:
+003 Munna BW was prefixed 001
+004 Pikachu BW was prefixed 002 
+100 Default BW was prefixed 000
