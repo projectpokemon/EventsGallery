@@ -390,3 +390,7 @@ This event also has a guaranteed 2% Shiny Vanilluxe slot in the 5-star raids.
 ## [Wild Area Event #51: Summer Ghost Event 2021](https://projectpokemon.org/home/files/file/4526-wild-area-event-51-summer-ghost-event-2021/)
 This is a Wild Area event held by Sword and Shield. This event hosts Ghost Pokemon, with a chance of encountering a Gigantamax Gengar and a Shiny Chandelure in 5-star raids.
 This event created a precedent, as only "normal_encount", "normal_encount_rigel2" and "normal_encount_rigel3" files were actually updated to Index 81, whereas "dai_encount", "bonus_rewards" and "drop_rewards" remained unchanged at the old Index 80.
+
+## [Wild Area Event #52: Cleaning Event 2021](https://projectpokemon.org/home/files/file/4537-wild-area-event-52-cleaning-event-2021/)
+This is a Wild Area event held by Sword and Shield. This event gives players a chance to find a Shiny Cinccino in 5-star raids.
+Only the files "normal_encount", "normal_encount_rigel2" and "normal_encount_rigel3" were actually updated to Index 83. 
