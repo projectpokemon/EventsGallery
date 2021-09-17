@@ -84,6 +84,7 @@
 - [Index 082](Index%20082) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 083](Index%20083) - [Wild Area Event #52](#Wild-Area-Event-52-Cleaning-Event-2021)
 - [Index 084](Index%20084) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 085](Index%20085) - [Wild Area Event #53](#Wild-Area-Event-53-Meteorite-Event-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -396,3 +397,7 @@ This event created a precedent, as only "normal_encount", "normal_encount_rigel2
 ## [Wild Area Event #52: Cleaning Event 2021](https://projectpokemon.org/home/files/file/4537-wild-area-event-52-cleaning-event-2021/)
 This is a Wild Area event held by Sword and Shield. This event gives players a chance to find a Shiny Cinccino in 5-star raids.
 Only the files "normal_encount", "normal_encount_rigel2" and "normal_encount_rigel3" were actually updated to Index 83. 
+
+## [Wild Area Event #53: Meteorite Event 2021](https://projectpokemon.org/home/files/file/4561-wild-area-event-53-meteorite-event-2021/)
+This is a Wild Area event held by Sword and Shield. This event gives players a chance 2% to find a guaranteed Shiny Solrock or Shiny Lunatone in 5-star raids.
+Only the files normal_encount, normal_encount_rigel1, normal_encount_rigel2 ,and dai_encount were updated to Index 85. 
