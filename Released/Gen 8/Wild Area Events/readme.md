@@ -88,6 +88,7 @@
 - [Index 086](Index%20086) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 087](Index%20087) - [Wild Area Event #54](#Wild-Area-Event-54-Alolan-Starters)
 - [Index 088](Index%20088) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 089](Index%20089) - [Wild Area Event #55](#Wild-Area-Event-55-Halloween-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -410,3 +411,6 @@ This is a Wild Area event held by Sword and Shield. This event gives players a c
 An interesting note, is you could try to catch them with other types of Poké Balls, which couldn't be done previously.
 Only the files normal_encount, normal_encount_rigel1, normal_encount_rigel2, and dai_encount were updated to Index 87. 
 
+## [Wild Area Event #55: Halloween 2021](https://projectpokemon.org/home/files/file/4614-wild-area-event-55-halloween-2021/)
+This is a Wild Area event held by Sword and Shield. This event gives players a chance 2% to find a guaranteed Shiny Zoroark in 5-star raids.
+Only the files normal_encount, normal_encount_rigel1, normal_encount_rigel2, were updated to Index 89. 
