@@ -88,7 +88,7 @@
 - [Index 086](Index%20086) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 087](Index%20087) - [Wild Area Event #54](#Wild-Area-Event-54-Alolan-Starters)
 - [Index 088](Index%20088) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
-- [Index 089](Index%20089) - [Wild Area Event #55](#Wild-Area-Event-54-Halloween-2021)
+- [Index 089](Index%20089) - [Wild Area Event #55](#Wild-Area-Event-55-Halloween-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
