@@ -92,6 +92,7 @@
 - [Index 090](Index%20090) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 091](Index%20091) - [Wild Area Event #56](#Wild-Area-Event-56-Eevee-and-Friends)
 - [Index 092](Index%20092) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 093](Index%20093) - [Wild Area Event #57](#Wild-Area-Event-57-Holiday-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -421,3 +422,7 @@ Only the files normal_encount, normal_encount_rigel1, normal_encount_rigel2, wer
 ## [Wild Area Event #56: Eevee and Friends](https://projectpokemon.org/home/files/file/4637-wild-area-event-56-eevee-and-friends/)
 This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Eevee and a 5% chance to find a Gigantamax Eevee in 5-star raids.
 Only the files normal_encount, normal_encount_rigel1, normal_encount_rigel2, were updated to Index 91. 
+
+## [Wild Area Event #57: Holiday 2021](https://projectpokemon.org/home/files/file/4673-wild-area-event-57-holiday-2021/)
+This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Delibird in 5-star raids.
+Only the files normal_encount, normal_encount_rigel1, normal_encount_rigel2, were updated to Index 93. 
