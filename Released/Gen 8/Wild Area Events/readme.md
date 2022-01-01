@@ -94,6 +94,7 @@
 - [Index 092](Index%20092) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 093](Index%20093) - [Wild Area Event #57](#Wild-Area-Event-57-Holiday-2021)
 - [Index 094](Index%20094) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 095](Index%20095) - [Wild Area Event #58](#Wild-Area-Event-58-New-Year-2022)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -427,3 +428,6 @@ Only the files normal_encount, normal_encount_rigel1, normal_encount_rigel2, wer
 ## [Wild Area Event #57: Holiday 2021](https://projectpokemon.org/home/files/file/4673-wild-area-event-57-holiday-2021/)
 This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Delibird in 5-star raids.
 Only the files normal_encount, normal_encount_rigel1, normal_encount_rigel2, were updated to Index 93. 
+
+## [Wild Area Event #58: New Year 2022](https://projectpokemon.org/home/files/file/4683-wild-area-event-58-new-year-2022/)
+This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Magikarp in 5-star raids, along with Unova Darmanitan and Kantonian Meowth. 
