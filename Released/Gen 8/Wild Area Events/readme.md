@@ -97,6 +97,7 @@
 - [Index 095](Index%20095) - [Wild Area Event #58](#Wild-Area-Event-58-New-Year-2022)
 - [Index 096](Index%20096) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 097](Index%20097) - [Wild Area Event #59](#Wild-Area-Event-59-Milcery-Event-2022)
+- [Index 098](Index%20098) - [Wild Area Event #60](#Wild-Area-Event-60-Pokemon-Day-2022)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -436,3 +437,6 @@ This is a Wild Area event held by Sword and Shield. This event gives players a 2
 
 ## [Wild Area Event #59: Milcery Event 2022](https://projectpokemon.org/home/files/file/4707-wild-area-event-59-milcery-event-2022/)
 This is a Wild Area event held by Sword and Shield. This event raid allows players to get a Milcery with the Gigantamax factor as well as a 2% chance in 5-star raids for a Shiny Milcery with Gigantamax factor. 
+
+## [Wild Area Event #60: Pokemon Day 2022](https://projectpokemon.org/home/files/file/4713-wild-area-event-60-pokemon-day-2022/)
+This is a Wild Area event held by Sword and Shield. This event raid allows players to get Venusaur, Blastoise and Charizard with the Gigantamax factor.  
