@@ -12,6 +12,10 @@ The collective effort of the Project Pokémon (and other) communities to preserv
 1. Find the specific wondercard or Pokémon file.
 1. Drag/drop the file onto PKHeX in the spot where you want that Pokémon.
 
+### • Converting WC4 back to PCD
+1. Import/Export with PKHex
+2. Use the [PCDWC4 Converter](https://github.com/projectpokemon/PCDWC4Converter/releases/latest)
+
 ### How do I get Gen 8 Wondercards if they are not on the save file?
 Pokemon LGPE and Sword/Shield use a system called BCAT. BCAT data is synchronized when your game goes online.
 Use [JKSV](https://github.com/J-D-K/JKSV) to export the BCAT files. BCAT includes wondercards, wild area news, tournament rules, etc.
