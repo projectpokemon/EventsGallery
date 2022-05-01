@@ -12,7 +12,7 @@ The collective effort of the Project Pokémon (and other) communities to preserv
 1. Find the specific wondercard or Pokémon file.
 1. Drag/drop the file onto PKHeX in the spot where you want that Pokémon.
 
-### • Converting WC4 back to PCD
+#### • Converting WC4 back to PCD
 1. Import/Export with PKHex
 2. Use the [PCDWC4 Converter](https://github.com/projectpokemon/PCDWC4Converter/releases/latest)
 
