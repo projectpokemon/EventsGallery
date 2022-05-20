@@ -103,6 +103,7 @@
 - [Index 101](Index%20101) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 102](Index%20102) - [Wild Area Event #62](#Wild-Area-Event-62-Sudowoodo-Event-2022)
 - [Index 103](Index%20103) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 104](Index%20104) - [Wild Area Event #63](#Wild-Area-Event-63-Shellder-Event-2022)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -450,4 +451,7 @@ This is a Wild Area event held by Sword and Shield. This event raid allows playe
 This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Tyrantrum in 5-star raids. 
 
 ## [Wild Area Event #62: Sudowoodo Event 2022](https://projectpokemon.org/home/files/file/4742-wild-area-event-62-sudowoodo-event-2022/)
+This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Sudowoodo in 5-star raids. 
+
+## [Wild Area Event #63: Shellder Event 2022](https://projectpokemon.org/home/files/file/4755-wild-area-event-63-shellder-event-2022/)
 This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Sudowoodo in 5-star raids. 
