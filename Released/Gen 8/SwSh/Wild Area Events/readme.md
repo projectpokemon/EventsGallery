@@ -107,6 +107,7 @@
 - [Index 105](Index%20105) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 - [Index 106](Index%20106) - [Wild Area Event #64](#Wild-Area-Event-64-Urshifu-Challenge)
 - [Index 107](Index%20107) - [Wild Area Event #64](#Wild-Area-Event-64-Urshifu-Challenge)
+- [Index 108](Index%20108) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
