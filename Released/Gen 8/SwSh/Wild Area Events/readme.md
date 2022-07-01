@@ -108,6 +108,7 @@
 - [Index 106](Index%20106) - [Wild Area Event #64](#Wild-Area-Event-64-Urshifu-Challenge)
 - [Index 107](Index%20107) - [Wild Area Event #64](#Wild-Area-Event-64-Urshifu-Challenge)
 - [Index 108](Index%20108) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default-2021)
+- [Index 109](Index%20109) - [Wild Area Event #65](#Wild-Area-Event-42-Water-Event-2022)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -458,7 +459,7 @@ This is a Wild Area event held by Sword and Shield. This event gives players a 2
 This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Sudowoodo in 5-star raids. 
 
 ## [Wild Area Event #63: Shellder Event 2022](https://projectpokemon.org/home/files/file/4755-wild-area-event-63-shellder-event-2022/)
-This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Sudowoodo in 5-star raids.
+This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Shellder in 5-star raids.
 
 ## [Wild Area Event #64: Urshifu Challenge](https://projectpokemon.org/home/files/file/4777-wild-area-event-64-urshifu-challenge/)
  This is a Wild Area event held by Sword and Shield.
@@ -466,3 +467,6 @@ This is a Wild Area event held by Sword and Shield. This event gives players a 2
 This event allows Urshifu to spawn as event boss in 5-star raids, though important to note that it cannot be caught.
 Index 106 also mistakenly features the shiny Urshifu. Index 107 was updated to solve the error.
 Defeating Urshifu gives the player rare items not usually available in raids, such as Max Mushrooms, Max Honey, Apricorns, Choice Band. 
+
+## [Wild Area Event #65: Water Event 2022](https://projectpokemon.org/home/files/file/4788-wild-area-event-65-water-event-2022/)
+This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Marill in 5-star raids.
