@@ -473,5 +473,5 @@ Defeating Urshifu gives the player rare items not usually available in raids, su
 ## [Wild Area Event #65: Water Event 2022](https://projectpokemon.org/home/files/file/4788-wild-area-event-65-water-event-2022/)
 This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Marill in 5-star raids.
 
-## [Wild Area Event #66: Water Event 2022](https://projectpokemon.org/home/files/file/4797-wild-area-event-66-grimmsnarl-event-2022/)
+## [Wild Area Event #66: Grimmsnarl Event 2022](https://projectpokemon.org/home/files/file/4797-wild-area-event-66-grimmsnarl-event-2022/)
 This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Grimmsnarl in 5-star raids.
