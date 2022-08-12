@@ -110,6 +110,7 @@
 - [Index 108](Index%20108) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default)
 - [Index 109](Index%20109) - [Wild Area Event #65](#Wild-Area-Event-65-Water-Event-2022)
 - [Index 110](Index%20110) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default)
+- [Index 111](Index%20111) - [Wild Area Event #66](#Wild-Area-Event-66-Grimmsnarl-Event-2022)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -471,3 +472,6 @@ Defeating Urshifu gives the player rare items not usually available in raids, su
 
 ## [Wild Area Event #65: Water Event 2022](https://projectpokemon.org/home/files/file/4788-wild-area-event-65-water-event-2022/)
 This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Marill in 5-star raids.
+
+## [Wild Area Event #66: Grimmsnarl Event 2022](https://projectpokemon.org/home/files/file/4797-wild-area-event-66-grimmsnarl-event-2022/)
+This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Grimmsnarl in 5-star raids.
