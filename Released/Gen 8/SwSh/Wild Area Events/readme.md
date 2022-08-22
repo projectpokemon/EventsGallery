@@ -111,6 +111,7 @@
 - [Index 109](Index%20109) - [Wild Area Event #65](#Wild-Area-Event-65-Water-Event-2022)
 - [Index 110](Index%20110) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default)
 - [Index 111](Index%20111) - [Wild Area Event #66](#Wild-Area-Event-66-Grimmsnarl-Event-2022)
+- [Index 112](Index%20112) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
