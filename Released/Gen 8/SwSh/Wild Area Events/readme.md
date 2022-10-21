@@ -114,6 +114,7 @@
 - [Index 112](Index%20112) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default)
 - [Index 113](Index%20113) - [Wild Area Event #67](#Wild-Area-Event-67-Small-Pokemon-Event-2022)
 - [Index 114](Index%20114) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default)
+- [Index 115](Index%20115) - [Wild Area Event #68](#Wild-Area-Event-68-Crown-Tundra-Legends-Event)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -481,3 +482,6 @@ This is a Wild Area event held by Sword and Shield. This event gives players a 2
 
 ## [Wild Area Event #67: Small Pokemon Event 2022](https://projectpokemon.org/home/files/file/4816-wild-area-event-67-small-pokemon-event-2022/)
 This is a Wild Area event held by Sword and Shield. This event gives players a 2% chance to find a guaranteed Shiny Snom in 5-star raids.
+
+## [Wild Area Event #68: Crown Tundra Legends Event](https://projectpokemon.org/home/files/file/4824-wild-area-event-68-crown-tundra-legends-event/)
+This is a Wild Area event held by Sword and Shield. This event allows Glastrier and Spectrier to spawn as event boss in 5-star raids, though important to note that it cannot be caught.
