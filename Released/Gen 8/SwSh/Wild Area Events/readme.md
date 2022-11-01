@@ -116,6 +116,7 @@
 - [Index 114](Index%20114) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default)
 - [Index 115](Index%20115) - [Wild Area Event #68](#Wild-Area-Event-68-Crown-Tundra-Legends-Event)
 - [Index 116](Index%20114) - [Wild Area Event #42](#Wild-Area-Event-42-monthly-default)
+- [Index 117](Index%20117) - [Wild Area Event #69](#Wild-Area-Event-69-Finale)
 
 ## Instructions
 To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) should guide you through it.
@@ -486,3 +487,7 @@ This is a Wild Area event held by Sword and Shield. This event gives players a 2
 
 ## [Wild Area Event #68: Crown Tundra Legends Event](https://projectpokemon.org/home/files/file/4824-wild-area-event-68-crown-tundra-legends-event/)
 This is a Wild Area event held by Sword and Shield. This event allows Glastrier and Spectrier to spawn as event boss in 5-star raids, though important to note that it cannot be caught.
+
+## [Wild Area Event #68: Crown Tundra Legends Event](https://projectpokemon.org/home/files/file/4828-wild-area-event-69-finale/)
+This event allows many Gigantamax Pokémon to spawn as event boss in 5-star raids.
+This event was available from November 1st until the end of online services for Pokémon Sword and Pokémon Shield. 
