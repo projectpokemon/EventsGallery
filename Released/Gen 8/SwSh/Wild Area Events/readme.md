@@ -488,6 +488,6 @@ This is a Wild Area event held by Sword and Shield. This event gives players a 2
 ## [Wild Area Event #68: Crown Tundra Legends Event](https://projectpokemon.org/home/files/file/4824-wild-area-event-68-crown-tundra-legends-event/)
 This is a Wild Area event held by Sword and Shield. This event allows Glastrier and Spectrier to spawn as event boss in 5-star raids, though important to note that it cannot be caught.
 
-## [Wild Area Event #68: Crown Tundra Legends Event](https://projectpokemon.org/home/files/file/4828-wild-area-event-69-finale/)
+## [Wild Area Event #69: Finale](https://projectpokemon.org/home/files/file/4828-wild-area-event-69-finale/)
 This event allows many Gigantamax Pokémon to spawn as event boss in 5-star raids.
 This event was available from November 1st until the end of online services for Pokémon Sword and Pokémon Shield. 
