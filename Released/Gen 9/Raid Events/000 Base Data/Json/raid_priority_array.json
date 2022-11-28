@@ -1,0 +1,19 @@
+{
+  "Table": [
+    {
+      "VersionNo": 0,
+      "DeliveryGroupID": {
+        "GroupID01": 0,
+        "GroupID02": 0,
+        "GroupID03": 0,
+        "GroupID04": 0,
+        "GroupID05": 0,
+        "GroupID06": 0,
+        "GroupID07": 0,
+        "GroupID08": 0,
+        "GroupID09": 0,
+        "GroupID10": 0
+      }
+    }
+  ]
+}
