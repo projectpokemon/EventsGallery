@@ -14,8 +14,8 @@ The collective effort of the Project Pokémon (and other) communities to preserv
 
 #### • In-game Mystery Gift redemption
 * For Gen 3 events, use either the [WC3 Plugin](https://projectpokemon.org/home/files/file/4161-pkhex-plugin-wc3-plugin/) or the [Mystery Gift Tool](https://projectpokemon.org/home/forums/topic/39184-gen-iii-mystery-gift-tool-nintendo-events-wondercards-e-trainer-cards-and-e-berry-editor-and-more/)
-* For Gen 4, 5, 6 and 7 (3DS) events, use the [PKHeX Mystery Gift feature](https://projectpokemon.org/home/tutorials/save-editing/using-pkhex/importing-wondercards-r29/).
-* For Gen 7 (Switch), 8 and 9 events, use the [Switch Gift Data Manager](https://projectpokemon.org/home/forums/topic/62491-switch-gift-data-manager-import-wondercards-into-switch-games-by-faking-bcat-packages/).
+* For Gen 4, 5, 6 and 7 (3DS) events, use the [PKHeX Mystery Gift feature](https://projectpokemon.org/home/tutorials/save-editing/using-pkhex/importing-wondercards-r29/)
+* For Gen 7 (Switch), 8 and 9 events, use the [Switch Gift Data Manager](https://projectpokemon.org/home/forums/topic/62491-switch-gift-data-manager-import-wondercards-into-switch-games-by-faking-bcat-packages/)
 
 #### • Import Raid blocks with PKHeX
 1. Follow our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) to import the files into the corresponding blocks into your save file.
