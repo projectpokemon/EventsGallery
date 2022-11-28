@@ -4,7 +4,7 @@
 The collective effort of the Project Pokémon (and other) communities to preserve as much event Pokémon information as possible.
 
 ### How do I use this?
-#### • Legality with [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/) and [SysBot.NET](https://github.com/kwsch/SysBot.NET)
+#### • Legality with [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/) and [SysBot.NET](https://projectpokemon.org/home/files/file/4207-sysbotnet-automatic-build/)
 1. Download this repository.
 1. Extract the contents to a folder `mgdb` in the same folder as `PKHeX.exe` or `SysBot.exe`.
 
@@ -13,11 +13,11 @@ The collective effort of the Project Pokémon (and other) communities to preserv
 1. Drag/drop the file onto PKHeX in the spot where you want that Pokémon.
 
 #### • In-game Mystery Gift redemption
-1. For Gen 3 events, use either the [WC3 Plugin](https://projectpokemon.org/home/files/file/4161-pkhex-plugin-wc3-plugin/) or the [Mystery Gift Tool](https://projectpokemon.org/home/forums/topic/39184-gen-iii-mystery-gift-tool-nintendo-events-wondercards-e-trainer-cards-and-e-berry-editor-and-more/)
-2. For Gen 4, 5, 6 and 7 (3DS) events, use the [PKHeX Mystery Gift feature](https://projectpokemon.org/home/tutorials/save-editing/using-pkhex/importing-wondercards-r29/).
-3. For Gen 7 (Switch), 8 and 9 events, use the [Switch Gift Data Manager](https://projectpokemon.org/home/forums/topic/62491-switch-gift-data-manager-import-wondercards-into-switch-games-by-faking-bcat-packages/).
+* For Gen 3 events, use either the [WC3 Plugin](https://projectpokemon.org/home/files/file/4161-pkhex-plugin-wc3-plugin/) or the [Mystery Gift Tool](https://projectpokemon.org/home/forums/topic/39184-gen-iii-mystery-gift-tool-nintendo-events-wondercards-e-trainer-cards-and-e-berry-editor-and-more/)
+* For Gen 4, 5, 6 and 7 (3DS) events, use the [PKHeX Mystery Gift feature](https://projectpokemon.org/home/tutorials/save-editing/using-pkhex/importing-wondercards-r29/).
+* For Gen 7 (Switch), 8 and 9 events, use the [Switch Gift Data Manager](https://projectpokemon.org/home/forums/topic/62491-switch-gift-data-manager-import-wondercards-into-switch-games-by-faking-bcat-packages/).
 
-### • Import Raid blocks with PKHeX
+#### • Import Raid blocks with PKHeX
 1. Follow our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) to import the files into the corresponding blocks into your save file.
 1. Sword and Shield Raid blocks: `KDropRewards`, `KDaiEncount`, `KBonusRewards`, `KNormalEncount`, `KNormalEncountRigel1`, `KNormalEncountRigel2`. 
 1. Scarlet and Violet Raid blocks: `KBCATEventRaidIdentifier`, `KBCATFixedRewardItemArray`, `KBCATLotteryRewardItemArray`, `KBCATRaidEnemyArray`, `KBCATRaidPriorityArray`. 
