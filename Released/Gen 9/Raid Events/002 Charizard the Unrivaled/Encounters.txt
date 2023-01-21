@@ -1,0 +1,182 @@
+Event Raid Identifier: 2022120201
+7-Star Charizard
+	Tera Type: Dragon
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Modest
+	IVs: 6 Flawless
+	Shiny: Never
+		Moves:
+			- Dragon Pulse
+			- Fire Blast
+			- Hurricane
+			- Focus Blast
+		Extra Moves:
+			- Overheat
+			- Tera Blast
+			- Sunny Day
+			- Inferno
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Calcium
+			10 × Tera Shard
+			 5 × Tera Shard (Only Host)
+			 1 × TM157 Overheat (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			   10%  5 × Calcium
+			    5%  2 × Exp. Candy XL
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Modest Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5%  5 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
+4-Star Florges
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Moonblast
+			- Light Screen
+			- Petal Dance
+			- Disarming Voice
+		Extra Moves:
+			- Grassy Terrain
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Clever Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Clever Feather
+			    7%  1 × Sitrus Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Kelpsy Berry
+			   15%  1 × Big Mushroom
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Florges
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Moonblast
+			- Light Screen
+			- Disarming Voice
+			- Petal Dance
+		Extra Moves:
+			- Grassy Terrain
+			- Grass Knot
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Clever Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Clever Feather
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Balm Mushroom
+			    5%  1 × Nugget
+			    2%  1 × Careful Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+4-Star Mimikyu
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Play Rough
+			- Shadow Claw
+			- Shadow Sneak
+			- Wood Hammer
+		Extra Moves:
+			- Misty Terrain
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Clever Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Clever Feather
+			    7%  1 × Sitrus Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Kelpsy Berry
+			   15%  1 × Big Mushroom
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Mimikyu
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Play Rough
+			- Shadow Claw
+			- Shadow Sneak
+			- Wood Hammer
+		Extra Moves:
+			- Tera Blast
+			- Misty Terrain
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Clever Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Clever Feather
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Balm Mushroom
+			    5%  1 × Nugget
+			    2%  1 × Careful Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+

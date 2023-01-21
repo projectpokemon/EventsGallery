@@ -1,0 +1,247 @@
+Event Raid Identifier: 2022112501
+1-Star Eevee
+	Tera Type: Random
+	Capture Level: 12
+	Ability: 1/2
+	IVs: 1 Flawless
+		Moves:
+			- Tackle
+			- Tail Whip
+			- Sand Attack
+			- Quick Attack
+		Extra Moves:
+			None!
+		Item Drops:
+			 1 × Exp. Candy XS
+			 2 × Exp. Candy S
+			 1 × Crafting Material
+			 1 × Pretty Feather
+			 1 × Crafting Material (Only Guests)
+		Bonus Drops:
+			   20%  1 × Exp. Candy XS
+			  8,5%  1 × Exp. Candy S
+			    7%  1 × Crafting Material
+			    5%  1 × Health Feather
+			    5%  1 × Muscle Feather
+			    5%  1 × Resist Feather
+			    5%  1 × Genius Feather
+			    5%  1 × Clever Feather
+			    5%  1 × Swift Feather
+			   20%  1 × Pretty Feather
+			   12%  1 × Exp. Candy XS
+			  0,5%  1 × Water Stone
+			  0,5%  1 × Fire Stone
+			  0,5%  1 × Thunder Stone
+			  0,5%  1 × Leaf Stone
+			  0,5%  1 × Ice Stone
+
+2-Star Eevee
+	Tera Type: Random
+	Capture Level: 20
+	Ability: 1/2
+	IVs: 1 Flawless
+		Moves:
+			- Swift
+			- Baby-Doll Eyes
+			- Quick Attack
+			- Tackle
+		Extra Moves:
+			None!
+		Item Drops:
+			 4 × Exp. Candy S
+			 2 × Crafting Material
+			 1 × Pretty Feather
+			 1 × Crafting Material (Only Guests)
+		Bonus Drops:
+			   12%  1 × Exp. Candy S
+			   13%  1 × Exp. Candy M
+			    4%  1 × Oran Berry
+			    4%  1 × Pecha Berry
+			    4%  1 × Rawst Berry
+			   30%  1 × Stardust
+			 12,5%  1 × Crafting Material
+			    3%  1 × Health Feather
+			    3%  1 × Muscle Feather
+			    3%  1 × Resist Feather
+			    3%  1 × Genius Feather
+			    3%  1 × Clever Feather
+			    3%  1 × Swift Feather
+			  0,5%  1 × Water Stone
+			  0,5%  1 × Fire Stone
+			  0,5%  1 × Thunder Stone
+			  0,5%  1 × Leaf Stone
+			  0,5%  1 × Ice Stone
+
+3-Star Eevee
+	Tera Type: Random
+	Capture Level: 35
+	Ability: 1/2/H
+	IVs: 2 Flawless
+		Moves:
+			- Bite
+			- Swift
+			- Baby-Doll Eyes
+			- Quick Attack
+		Extra Moves:
+			None!
+		Item Drops:
+			 2 × Exp. Candy S
+			 2 × Exp. Candy M
+			 3 × Crafting Material
+			 1 × Pretty Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 1 × Tera Shard (Only Host)
+		Bonus Drops:
+			 13,5%  1 × Exp. Candy M
+			    8%  2 × Exp. Candy M
+			    5%  1 × Sitrus Berry
+			    5%  1 × Lum Berry
+			   30%  1 × Big Mushroom
+			 16,5%  1 × Crafting Material
+			    3%  1 × Health Feather
+			    3%  1 × Muscle Feather
+			    3%  1 × Resist Feather
+			    3%  1 × Genius Feather
+			    3%  1 × Clever Feather
+			    3%  1 × Swift Feather
+			  0,8%  1 × Water Stone
+			  0,8%  1 × Fire Stone
+			  0,8%  1 × Thunder Stone
+			  0,8%  1 × Leaf Stone
+			  0,8%  1 × Ice Stone
+
+4-Star Eevee
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Charm
+			- Calm Mind
+			- Bite
+			- Swift
+		Extra Moves:
+			- Quick Attack
+		Item Drops:
+			 3 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Pretty Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			  9,5%  1 × Exp. Candy M
+			   13%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			    7%  1 × Sitrus Berry
+			    7%  1 × Lum Berry
+			   10%  1 × Hondew Berry
+			   15%  1 × Big Mushroom
+			    5%  1 × Big Nugget
+			    3%  1 × Tera Shard
+			  5,5%  2 × Crafting Material
+			    1%  1 × Water Stone
+			    1%  1 × Fire Stone
+			    1%  1 × Thunder Stone
+			    1%  1 × Leaf Stone
+			    1%  1 × Ice Stone
+			    3%  1 × Muscle Feather
+			    3%  1 × Resist Feather
+			    3%  1 × Genius Feather
+			    3%  1 × Clever Feather
+			    3%  1 × Swift Feather
+
+5-Star Eevee
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2
+	IVs: 4 Flawless
+		Moves:
+			- Hyper Voice
+			- Tera Blast
+			- Bite
+			- Swift
+		Extra Moves:
+			- Yawn
+			- Calm Mind
+		Item Drops:
+			 2 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Pretty Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			 16,2%  1 × Exp. Candy L
+			 15,3%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			  2,5%  1 × Careful Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    2%  2 × Soothe Bell
+			  1,5%  1 × Ability Capsule
+			  1,5%  1 × Water Stone
+			  1,5%  1 × Fire Stone
+			  1,5%  1 × Thunder Stone
+			  1,5%  1 × Leaf Stone
+			  1,5%  1 × Ice Stone
+			    3%  1 × Muscle Feather
+			    3%  1 × Resist Feather
+			    3%  1 × Genius Feather
+			    3%  1 × Clever Feather
+			    3%  1 × Swift Feather
+
+5-Star Eevee
+	Tera Type: Random
+	Capture Level: 75
+	Ability: Hidden Only
+	IVs: 4 Flawless
+		Moves:
+			- Hyper Voice
+			- Tera Blast
+			- Bite
+			- Swift
+		Extra Moves:
+			- Yawn
+			- Calm Mind
+		Item Drops:
+			 2 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Pretty Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			 16,2%  1 × Exp. Candy L
+			 15,3%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			  2,5%  1 × Careful Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    2%  2 × Soothe Bell
+			  1,5%  1 × Ability Capsule
+			  1,5%  1 × Water Stone
+			  1,5%  1 × Fire Stone
+			  1,5%  1 × Thunder Stone
+			  1,5%  1 × Leaf Stone
+			  1,5%  1 × Ice Stone
+			    3%  1 × Muscle Feather
+			    3%  1 × Resist Feather
+			    3%  1 × Genius Feather
+			    3%  1 × Clever Feather
+			    3%  1 × Swift Feather
+
