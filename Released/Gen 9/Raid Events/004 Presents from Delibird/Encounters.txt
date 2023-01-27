@@ -1,0 +1,406 @@
+Event Raid Identifier: 2022122301
+1-Star Delibird
+	Tera Type: Random
+	Capture Level: 12
+	Ability: 1/2
+	IVs: 1 Flawless
+		Moves:
+			- Present
+			- Ice Punch
+			- Swift
+			- Quick Attack
+		Extra Moves:
+			None!
+		Item Drops:
+			 2 × Exp. Candy XS
+			 2 × Exp. Candy S
+			 2 × Crafting Material
+			 1 × Crafting Material (Only Guests)
+		Bonus Drops:
+			   19%  2 × Exp. Candy XS
+			    8%  2 × Exp. Candy S
+			    8%  1 × Leppa Berry
+			    8%  2 × Oran Berry
+			    8%  1 × Aspear Berry
+			   30%  1 × Stardust
+			    7%  1 × Crafting Material
+			    2%  1 × Health Feather
+			    2%  1 × Muscle Feather
+			    2%  1 × Resist Feather
+			    2%  1 × Genius Feather
+			    2%  1 × Clever Feather
+			    2%  1 × Swift Feather
+
+2-Star Delibird
+	Tera Type: Random
+	Capture Level: 20
+	Ability: 1/2
+	IVs: 1 Flawless
+		Moves:
+			- Present
+			- Ice Punch
+			- Swift
+			- Quick Attack
+		Extra Moves:
+			- Present
+		Item Drops:
+			 5 × Exp. Candy S
+			 3 × Crafting Material
+			 1 × Crafting Material (Only Guests)
+		Bonus Drops:
+			   23%  2 × Exp. Candy S
+			   13%  2 × Exp. Candy M
+			    4%  1 × Leppa Berry
+			    4%  2 × Oran Berry
+			    4%  1 × Aspear Berry
+			   30%  1 × Stardust
+			   10%  2 × Crafting Material
+			    2%  1 × Health Feather
+			    2%  1 × Muscle Feather
+			    2%  1 × Resist Feather
+			    2%  1 × Genius Feather
+			    2%  1 × Clever Feather
+			    2%  1 × Swift Feather
+
+3-Star Delibird
+	Tera Type: Random
+	Capture Level: 35
+	Ability: 1/2/H
+	IVs: 2 Flawless
+		Moves:
+			- Present
+			- Ice Punch
+			- Swift
+			- Drill Peck
+		Extra Moves:
+			- Present
+		Item Drops:
+			 2 × Exp. Candy S
+			 4 × Exp. Candy M
+			 5 × Crafting Material
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 1 × Tera Shard (Only Host)
+		Bonus Drops:
+			    7%  2 × Exp. Candy S
+			   14%  2 × Exp. Candy M
+			    5%  4 × Exp. Candy M
+			    7%  1 × Mago Berry
+			    8%  1 × Lum Berry
+			   12%  1 × Nugget
+			   25%  1 × Star Piece
+			   10%  2 × Crafting Material
+			    2%  1 × Health Feather
+			    2%  1 × Muscle Feather
+			    2%  1 × Resist Feather
+			    2%  1 × Genius Feather
+			    2%  1 × Clever Feather
+			    2%  1 × Swift Feather
+
+4-Star Delibird
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Present
+			- Ice Punch
+			- Swift
+			- Icy Wind
+		Extra Moves:
+			- Present
+		Item Drops:
+			 4 × Exp. Candy M
+			 2 × Exp. Candy L
+			 6 × Crafting Material
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  2 × Exp. Candy M
+			   12%  2 × Exp. Candy M
+			    5%  3 × Exp. Candy L
+			    7%  1 × Mago Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Hondew Berry
+			   15%  1 × Star Piece
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  3 × Crafting Material
+			    2%  1 × Health Feather
+			    2%  1 × Muscle Feather
+			    2%  1 × Resist Feather
+			    2%  1 × Genius Feather
+			    2%  1 × Clever Feather
+			    2%  1 × Swift Feather
+
+5-Star Delibird
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Present
+			- Blizzard
+			- Swift
+			- Air Slash
+		Extra Moves:
+			- Present
+			- Icy Wind
+		Item Drops:
+			 3 × Exp. Candy L
+			 2 × Exp. Candy XL
+			 8 × Crafting Material
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+			 5 × Fire Tera Shard
+			 5 × Grass Tera Shard
+			 5 × Water Tera Shard
+		Bonus Drops:
+			   23%  2 × Exp. Candy L
+			   12%  3 × Exp. Candy L
+			    4%  1 × Rare Candy
+			    8%  3 × Hondew Berry
+			   12%  1 × Star Piece
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    3%  1 × Adamant Mint
+			    3%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  4 × Crafting Material
+			    2%  1 × Ability Capsule
+			    2%  1 × Health Feather
+			    2%  1 × Muscle Feather
+			    2%  1 × Resist Feather
+			    2%  1 × Genius Feather
+			    2%  1 × Clever Feather
+			    2%  1 × Swift Feather
+
+5-Star Delibird
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Present
+			- Blizzard
+			- Swift
+			- Air Slash
+		Extra Moves:
+			- Present
+			- Icy Wind
+		Item Drops:
+			 3 × Exp. Candy L
+			 2 × Exp. Candy XL
+			 8 × Crafting Material
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+			 5 × Flying Tera Shard
+			 5 × Fighting Tera Shard
+			 5 × Bug Tera Shard
+		Bonus Drops:
+			   23%  2 × Exp. Candy L
+			   12%  3 × Exp. Candy L
+			    4%  1 × Rare Candy
+			    8%  3 × Hondew Berry
+			   12%  1 × Star Piece
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    3%  1 × Adamant Mint
+			    3%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  4 × Crafting Material
+			    2%  1 × Ability Capsule
+			    2%  1 × Health Feather
+			    2%  1 × Muscle Feather
+			    2%  1 × Resist Feather
+			    2%  1 × Genius Feather
+			    2%  1 × Clever Feather
+			    2%  1 × Swift Feather
+
+5-Star Delibird
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Present
+			- Blizzard
+			- Swift
+			- Air Slash
+		Extra Moves:
+			- Present
+			- Icy Wind
+		Item Drops:
+			 3 × Exp. Candy L
+			 2 × Exp. Candy XL
+			 8 × Crafting Material
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+			 5 × Electric Tera Shard
+			 5 × Ground Tera Shard
+			 5 × Psychic Tera Shard
+		Bonus Drops:
+			   23%  2 × Exp. Candy L
+			   12%  3 × Exp. Candy L
+			    4%  1 × Rare Candy
+			    8%  3 × Hondew Berry
+			   12%  1 × Star Piece
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    3%  1 × Adamant Mint
+			    3%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  4 × Crafting Material
+			    2%  1 × Ability Capsule
+			    2%  1 × Health Feather
+			    2%  1 × Muscle Feather
+			    2%  1 × Resist Feather
+			    2%  1 × Genius Feather
+			    2%  1 × Clever Feather
+			    2%  1 × Swift Feather
+
+5-Star Delibird
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Present
+			- Blizzard
+			- Swift
+			- Air Slash
+		Extra Moves:
+			- Present
+			- Icy Wind
+		Item Drops:
+			 3 × Exp. Candy L
+			 2 × Exp. Candy XL
+			 8 × Crafting Material
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+			 5 × Rock Tera Shard
+			 5 × Ghost Tera Shard
+			 5 × Steel Tera Shard
+		Bonus Drops:
+			   23%  2 × Exp. Candy L
+			   12%  3 × Exp. Candy L
+			    4%  1 × Rare Candy
+			    8%  3 × Hondew Berry
+			   12%  1 × Star Piece
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    3%  1 × Adamant Mint
+			    3%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  4 × Crafting Material
+			    2%  1 × Ability Capsule
+			    2%  1 × Health Feather
+			    2%  1 × Muscle Feather
+			    2%  1 × Resist Feather
+			    2%  1 × Genius Feather
+			    2%  1 × Clever Feather
+			    2%  1 × Swift Feather
+
+5-Star Delibird
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Present
+			- Blizzard
+			- Swift
+			- Air Slash
+		Extra Moves:
+			- Present
+			- Icy Wind
+		Item Drops:
+			 3 × Exp. Candy L
+			 2 × Exp. Candy XL
+			 8 × Crafting Material
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+			 5 × Normal Tera Shard
+			 5 × Dark Tera Shard
+			 5 × Fairy Tera Shard
+		Bonus Drops:
+			   23%  2 × Exp. Candy L
+			   12%  3 × Exp. Candy L
+			    4%  1 × Rare Candy
+			    8%  3 × Hondew Berry
+			   12%  1 × Star Piece
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    3%  1 × Adamant Mint
+			    3%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  4 × Crafting Material
+			    2%  1 × Ability Capsule
+			    2%  1 × Health Feather
+			    2%  1 × Muscle Feather
+			    2%  1 × Resist Feather
+			    2%  1 × Genius Feather
+			    2%  1 × Clever Feather
+			    2%  1 × Swift Feather
+
+5-Star Delibird
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Present
+			- Blizzard
+			- Swift
+			- Air Slash
+		Extra Moves:
+			- Present
+			- Icy Wind
+		Item Drops:
+			 3 × Exp. Candy L
+			 2 × Exp. Candy XL
+			 8 × Crafting Material
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+			 5 × Ice Tera Shard
+			 5 × Poison Tera Shard
+			 5 × Dragon Tera Shard
+		Bonus Drops:
+			   23%  2 × Exp. Candy L
+			   12%  3 × Exp. Candy L
+			    4%  1 × Rare Candy
+			    8%  3 × Hondew Berry
+			   12%  1 × Star Piece
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    3%  1 × Adamant Mint
+			    3%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  4 × Crafting Material
+			    2%  1 × Ability Capsule
+			    2%  1 × Health Feather
+			    2%  1 × Muscle Feather
+			    2%  1 × Resist Feather
+			    2%  1 × Genius Feather
+			    2%  1 × Clever Feather
+			    2%  1 × Swift Feather
+

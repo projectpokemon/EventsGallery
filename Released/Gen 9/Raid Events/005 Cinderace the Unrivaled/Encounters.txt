@@ -1,0 +1,256 @@
+Event Raid Identifier: 2022123001
+7-Star Cinderace
+	Tera Type: Fighting
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Adamant
+	IVs: 6 Flawless
+	Shiny: Never
+		Moves:
+			- High Jump Kick
+			- Pyro Ball
+			- Acrobatics
+			- Iron Head
+		Extra Moves:
+			- Bulk Up
+			- Bulk Up
+			- Bulk Up
+			- Bulk Up
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Protein
+			10 × Tera Shard
+			 5 × Tera Shard (Only Host)
+			 1 × TM064 Bulk Up (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			   10%  5 × Protein
+			    5%  2 × Exp. Candy XL
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Adamant Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5%  5 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
+4-Star Gengar
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Dark Pulse
+			- Clear Smog
+			- Sludge Bomb
+			- Shadow Claw
+		Extra Moves:
+			- Lick
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Resist Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Resist Feather
+			    7%  1 × Sitrus Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Tamato Berry
+			   15%  1 × Big Mushroom
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Gengar
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Shadow Ball
+			- Clear Smog
+			- Sludge Bomb
+			- Night Shade
+		Extra Moves:
+			- Lick
+			- Confuse Ray
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Resist Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Balm Mushroom
+			    5%  1 × Nugget
+			    2%  1 × Relaxed Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+4-Star Gyarados
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Aqua Tail
+			- Dragon Dance
+			- Waterfall
+			- Bite
+		Extra Moves:
+			- Dragon Dance
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Resist Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Resist Feather
+			    7%  1 × Sitrus Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Tamato Berry
+			   15%  1 × Big Mushroom
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Gyarados
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Hydro Pump
+			- Dragon Dance
+			- Aqua Tail
+			- Hurricane
+		Extra Moves:
+			- Dragon Dance
+			- Rain Dance
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Resist Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Balm Mushroom
+			    5%  1 × Nugget
+			    2%  1 × Relaxed Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+5-Star Gengar
+	Tera Type: Psychic
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Shadow Ball
+			- Clear Smog
+			- Sludge Bomb
+			- Night Shade
+		Extra Moves:
+			- Lick
+			- Confuse Ray
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Resist Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Balm Mushroom
+			    5%  1 × Nugget
+			    2%  1 × Relaxed Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+5-Star Gyarados
+	Tera Type: Flying
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Hydro Pump
+			- Dragon Dance
+			- Aqua Tail
+			- Hurricane
+		Extra Moves:
+			- Dragon Dance
+			- Rain Dance
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Resist Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Balm Mushroom
+			    5%  1 × Nugget
+			    2%  1 × Relaxed Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+

@@ -1,0 +1,221 @@
+Event Raid Identifier: 2023010601
+4-Star Hydreigon
+	Version: Scarlet
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Dragon Pulse
+			- Dark Pulse
+			- Work Up
+			- Slam
+		Extra Moves:
+			- Work Up
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Genius Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Genius Feather
+			    7%  1 × Sitrus Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Qualot Berry
+			   15%  1 × Big Pearl
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Hydreigon
+	Version: Scarlet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Draco Meteor
+			- Dark Pulse
+			- Nasty Plot
+			- Slam
+		Extra Moves:
+			- Scary Face
+			- Work Up
+		Item Drops:
+			 1 × Exp. Candy XL
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Genius Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+5-Star Hydreigon
+	Version: Scarlet
+	Tera Type: Steel
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Draco Meteor
+			- Dark Pulse
+			- Nasty Plot
+			- Slam
+		Extra Moves:
+			- Scary Face
+			- Work Up
+		Item Drops:
+			 1 × Exp. Candy XL
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Genius Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+4-Star Dragapult
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Dragon Darts
+			- Dragon Dance
+			- Hex
+			- Will-O-Wisp
+		Extra Moves:
+			- Will-O-Wisp
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Genius Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Genius Feather
+			    7%  1 × Sitrus Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Qualot Berry
+			   15%  1 × Big Pearl
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Dragapult
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Dragon Darts
+			- Draco Meteor
+			- Hex
+			- Flamethrower
+		Extra Moves:
+			- Will-O-Wisp
+			- Dragon Dance
+		Item Drops:
+			 1 × Exp. Candy XL
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Genius Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+5-Star Dragapult
+	Version: Violet
+	Tera Type: Dragon
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Dragon Darts
+			- Draco Meteor
+			- Hex
+			- Flamethrower
+		Extra Moves:
+			- Will-O-Wisp
+			- Dragon Dance
+		Item Drops:
+			 1 × Exp. Candy XL
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Genius Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
