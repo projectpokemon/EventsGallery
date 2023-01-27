@@ -1,0 +1,256 @@
+Event Raid Identifier: 2023012701
+7-Star Greninja
+	Tera Type: Poison
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Sassy
+	IVs: 6 Flawless
+	Shiny: Never
+		Moves:
+			- Gunk Shot
+			- Hydro Pump
+			- Ice Beam
+			- Night Slash
+		Extra Moves:
+			- Toxic Spikes
+			- Double Team
+			- Double Team
+			- Double Team
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Carbos
+			10 × Tera Shard
+			 5 × Tera Shard (Only Host)
+			 1 × TM091 Toxic Spikes (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   10%  5 × Carbos
+			    5%  2 × Exp. Candy XL
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Sassy Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5%  5 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
+4-Star Lucario
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Metal Claw
+			- Work Up
+			- Vacuum Wave
+			- Bone Rush
+		Extra Moves:
+			- Work Up
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Health Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Health Feather
+			    7%  1 × Aguav Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Tamato Berry
+			   15%  1 × Big Pearl
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Lucario
+	Tera Type: Random
+	Capture Level: 75
+	Ability: Hidden Only
+	IVs: 4 Flawless
+		Moves:
+			- Meteor Mash
+			- Swords Dance
+			- Vacuum Wave
+			- Earthquake
+		Extra Moves:
+			- Work Up
+			- Iron Defense
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Resist Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Relaxed Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+5-Star Lucario
+	Tera Type: Steel
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Meteor Mash
+			- Swords Dance
+			- Vacuum Wave
+			- Earthquake
+		Extra Moves:
+			- Work Up
+			- Iron Defense
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Resist Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Relaxed Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+4-Star Bronzong
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Confuse Ray
+			- Gyro Ball
+			- Iron Defense
+			- Psybeam
+		Extra Moves:
+			- Iron Defense
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Health Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Health Feather
+			    7%  1 × Aguav Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Tamato Berry
+			   15%  1 × Big Pearl
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Bronzong
+	Tera Type: Random
+	Capture Level: 75
+	Ability: Hidden Only
+	IVs: 4 Flawless
+		Moves:
+			- Stored Power
+			- Gyro Ball
+			- Iron Defense
+			- Heavy Slam
+		Extra Moves:
+			- Reflect
+			- Light Screen
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Resist Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Relaxed Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+5-Star Bronzong
+	Tera Type: Psychic
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Stored Power
+			- Iron Defense
+			- Gyro Ball
+			- Heavy Slam
+		Extra Moves:
+			- Reflect
+			- Light Screen
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Resist Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Mushroom
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Relaxed Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
