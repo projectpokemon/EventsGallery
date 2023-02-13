@@ -1,0 +1,222 @@
+Event Raid Identifier: 2023021301
+1-Star Tandemaus
+	Tera Type: Random
+	Capture Level: 12
+	Ability: 1/2
+	IVs: 1 Flawless
+		Moves:
+			- Pound
+			- Baby-Doll Eyes
+			- Echoed Voice
+			- Super Fang
+		Extra Moves:
+			None!
+		Item Drops:
+			 2 × Exp. Candy XS
+			 2 × Exp. Candy S
+			 2 × Crafting Material
+			 2 × Swift Feather
+			 2 × Crafting Material (Only Guests)
+			 2 × Apple
+			 2 × Kiwi
+			 2 × Banana
+			 2 × Strawberry
+			 2 × Pineapple
+		Bonus Drops:
+			 8,08%  1 × Exp. Candy XS
+			 8,08%  1 × Exp. Candy S
+			 20,2%  1 × Stardust
+			 9,09%  2 × Butter
+			 9,09%  2 × Whipped Cream
+			 9,09%  2 × Jam
+			 9,09%  2 × Marmalade
+			 9,09%  2 × Peanut Butter
+			 9,09%  2 × Yogurt
+			 9,09%  2 × Cream Cheese
+
+2-Star Tandemaus
+	Tera Type: Random
+	Capture Level: 20
+	Ability: 1/2
+	IVs: 1 Flawless
+		Moves:
+			- Bullet Seed
+			- Baby-Doll Eyes
+			- Echoed Voice
+			- Super Fang
+		Extra Moves:
+			None!
+		Item Drops:
+			 5 × Exp. Candy S
+			 4 × Crafting Material
+			 2 × Swift Feather
+			 2 × Crafting Material (Only Guests)
+			 2 × Apple
+			 2 × Kiwi
+			 2 × Banana
+			 2 × Strawberry
+			 2 × Pineapple
+		Bonus Drops:
+			   13%  2 × Exp. Candy S
+			   13%  1 × Exp. Candy M
+			   20%  1 × Stardust
+			    9%  2 × Butter
+			    9%  2 × Whipped Cream
+			    0%  2 × Jam
+			    9%  2 × Marmalade
+			    9%  2 × Peanut Butter
+			    9%  2 × Yogurt
+			    9%  2 × Cream Cheese
+
+3-Star Tandemaus
+	Tera Type: Random
+	Capture Level: 35
+	Ability: 1/2/H
+	IVs: 2 Flawless
+		Moves:
+			- Bullet Seed
+			- Charm
+			- Hyper Voice
+			- Super Fang
+		Extra Moves:
+			- Play Rough
+		Item Drops:
+			 2 × Exp. Candy S
+			 4 × Exp. Candy M
+			 5 × Crafting Material
+			 2 × Swift Feather
+			 2 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+			 2 × Apple
+			 2 × Kiwi
+			 2 × Banana
+			 2 × Strawberry
+			 2 × Pineapple
+		Bonus Drops:
+			   15%  2 × Exp. Candy S
+			   15%  3 × Exp. Candy M
+			   14%  1 × Rare Bone
+			    8%  2 × Butter
+			    8%  2 × Whipped Cream
+			    8%  2 × Jam
+			    8%  2 × Marmalade
+			    8%  2 × Peanut Butter
+			    8%  2 × Yogurt
+			    8%  2 × Cream Cheese
+
+4-Star Tandemaus
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Bullet Seed
+			- Charm
+			- Population Bomb
+			- Encore
+		Extra Moves:
+			- Agility
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 3 × Swift Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 4 × Tera Shard (Only Host)
+			 5 × Apple
+			 3 × Kiwi
+			 3 × Banana
+			 3 × Strawberry
+			 3 × Pineapple
+		Bonus Drops:
+			   12%  3 × Exp. Candy M
+			   12%  2 × Exp. Candy L
+			   13%  1 × Big Pearl
+			    9%  3 × Butter
+			    9%  3 × Whipped Cream
+			    9%  3 × Jam
+			    9%  3 × Marmalade
+			    9%  3 × Peanut Butter
+			    9%  3 × Yogurt
+			    9%  3 × Cream Cheese
+
+5-Star Tandemaus
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Bullet Seed
+			- Encore
+			- Population Bomb
+			- Play Rough
+		Extra Moves:
+			- Agility
+			- Hyper Voice
+		Item Drops:
+			 3 × Exp. Candy L
+			 2 × Exp. Candy XL
+			 8 × Crafting Material
+			 5 × Swift Feather
+			 5 × Crafting Material (Only Guests)
+			 4 × Tera Shard
+			 4 × Tera Shard (Only Host)
+			 5 × Apple
+			 5 × Kiwi
+			 5 × Banana
+			 5 × Strawberry
+			 5 × Pineapple
+		Bonus Drops:
+			   15%  2 × Rare Candy
+			    4%  1 × Bottle Cap
+			    4%  1 × PP Up
+			   14%  1 × Balm Mushroom
+			    9%  5 × Butter
+			    9%  5 × Whipped Cream
+			    9%  5 × Jam
+			    9%  5 × Marmalade
+			    9%  5 × Peanut Butter
+			    9%  5 × Yogurt
+			    9%  5 × Cream Cheese
+
+5-Star Tandemaus
+	Tera Type: Fairy
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Bullet Seed
+			- Encore
+			- Population Bomb
+			- Play Rough
+		Extra Moves:
+			- Agility
+			- Hyper Voice
+		Item Drops:
+			 3 × Exp. Candy L
+			 2 × Exp. Candy XL
+			 8 × Crafting Material
+			 5 × Swift Feather
+			 5 × Crafting Material (Only Guests)
+			 4 × Tera Shard
+			 4 × Tera Shard (Only Host)
+			 5 × Apple
+			 5 × Kiwi
+			 5 × Banana
+			 5 × Strawberry
+			 5 × Pineapple
+		Bonus Drops:
+			   15%  2 × Rare Candy
+			    4%  1 × Bottle Cap
+			    4%  1 × PP Up
+			   14%  1 × Balm Mushroom
+			    9%  5 × Butter
+			    9%  5 × Whipped Cream
+			    9%  5 × Jam
+			    9%  5 × Marmalade
+			    9%  5 × Peanut Butter
+			    9%  5 × Yogurt
+			    9%  5 × Cream Cheese
+
