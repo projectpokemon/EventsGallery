@@ -1,0 +1,145 @@
+Event Raid Identifier: 2023020301
+4-Star Armarouge
+	Version: Scarlet
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Lava Plume
+			- Psyshock
+			- Energy Ball
+			- Taunt
+		Extra Moves:
+			- Sunny Day
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Clever Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Clever Feather
+			    7%  1 × Wiki Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Kelpsy Berry
+			   15%  1 × Big Pearl
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Armarouge
+	Version: Scarlet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Armor Cannon
+			- Expanding Force
+			- Energy Ball
+			- Taunt
+		Extra Moves:
+			- Sunny Day
+			- Calm Mind
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Clever Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Clever Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+4-Star Ceruledge
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Flame Charge
+			- Shadow Sneak
+			- Night Slash
+			- Will-O-Wisp
+		Extra Moves:
+			- Sunny Day
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Resist Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Resist Feather
+			    7%  1 × Figy Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Hondew Berry
+			   15%  1 × Big Pearl
+			    5%  1 × Nugget
+			    3%  1 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Ceruledge
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Bitter Blade
+			- Shadow Claw
+			- Night Slash
+			- Will-O-Wisp
+		Extra Moves:
+			- Sunny Day
+			- Swords Dance
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Resist Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   18%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Adamant Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  1 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
