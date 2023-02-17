@@ -1,0 +1,215 @@
+Event Raid Identifier: 2023021701
+4-Star Sylveon
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Hyper Voice
+			- Take Down
+			- Disarming Voice
+			- Charm
+		Extra Moves:
+			- Calm Mind
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Genius Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Genius Feather
+			    7%  1 × Sitrus Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Kelpsy Berry
+			   15%  1 × Big Pearl
+			    5%  1 × Nugget
+			    3%  2 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Sylveon
+	Tera Type: Random
+	Capture Level: 75
+	Ability: Hidden Only
+	IVs: 4 Flawless
+		Moves:
+			- Hyper Voice
+			- Tera Blast
+			- Moonblast
+			- Yawn
+		Extra Moves:
+			- Calm Mind
+			- Hyper Voice
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Genius Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+5-Star Sylveon
+	Tera Type: Fairy
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Hyper Voice
+			- Tera Blast
+			- Moonblast
+			- Yawn
+		Extra Moves:
+			- Calm Mind
+			- Hyper Voice
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Genius Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+4-Star Garchomp
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1/2/H
+	IVs: 3 Flawless
+		Moves:
+			- Bulldoze
+			- Dragon Claw
+			- Rock Slide
+			- Bite
+		Extra Moves:
+			- Sandstorm
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 4 × Crafting Material
+			 2 × Muscle Feather
+			 2 × Crafting Material (Only Guests)
+			 1 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  1 × Exp. Candy M
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy L
+			   10%  1 × Health Feather
+			    7%  1 × Sitrus Berry
+			    7%  1 × Lum Berry
+			   10%  3 × Hondew Berry
+			   15%  1 × Big Pearl
+			    5%  1 × Nugget
+			    3%  2 × Tera Shard
+			    9%  2 × Crafting Material
+
+5-Star Garchomp
+	Tera Type: Random
+	Capture Level: 75
+	Ability: Hidden Only
+	IVs: 4 Flawless
+		Moves:
+			- Earthquake
+			- Dragon Claw
+			- Rock Slide
+			- Iron Head
+		Extra Moves:
+			- Sandstorm
+			- Swords Dance
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Muscle Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Muscle Feather
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Adamant Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+5-Star Garchomp
+	Tera Type: Ground
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Earthquake
+			- Dragon Claw
+			- Rock Slide
+			- Iron Head
+		Extra Moves:
+			- Sandstorm
+			- Swords Dance
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Muscle Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Muscle Feather
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Adamant Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
