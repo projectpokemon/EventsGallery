@@ -1,0 +1,40 @@
+Event Raid Identifier: 2023022401
+7-Star Pikachu
+	Tera Type: Water
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Quiet
+	IVs: 6 Flawless
+	Shiny: Never
+		Moves:
+			- Thunder
+			- Surf
+			- Play Rough
+			- Iron Tail
+		Extra Moves:
+			- Rain Dance
+			- Surf
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Calcium
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM123 Surf (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			   10%  5 × Calcium
+			    5%  2 × Exp. Candy XL
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Quiet Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
