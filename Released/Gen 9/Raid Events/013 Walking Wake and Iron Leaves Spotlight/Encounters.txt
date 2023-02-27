@@ -1,0 +1,79 @@
+Event Raid Identifier: 2023022801
+5-Star Walking Wake
+	Version: Scarlet
+	Tera Type: Water
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+		Moves:
+			- Hydro Steam
+			- Dragon Pulse
+			- Noble Roar
+			- Flamethrower
+		Extra Moves:
+			- Sunny Day
+			- Hydro Steam
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Health Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Health Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Naive Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
+5-Star Iron Leaves
+	Version: Violet
+	Tera Type: Psychic
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+		Moves:
+			- Psyblade
+			- Leaf Blade
+			- Megahorn
+			- Swords Dance
+		Extra Moves:
+			- Electric Terrain
+			- Psyblade
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Crafting Material
+			 3 × Health Feather
+			 3 × Crafting Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Health Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Naive Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    5%  2 × Crafting Material
+			    2%  1 × Ability Capsule
+
