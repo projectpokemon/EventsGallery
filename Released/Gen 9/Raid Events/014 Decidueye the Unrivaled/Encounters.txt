@@ -1,0 +1,44 @@
+Event Raid Identifier: 2023031701
+7-Star Decidueye
+	Tera Type: Flying
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Brave
+	IVs: 6 Flawless
+	Shiny: Never
+		Moves:
+			- Spirit Shackle
+			- Brave Bird
+			- Low Kick
+			- Leaf Blade
+		Extra Moves:
+			- Feather Dance
+			- Swords Dance
+			- Air Cutter
+			- Air Cutter
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 3 × Protein
+			 3 × Calcium
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM164 Brave Bird (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    5%  3 × Protein
+			    5%  3 × Calcium
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Brave Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    5%  2 × Exp. Candy XL
+
