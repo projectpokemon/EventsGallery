@@ -1,0 +1,200 @@
+Event Raid Identifier: 20230407
+7-Star Samurott
+	Tera Type: Bug
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Lonely
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 35,0x
+	Catchable: Only Once
+		Moves:
+			- Aqua Cutter
+			- Megahorn
+			- Night Slash
+			- Drill Run
+		Extra Moves:
+			- Focus Energy
+			- Swords Dance
+			- Bulldoze
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Protein
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM088 Swords Dance (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			   10%  5 × Protein
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Lonely Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
+5-Star Ditto
+	Tera Type: Random
+	Capture Level: 75
+	Ability: Hidden Only
+	IVs: 5 Flawless
+		Moves:
+			- Transform
+		Extra Moves:
+			None!
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × TM Material
+			 3 × TM Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			13,33%  2 × Exp. Candy L
+			 8,33%  3 × Exp. Candy L
+			 2,67%  1 × Rare Candy
+			    5%  1 × HP Up
+			    5%  1 × Protein
+			    5%  1 × Iron
+			    5%  1 × Calcium
+			    5%  1 × Zinc
+			    5%  1 × Carbos
+			    5%  1 × PP Up
+			 2,67%  1 × Bottle Cap
+			 0,67%  1 × Everstone
+			 0,67%  1 × Destiny Knot
+			    5%  4 × Tera Shard
+			 1,67%  1 × Ability Capsule
+			    5%  1 × Pomeg Berry
+			    5%  1 × Kelpsy Berry
+			    5%  1 × Qualot Berry
+			    5%  1 × Hondew Berry
+			    5%  1 × Grepa Berry
+			    5%  1 × Tamato Berry
+
+5-Star Ditto
+	Tera Type: Random
+	Capture Level: 75
+	Ability: Hidden Only
+	IVs: 31/0/31/31/31/31
+		Moves:
+			- Transform
+		Extra Moves:
+			None!
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × TM Material
+			 3 × TM Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			13,33%  2 × Exp. Candy L
+			 8,33%  3 × Exp. Candy L
+			 2,67%  1 × Rare Candy
+			    5%  1 × HP Up
+			    5%  1 × Protein
+			    5%  1 × Iron
+			    5%  1 × Calcium
+			    5%  1 × Zinc
+			    5%  1 × Carbos
+			    5%  1 × PP Up
+			 2,67%  1 × Bottle Cap
+			 0,67%  1 × Everstone
+			 0,67%  1 × Destiny Knot
+			    5%  4 × Tera Shard
+			 1,67%  1 × Ability Capsule
+			    5%  1 × Pomeg Berry
+			    5%  1 × Kelpsy Berry
+			    5%  1 × Qualot Berry
+			    5%  1 × Hondew Berry
+			    5%  1 × Grepa Berry
+			    5%  1 × Tamato Berry
+
+5-Star Ditto
+	Tera Type: Random
+	Capture Level: 75
+	Ability: Hidden Only
+	IVs: 31/31/31/31/31/0
+		Moves:
+			- Transform
+		Extra Moves:
+			None!
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × TM Material
+			 3 × TM Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			13,33%  2 × Exp. Candy L
+			 8,33%  3 × Exp. Candy L
+			 2,67%  1 × Rare Candy
+			    5%  1 × HP Up
+			    5%  1 × Protein
+			    5%  1 × Iron
+			    5%  1 × Calcium
+			    5%  1 × Zinc
+			    5%  1 × Carbos
+			    5%  1 × PP Up
+			 2,67%  1 × Bottle Cap
+			 0,67%  1 × Everstone
+			 0,67%  1 × Destiny Knot
+			    5%  4 × Tera Shard
+			 1,67%  1 × Ability Capsule
+			    5%  1 × Pomeg Berry
+			    5%  1 × Kelpsy Berry
+			    5%  1 × Qualot Berry
+			    5%  1 × Hondew Berry
+			    5%  1 × Grepa Berry
+			    5%  1 × Tamato Berry
+
+5-Star Ditto
+	Tera Type: Random
+	Capture Level: 75
+	Ability: Hidden Only
+	IVs: 6 Flawless
+		Moves:
+			- Transform
+		Extra Moves:
+			None!
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × TM Material
+			 3 × TM Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			13,33%  2 × Exp. Candy L
+			 8,33%  3 × Exp. Candy L
+			 2,67%  1 × Rare Candy
+			    5%  1 × HP Up
+			    5%  1 × Protein
+			    5%  1 × Iron
+			    5%  1 × Calcium
+			    5%  1 × Zinc
+			    5%  1 × Carbos
+			    5%  1 × PP Up
+			 2,67%  1 × Bottle Cap
+			 0,67%  1 × Everstone
+			 0,67%  1 × Destiny Knot
+			    5%  4 × Tera Shard
+			 1,67%  1 × Ability Capsule
+			    5%  1 × Pomeg Berry
+			    5%  1 × Kelpsy Berry
+			    5%  1 × Qualot Berry
+			    5%  1 × Hondew Berry
+			    5%  1 × Grepa Berry
+			    5%  1 × Tamato Berry
+
