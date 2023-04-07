@@ -1,11 +1,11 @@
 {
   "Table": [
     {
-      "VersionNo": 20221202,
+      "VersionNo": 20230407,
       "GroupID": {
         "Groups": {
           "GroupID01": 1,
-          "GroupID02": 5
+          "GroupID02": 12
         }
       }
     }

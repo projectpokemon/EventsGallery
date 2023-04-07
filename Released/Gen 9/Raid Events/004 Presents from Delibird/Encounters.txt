@@ -1,4 +1,4 @@
-Event Raid Identifier: 2022122301
+Event Raid Identifier: 20221223
 1-Star Delibird
 	Tera Type: Random
 	Capture Level: 12
@@ -14,8 +14,8 @@ Event Raid Identifier: 2022122301
 		Item Drops:
 			 2 × Exp. Candy XS
 			 2 × Exp. Candy S
-			 2 × Crafting Material
-			 1 × Crafting Material (Only Guests)
+			 2 × TM Material
+			 1 × TM Material (Only Guests)
 		Bonus Drops:
 			   19%  2 × Exp. Candy XS
 			    8%  2 × Exp. Candy S
@@ -23,7 +23,7 @@ Event Raid Identifier: 2022122301
 			    8%  2 × Oran Berry
 			    8%  1 × Aspear Berry
 			   30%  1 × Stardust
-			    7%  1 × Crafting Material
+			    7%  1 × TM Material
 			    2%  1 × Health Feather
 			    2%  1 × Muscle Feather
 			    2%  1 × Resist Feather
@@ -45,8 +45,8 @@ Event Raid Identifier: 2022122301
 			- Present
 		Item Drops:
 			 5 × Exp. Candy S
-			 3 × Crafting Material
-			 1 × Crafting Material (Only Guests)
+			 3 × TM Material
+			 1 × TM Material (Only Guests)
 		Bonus Drops:
 			   23%  2 × Exp. Candy S
 			   13%  2 × Exp. Candy M
@@ -54,7 +54,7 @@ Event Raid Identifier: 2022122301
 			    4%  2 × Oran Berry
 			    4%  1 × Aspear Berry
 			   30%  1 × Stardust
-			   10%  2 × Crafting Material
+			   10%  2 × TM Material
 			    2%  1 × Health Feather
 			    2%  1 × Muscle Feather
 			    2%  1 × Resist Feather
@@ -77,8 +77,8 @@ Event Raid Identifier: 2022122301
 		Item Drops:
 			 2 × Exp. Candy S
 			 4 × Exp. Candy M
-			 5 × Crafting Material
-			 2 × Crafting Material (Only Guests)
+			 5 × TM Material
+			 2 × TM Material (Only Guests)
 			 1 × Tera Shard
 			 1 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -89,7 +89,7 @@ Event Raid Identifier: 2022122301
 			    8%  1 × Lum Berry
 			   12%  1 × Nugget
 			   25%  1 × Star Piece
-			   10%  2 × Crafting Material
+			   10%  2 × TM Material
 			    2%  1 × Health Feather
 			    2%  1 × Muscle Feather
 			    2%  1 × Resist Feather
@@ -112,8 +112,8 @@ Event Raid Identifier: 2022122301
 		Item Drops:
 			 4 × Exp. Candy M
 			 2 × Exp. Candy L
-			 6 × Crafting Material
-			 2 × Crafting Material (Only Guests)
+			 6 × TM Material
+			 2 × TM Material (Only Guests)
 			 1 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -126,7 +126,7 @@ Event Raid Identifier: 2022122301
 			   15%  1 × Star Piece
 			    5%  1 × Nugget
 			    3%  1 × Tera Shard
-			    9%  3 × Crafting Material
+			    9%  3 × TM Material
 			    2%  1 × Health Feather
 			    2%  1 × Muscle Feather
 			    2%  1 × Resist Feather
@@ -150,8 +150,8 @@ Event Raid Identifier: 2022122301
 		Item Drops:
 			 3 × Exp. Candy L
 			 2 × Exp. Candy XL
-			 8 × Crafting Material
-			 3 × Crafting Material (Only Guests)
+			 8 × TM Material
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 			 5 × Fire Tera Shard
@@ -170,7 +170,7 @@ Event Raid Identifier: 2022122301
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  4 × Crafting Material
+			    5%  4 × TM Material
 			    2%  1 × Ability Capsule
 			    2%  1 × Health Feather
 			    2%  1 × Muscle Feather
@@ -195,8 +195,8 @@ Event Raid Identifier: 2022122301
 		Item Drops:
 			 3 × Exp. Candy L
 			 2 × Exp. Candy XL
-			 8 × Crafting Material
-			 3 × Crafting Material (Only Guests)
+			 8 × TM Material
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 			 5 × Flying Tera Shard
@@ -215,7 +215,7 @@ Event Raid Identifier: 2022122301
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  4 × Crafting Material
+			    5%  4 × TM Material
 			    2%  1 × Ability Capsule
 			    2%  1 × Health Feather
 			    2%  1 × Muscle Feather
@@ -240,8 +240,8 @@ Event Raid Identifier: 2022122301
 		Item Drops:
 			 3 × Exp. Candy L
 			 2 × Exp. Candy XL
-			 8 × Crafting Material
-			 3 × Crafting Material (Only Guests)
+			 8 × TM Material
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 			 5 × Electric Tera Shard
@@ -260,7 +260,7 @@ Event Raid Identifier: 2022122301
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  4 × Crafting Material
+			    5%  4 × TM Material
 			    2%  1 × Ability Capsule
 			    2%  1 × Health Feather
 			    2%  1 × Muscle Feather
@@ -285,8 +285,8 @@ Event Raid Identifier: 2022122301
 		Item Drops:
 			 3 × Exp. Candy L
 			 2 × Exp. Candy XL
-			 8 × Crafting Material
-			 3 × Crafting Material (Only Guests)
+			 8 × TM Material
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 			 5 × Rock Tera Shard
@@ -305,7 +305,7 @@ Event Raid Identifier: 2022122301
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  4 × Crafting Material
+			    5%  4 × TM Material
 			    2%  1 × Ability Capsule
 			    2%  1 × Health Feather
 			    2%  1 × Muscle Feather
@@ -330,8 +330,8 @@ Event Raid Identifier: 2022122301
 		Item Drops:
 			 3 × Exp. Candy L
 			 2 × Exp. Candy XL
-			 8 × Crafting Material
-			 3 × Crafting Material (Only Guests)
+			 8 × TM Material
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 			 5 × Normal Tera Shard
@@ -350,7 +350,7 @@ Event Raid Identifier: 2022122301
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  4 × Crafting Material
+			    5%  4 × TM Material
 			    2%  1 × Ability Capsule
 			    2%  1 × Health Feather
 			    2%  1 × Muscle Feather
@@ -375,8 +375,8 @@ Event Raid Identifier: 2022122301
 		Item Drops:
 			 3 × Exp. Candy L
 			 2 × Exp. Candy XL
-			 8 × Crafting Material
-			 3 × Crafting Material (Only Guests)
+			 8 × TM Material
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 			 5 × Ice Tera Shard
@@ -395,7 +395,7 @@ Event Raid Identifier: 2022122301
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  4 × Crafting Material
+			    5%  4 × TM Material
 			    2%  1 × Ability Capsule
 			    2%  1 × Health Feather
 			    2%  1 × Muscle Feather

@@ -1,4 +1,4 @@
-Event Raid Identifier: 2023031701
+Event Raid Identifier: 20230317
 7-Star Decidueye
 	Tera Type: Flying
 	Capture Level: 100
@@ -6,6 +6,9 @@ Event Raid Identifier: 2023031701
 	Nature: Brave
 	IVs: 6 Flawless
 	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30,0x
+	Catchable: Only Once
 		Moves:
 			- Spirit Shackle
 			- Brave Bird

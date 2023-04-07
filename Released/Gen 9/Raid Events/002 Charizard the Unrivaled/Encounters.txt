@@ -1,4 +1,4 @@
-Event Raid Identifier: 2022120201
+Event Raid Identifier: 20221202
 7-Star Charizard
 	Tera Type: Dragon
 	Capture Level: 100
@@ -6,6 +6,9 @@ Event Raid Identifier: 2022120201
 	Nature: Modest
 	IVs: 6 Flawless
 	Shiny: Never
+	Scale: 128
+	HP Multiplier: 25,0x
+	Catchable: Only Once
 		Moves:
 			- Dragon Pulse
 			- Fire Blast
@@ -55,9 +58,9 @@ Event Raid Identifier: 2022120201
 		Item Drops:
 			 2 × Exp. Candy M
 			 1 × Exp. Candy L
-			 4 × Crafting Material
+			 4 × TM Material
 			 2 × Clever Feather
-			 2 × Crafting Material (Only Guests)
+			 2 × TM Material (Only Guests)
 			 1 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -71,7 +74,7 @@ Event Raid Identifier: 2022120201
 			   15%  1 × Big Mushroom
 			    5%  1 × Nugget
 			    3%  1 × Tera Shard
-			    9%  2 × Crafting Material
+			    9%  2 × TM Material
 
 5-Star Florges
 	Tera Type: Random
@@ -89,9 +92,9 @@ Event Raid Identifier: 2022120201
 		Item Drops:
 			 1 × Exp. Candy L
 			 1 × Exp. Candy XL
-			 5 × Crafting Material
+			 5 × TM Material
 			 3 × Clever Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -107,7 +110,7 @@ Event Raid Identifier: 2022120201
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  2 × Crafting Material
+			    5%  2 × TM Material
 			    2%  1 × Ability Capsule
 
 4-Star Mimikyu
@@ -125,9 +128,9 @@ Event Raid Identifier: 2022120201
 		Item Drops:
 			 2 × Exp. Candy M
 			 1 × Exp. Candy L
-			 4 × Crafting Material
+			 4 × TM Material
 			 2 × Clever Feather
-			 2 × Crafting Material (Only Guests)
+			 2 × TM Material (Only Guests)
 			 1 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -141,7 +144,7 @@ Event Raid Identifier: 2022120201
 			   15%  1 × Big Mushroom
 			    5%  1 × Nugget
 			    3%  1 × Tera Shard
-			    9%  2 × Crafting Material
+			    9%  2 × TM Material
 
 5-Star Mimikyu
 	Tera Type: Random
@@ -159,9 +162,9 @@ Event Raid Identifier: 2022120201
 		Item Drops:
 			 1 × Exp. Candy L
 			 1 × Exp. Candy XL
-			 5 × Crafting Material
+			 5 × TM Material
 			 3 × Clever Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -177,6 +180,6 @@ Event Raid Identifier: 2022120201
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  2 × Crafting Material
+			    5%  2 × TM Material
 			    2%  1 × Ability Capsule
 

@@ -1,4 +1,4 @@
-Event Raid Identifier: 2023033101
+Event Raid Identifier: 20230331
 7-Star Samurott
 	Tera Type: Bug
 	Capture Level: 100
@@ -6,6 +6,8 @@ Event Raid Identifier: 2023033101
 	Nature: Lonely
 	IVs: 6 Flawless
 	Shiny: Never
+	Scale: 128
+	HP Multiplier: 35,0x
 	Catchable: Only Once
 		Moves:
 			- Aqua Cutter
