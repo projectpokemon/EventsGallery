@@ -4,7 +4,8 @@
       "VersionNo": 20230203,
       "GroupID": {
         "Groups": {
-          "Groups_Length": 10
+          "GroupID01": 5,
+          "GroupID02": 5
         }
       }
     }
