@@ -2,17 +2,10 @@
   "Table": [
     {
       "VersionNo": 20221202,
-      "DeliveryGroupID": {
-        "GroupID01": 1,
-        "GroupID02": 5,
-        "GroupID03": 0,
-        "GroupID04": 0,
-        "GroupID05": 0,
-        "GroupID06": 0,
-        "GroupID07": 0,
-        "GroupID08": 0,
-        "GroupID09": 0,
-        "GroupID10": 0
+      "GroupID": {
+        "Groups": {
+          "Groups_Length": 10
+        }
       }
     }
   ]

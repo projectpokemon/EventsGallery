@@ -1,4 +1,4 @@
-Event Raid Identifier: 2023010601
+Event Raid Identifier: 20230106
 4-Star Hydreigon
 	Version: Scarlet
 	Tera Type: Random
@@ -15,9 +15,9 @@ Event Raid Identifier: 2023010601
 		Item Drops:
 			 2 × Exp. Candy M
 			 1 × Exp. Candy L
-			 4 × Crafting Material
+			 4 × TM Material
 			 2 × Genius Feather
-			 2 × Crafting Material (Only Guests)
+			 2 × TM Material (Only Guests)
 			 1 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -31,7 +31,7 @@ Event Raid Identifier: 2023010601
 			   15%  1 × Big Pearl
 			    5%  1 × Nugget
 			    3%  1 × Tera Shard
-			    9%  2 × Crafting Material
+			    9%  2 × TM Material
 
 5-Star Hydreigon
 	Version: Scarlet
@@ -50,9 +50,9 @@ Event Raid Identifier: 2023010601
 		Item Drops:
 			 1 × Exp. Candy XL
 			 1 × Exp. Candy XL
-			 5 × Crafting Material
+			 5 × TM Material
 			 3 × Genius Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -68,7 +68,7 @@ Event Raid Identifier: 2023010601
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  2 × Crafting Material
+			    5%  2 × TM Material
 			    2%  1 × Ability Capsule
 
 5-Star Hydreigon
@@ -88,9 +88,9 @@ Event Raid Identifier: 2023010601
 		Item Drops:
 			 1 × Exp. Candy XL
 			 1 × Exp. Candy XL
-			 5 × Crafting Material
+			 5 × TM Material
 			 3 × Genius Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -106,7 +106,7 @@ Event Raid Identifier: 2023010601
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  2 × Crafting Material
+			    5%  2 × TM Material
 			    2%  1 × Ability Capsule
 
 4-Star Dragapult
@@ -125,9 +125,9 @@ Event Raid Identifier: 2023010601
 		Item Drops:
 			 2 × Exp. Candy M
 			 1 × Exp. Candy L
-			 4 × Crafting Material
+			 4 × TM Material
 			 2 × Genius Feather
-			 2 × Crafting Material (Only Guests)
+			 2 × TM Material (Only Guests)
 			 1 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -141,7 +141,7 @@ Event Raid Identifier: 2023010601
 			   15%  1 × Big Pearl
 			    5%  1 × Nugget
 			    3%  1 × Tera Shard
-			    9%  2 × Crafting Material
+			    9%  2 × TM Material
 
 5-Star Dragapult
 	Version: Violet
@@ -160,9 +160,9 @@ Event Raid Identifier: 2023010601
 		Item Drops:
 			 1 × Exp. Candy XL
 			 1 × Exp. Candy XL
-			 5 × Crafting Material
+			 5 × TM Material
 			 3 × Genius Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -178,7 +178,7 @@ Event Raid Identifier: 2023010601
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  2 × Crafting Material
+			    5%  2 × TM Material
 			    2%  1 × Ability Capsule
 
 5-Star Dragapult
@@ -198,9 +198,9 @@ Event Raid Identifier: 2023010601
 		Item Drops:
 			 1 × Exp. Candy XL
 			 1 × Exp. Candy XL
-			 5 × Crafting Material
+			 5 × TM Material
 			 3 × Genius Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -216,6 +216,6 @@ Event Raid Identifier: 2023010601
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			    4%  1 × Tera Shard
-			    5%  2 × Crafting Material
+			    5%  2 × TM Material
 			    2%  1 × Ability Capsule
 

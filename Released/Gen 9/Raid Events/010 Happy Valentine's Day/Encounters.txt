@@ -1,4 +1,4 @@
-Event Raid Identifier: 2023021301
+Event Raid Identifier: 20230213
 1-Star Tandemaus
 	Tera Type: Random
 	Capture Level: 12
@@ -14,9 +14,9 @@ Event Raid Identifier: 2023021301
 		Item Drops:
 			 2 × Exp. Candy XS
 			 2 × Exp. Candy S
-			 2 × Crafting Material
+			 2 × TM Material
 			 2 × Swift Feather
-			 2 × Crafting Material (Only Guests)
+			 2 × TM Material (Only Guests)
 			 2 × Apple
 			 2 × Kiwi
 			 2 × Banana
@@ -48,9 +48,9 @@ Event Raid Identifier: 2023021301
 			None!
 		Item Drops:
 			 5 × Exp. Candy S
-			 4 × Crafting Material
+			 4 × TM Material
 			 2 × Swift Feather
-			 2 × Crafting Material (Only Guests)
+			 2 × TM Material (Only Guests)
 			 2 × Apple
 			 2 × Kiwi
 			 2 × Banana
@@ -83,9 +83,9 @@ Event Raid Identifier: 2023021301
 		Item Drops:
 			 2 × Exp. Candy S
 			 4 × Exp. Candy M
-			 5 × Crafting Material
+			 5 × TM Material
 			 2 × Swift Feather
-			 2 × Crafting Material (Only Guests)
+			 2 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 			 2 × Apple
@@ -120,9 +120,9 @@ Event Raid Identifier: 2023021301
 		Item Drops:
 			 2 × Exp. Candy M
 			 1 × Exp. Candy L
-			 4 × Crafting Material
+			 4 × TM Material
 			 3 × Swift Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 4 × Tera Shard (Only Host)
 			 5 × Apple
@@ -158,9 +158,9 @@ Event Raid Identifier: 2023021301
 		Item Drops:
 			 3 × Exp. Candy L
 			 2 × Exp. Candy XL
-			 8 × Crafting Material
+			 8 × TM Material
 			 5 × Swift Feather
-			 5 × Crafting Material (Only Guests)
+			 5 × TM Material (Only Guests)
 			 4 × Tera Shard
 			 4 × Tera Shard (Only Host)
 			 5 × Apple
@@ -197,9 +197,9 @@ Event Raid Identifier: 2023021301
 		Item Drops:
 			 3 × Exp. Candy L
 			 2 × Exp. Candy XL
-			 8 × Crafting Material
+			 8 × TM Material
 			 5 × Swift Feather
-			 5 × Crafting Material (Only Guests)
+			 5 × TM Material (Only Guests)
 			 4 × Tera Shard
 			 4 × Tera Shard (Only Host)
 			 5 × Apple

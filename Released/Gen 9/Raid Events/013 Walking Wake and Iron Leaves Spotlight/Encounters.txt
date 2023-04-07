@@ -1,4 +1,4 @@
-Event Raid Identifier: 2023022801
+Event Raid Identifier: 20230228
 5-Star Walking Wake
 	Version: Scarlet
 	Tera Type: Water
@@ -6,6 +6,8 @@ Event Raid Identifier: 2023022801
 	Ability: 1 Only
 	IVs: 4 Flawless
 	Shiny: Never
+	Scale: 128
+	Catchable: Only Once
 		Moves:
 			- Hydro Steam
 			- Dragon Pulse
@@ -17,9 +19,9 @@ Event Raid Identifier: 2023022801
 		Item Drops:
 			 1 × Exp. Candy L
 			 1 × Exp. Candy XL
-			 5 × Crafting Material
+			 5 × TM Material
 			 3 × Health Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -35,7 +37,7 @@ Event Raid Identifier: 2023022801
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			   11%  2 × Tera Shard
-			    5%  2 × Crafting Material
+			    5%  2 × TM Material
 			    2%  1 × Ability Capsule
 
 5-Star Iron Leaves
@@ -45,6 +47,8 @@ Event Raid Identifier: 2023022801
 	Ability: 1 Only
 	IVs: 4 Flawless
 	Shiny: Never
+	Scale: 128
+	Catchable: Only Once
 		Moves:
 			- Psyblade
 			- Leaf Blade
@@ -56,9 +60,9 @@ Event Raid Identifier: 2023022801
 		Item Drops:
 			 1 × Exp. Candy L
 			 1 × Exp. Candy XL
-			 5 × Crafting Material
+			 5 × TM Material
 			 3 × Health Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -74,6 +78,6 @@ Event Raid Identifier: 2023022801
 			    3%  1 × PP Up
 			    2%  1 × Bottle Cap
 			   11%  2 × Tera Shard
-			    5%  2 × Crafting Material
+			    5%  2 × TM Material
 			    2%  1 × Ability Capsule
 

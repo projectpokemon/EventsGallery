@@ -1,4 +1,4 @@
-Event Raid Identifier: 2022112501
+Event Raid Identifier: 20221125
 1-Star Eevee
 	Tera Type: Random
 	Capture Level: 12
@@ -14,13 +14,13 @@ Event Raid Identifier: 2022112501
 		Item Drops:
 			 1 × Exp. Candy XS
 			 2 × Exp. Candy S
-			 1 × Crafting Material
+			 1 × TM Material
 			 1 × Pretty Feather
-			 1 × Crafting Material (Only Guests)
+			 1 × TM Material (Only Guests)
 		Bonus Drops:
 			   20%  1 × Exp. Candy XS
 			  8,5%  1 × Exp. Candy S
-			    7%  1 × Crafting Material
+			    7%  1 × TM Material
 			    5%  1 × Health Feather
 			    5%  1 × Muscle Feather
 			    5%  1 × Resist Feather
@@ -49,9 +49,9 @@ Event Raid Identifier: 2022112501
 			None!
 		Item Drops:
 			 4 × Exp. Candy S
-			 2 × Crafting Material
+			 2 × TM Material
 			 1 × Pretty Feather
-			 1 × Crafting Material (Only Guests)
+			 1 × TM Material (Only Guests)
 		Bonus Drops:
 			   12%  1 × Exp. Candy S
 			   13%  1 × Exp. Candy M
@@ -59,7 +59,7 @@ Event Raid Identifier: 2022112501
 			    4%  1 × Pecha Berry
 			    4%  1 × Rawst Berry
 			   30%  1 × Stardust
-			 12,5%  1 × Crafting Material
+			 12,5%  1 × TM Material
 			    3%  1 × Health Feather
 			    3%  1 × Muscle Feather
 			    3%  1 × Resist Feather
@@ -87,9 +87,9 @@ Event Raid Identifier: 2022112501
 		Item Drops:
 			 2 × Exp. Candy S
 			 2 × Exp. Candy M
-			 3 × Crafting Material
+			 3 × TM Material
 			 1 × Pretty Feather
-			 2 × Crafting Material (Only Guests)
+			 2 × TM Material (Only Guests)
 			 1 × Tera Shard
 			 1 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -98,7 +98,7 @@ Event Raid Identifier: 2022112501
 			    5%  1 × Sitrus Berry
 			    5%  1 × Lum Berry
 			   30%  1 × Big Mushroom
-			 16,5%  1 × Crafting Material
+			 16,5%  1 × TM Material
 			    3%  1 × Health Feather
 			    3%  1 × Muscle Feather
 			    3%  1 × Resist Feather
@@ -126,9 +126,9 @@ Event Raid Identifier: 2022112501
 		Item Drops:
 			 3 × Exp. Candy M
 			 1 × Exp. Candy L
-			 4 × Crafting Material
+			 4 × TM Material
 			 2 × Pretty Feather
-			 2 × Crafting Material (Only Guests)
+			 2 × TM Material (Only Guests)
 			 1 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -141,7 +141,7 @@ Event Raid Identifier: 2022112501
 			   15%  1 × Big Mushroom
 			    5%  1 × Big Nugget
 			    3%  1 × Tera Shard
-			  5,5%  2 × Crafting Material
+			  5,5%  2 × TM Material
 			    1%  1 × Water Stone
 			    1%  1 × Fire Stone
 			    1%  1 × Thunder Stone
@@ -169,9 +169,9 @@ Event Raid Identifier: 2022112501
 		Item Drops:
 			 2 × Exp. Candy L
 			 1 × Exp. Candy XL
-			 5 × Crafting Material
+			 5 × TM Material
 			 3 × Pretty Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:
@@ -215,9 +215,9 @@ Event Raid Identifier: 2022112501
 		Item Drops:
 			 2 × Exp. Candy L
 			 1 × Exp. Candy XL
-			 5 × Crafting Material
+			 5 × TM Material
 			 3 × Pretty Feather
-			 3 × Crafting Material (Only Guests)
+			 3 × TM Material (Only Guests)
 			 2 × Tera Shard
 			 2 × Tera Shard (Only Host)
 		Bonus Drops:

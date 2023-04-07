@@ -1,11 +1,16 @@
-Event Raid Identifier: 2023022401
+Event Raid Identifier: 20230224
 7-Star Pikachu
 	Tera Type: Water
 	Capture Level: 100
 	Ability: Hidden Only
 	Nature: Quiet
 	IVs: 6 Flawless
+	EVs: 252 HP / 6 Atk / 252 SpA
 	Shiny: Never
+	Scale: 240-255
+	HP Multiplier: 50,0x
+	Held Item: Light Ball
+	Catchable: Only Once
 		Moves:
 			- Thunder
 			- Surf
