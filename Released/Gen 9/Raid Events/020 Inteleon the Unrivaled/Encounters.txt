@@ -1,0 +1,46 @@
+Event Raid Identifier: 20230428
+7-Star Inteleon
+	Tera Type: Ice
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Quiet
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30,0x
+	Catchable: Only Once
+		Moves:
+			- Blizzard
+			- Snipe Shot
+			- Dark Pulse
+			- Tearful Look
+		Extra Moves:
+			- Mist
+			- Snowscape
+			- Blizzard
+			- Mist
+			- Snowscape
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Zinc
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM143 Blizzard (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			   10%  5 × Zinc
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Quiet Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
