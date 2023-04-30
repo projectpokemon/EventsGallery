@@ -1,7 +1,7 @@
 # Poké Portal News (Raid Events)
 
 ## Instructions
-To import these files into your save, use PKHeX's block importing function. Our [tutorial](https://projectpokemon.org/home/tutorials/save-editing/gen-9/gen-9-specific-edits-importing-poké-portal-news-raid-events-r124/) should guide you through it.
+To import these files into your save, use our [tutorial for importing Poké Portal News](https://projectpokemon.org/home/tutorials/save-editing/gen-9/gen-9-specific-edits-importing-poké-portal-news-raid-events-r124/).
 
 ## Version Guide
 | Version | Starting Raid Index | Ending Raid Index |

@@ -17,10 +17,9 @@ The collective effort of the Project Pokémon (and other) communities to preserv
 * For Gen 4, 5, 6 and 7 (3DS) events, use the [PKHeX Mystery Gift feature](https://projectpokemon.org/home/tutorials/save-editing/using-pkhex/importing-wondercards-r29/)
 * For Gen 7 (Switch), 8 and 9 events, use the [Switch Gift Data Manager](https://projectpokemon.org/home/forums/topic/62491-switch-gift-data-manager-import-wondercards-into-switch-games-by-faking-bcat-packages/)
 
-#### • Import Raid blocks with PKHeX
-1. Follow our [tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/) to import the files into the corresponding blocks into your save file.
-1. Sword and Shield Raid blocks: `KDropRewards`, `KDaiEncount`, `KBonusRewards`, `KNormalEncount`, `KNormalEncountRigel1`, `KNormalEncountRigel2`. 
-1. Scarlet and Violet Raid blocks: `KBCATEventRaidIdentifier`, `KBCATFixedRewardItemArray`, `KBCATLotteryRewardItemArray`, `KBCATRaidEnemyArray`, `KBCATRaidPriorityArray`. 
+#### • Import Raid Events
+* For Sword/Shield raids, follow our [PKHeX Block Editing tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/). The blocks to be imported are labeled as follows: `*Object KDropRewards`, `*Object KDaiEncount`, `*Object KBonusRewards`, `*Object KNormalEncount`, `*Object KNormalEncountRigel1`, `*Object KNormalEncountRigel2`. 
+* For Scarlet/Violet raids, follow the [tutorial for importing Poké Portal News](https://projectpokemon.org/home/tutorials/save-editing/gen-9/gen-9-specific-edits-importing-poké-portal-news-raid-events-r124/).
 
 ### How do I get Gen 8 and 9 events if they are not on the save file?
 Pokemon games on Nintendo Switch use a system called BCAT. BCAT data is synchronized when your game goes online.
