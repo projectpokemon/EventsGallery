@@ -1,0 +1,128 @@
+Event Raid Identifier: 20230507
+7-Star Inteleon
+	Tera Type: Ice
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Quiet
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30,0x
+	Catchable: Only Once
+		Moves:
+			- Blizzard
+			- Snipe Shot
+			- Dark Pulse
+			- Tearful Look
+		Extra Moves:
+			- Mist
+			- Snowscape
+			- Blizzard
+			- Mist
+			- Snowscape
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Zinc
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM143 Blizzard (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			   10%  5 × Zinc
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Quiet Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
+5-Star Walking Wake
+	Version: Scarlet
+	Tera Type: Water
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+	Catchable: Only Once
+		Moves:
+			- Hydro Steam
+			- Dragon Pulse
+			- Noble Roar
+			- Flamethrower
+		Extra Moves:
+			- Sunny Day
+			- Hydro Steam
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × TM Material
+			 3 × Health Feather
+			 3 × TM Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Health Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Naive Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    5%  2 × TM Material
+			    2%  1 × Ability Capsule
+
+5-Star Iron Leaves
+	Version: Violet
+	Tera Type: Psychic
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+	Catchable: Only Once
+		Moves:
+			- Psyblade
+			- Leaf Blade
+			- Megahorn
+			- Swords Dance
+		Extra Moves:
+			- Electric Terrain
+			- Psyblade
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × TM Material
+			 3 × Health Feather
+			 3 × TM Material (Only Guests)
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Health Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Naive Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    5%  2 × TM Material
+			    2%  1 × Ability Capsule
+
