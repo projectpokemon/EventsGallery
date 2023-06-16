@@ -1,0 +1,185 @@
+Event Raid Identifier: 20230520
+7-Star Chesnaught
+	Tera Type: Rock
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Impish
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 35,0x
+	Catchable: Only Once
+		Moves:
+			- Earthquake
+			- Hammer Arm
+			- Stone Edge
+			- Wood Hammer
+		Extra Moves:
+			- Iron Defense
+			- Earthquake
+			- Bulk Up
+			- Curse
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Iron
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM150 Stone Edge (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			   10%  5 × Iron
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Impish Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
+5-Star Great Tusk
+	Version: Scarlet
+	Tera Type: Steel
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Close Combat
+			- Earthquake
+			- Rock Slide
+			- Ice Spinner
+		Extra Moves:
+			- Sunny Day
+			- Stomping Tantrum
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Muscle Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			24,21%  1 × Exp. Candy L
+			11,58%  2 × Exp. Candy L
+			 4,21%  1 × Rare Candy
+			10,53%  2 × Muscle Feather
+			 8,42%  3 × Hondew Berry
+			12,63%  1 × Big Pearl
+			 2,11%  1 × Pearl String
+			 5,26%  1 × Nugget
+			 2,11%  1 × Jolly Mint
+			 3,16%  1 × PP Up
+			 2,11%  1 × Bottle Cap
+			11,58%  2 × Tera Shard
+			 2,11%  1 × Ability Capsule
+
+5-Star Iron Treads
+	Version: Violet
+	Tera Type: Ground
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Iron Head
+			- Earthquake
+			- Megahorn
+			- Wild Charge
+		Extra Moves:
+			- Electric Terrain
+			- Bulldoze
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Muscle Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			24,21%  1 × Exp. Candy L
+			11,58%  2 × Exp. Candy L
+			 4,21%  1 × Rare Candy
+			10,53%  2 × Muscle Feather
+			 8,42%  3 × Hondew Berry
+			12,63%  1 × Big Pearl
+			 2,11%  1 × Pearl String
+			 5,26%  1 × Nugget
+			 2,11%  1 × Jolly Mint
+			 3,16%  1 × PP Up
+			 2,11%  1 × Bottle Cap
+			11,58%  2 × Tera Shard
+			 2,11%  1 × Ability Capsule
+
+5-Star Great Tusk
+	Version: Scarlet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Close Combat
+			- Earthquake
+			- Rock Slide
+			- Ice Spinner
+		Extra Moves:
+			- Sunny Day
+			- Stomping Tantrum
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Muscle Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			24,21%  1 × Exp. Candy L
+			11,58%  2 × Exp. Candy L
+			 4,21%  1 × Rare Candy
+			10,53%  2 × Muscle Feather
+			 8,42%  3 × Hondew Berry
+			12,63%  1 × Big Pearl
+			 2,11%  1 × Pearl String
+			 5,26%  1 × Nugget
+			 2,11%  1 × Jolly Mint
+			 3,16%  1 × PP Up
+			 2,11%  1 × Bottle Cap
+			11,58%  2 × Tera Shard
+			 2,11%  1 × Ability Capsule
+
+5-Star Iron Treads
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Iron Head
+			- Earthquake
+			- Megahorn
+			- Wild Charge
+		Extra Moves:
+			- Electric Terrain
+			- Bulldoze
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Muscle Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			24,21%  1 × Exp. Candy L
+			11,58%  2 × Exp. Candy L
+			 4,21%  1 × Rare Candy
+			10,53%  2 × Muscle Feather
+			 8,42%  3 × Hondew Berry
+			12,63%  1 × Big Pearl
+			 2,11%  1 × Pearl String
+			 5,26%  1 × Nugget
+			 2,11%  1 × Jolly Mint
+			 3,16%  1 × PP Up
+			 2,11%  1 × Bottle Cap
+			11,58%  2 × Tera Shard
+			 2,11%  1 × Ability Capsule
+
