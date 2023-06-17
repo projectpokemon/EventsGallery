@@ -1,0 +1,14 @@
+{
+  "Table": [
+    {
+      "VersionNo": 20230520,
+      "GroupID": {
+        "Groups": {
+          "GroupID01": 1,
+          "GroupID02": 5,
+          "GroupID03": 5
+        }
+      }
+    }
+  ]
+}
