@@ -1,0 +1,8860 @@
+{
+  "Table": [
+    {
+      "TableName": 15362279500539821096,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 100,
+        "Rate": 1,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 101,
+        "Rate": 1,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 58,
+        "Rate": 1,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 15362282799074705729,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 101,
+        "Rate": 3,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 58,
+        "Rate": 1,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 15362281699563077518,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 101,
+        "Rate": 1,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 102,
+        "Rate": 2,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 58,
+        "Rate": 2,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 2,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 514,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 2,
+        "ItemID": 1,
+        "Num": 0,
+        "Rate": 514,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 15362284998097962151,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 102,
+        "Rate": 2,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 103,
+        "Rate": 1,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 58,
+        "Rate": 3,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 2,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 514,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 2,
+        "ItemID": 1,
+        "Num": 0,
+        "Rate": 514,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 15362283898586333940,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 103,
+        "Rate": 1,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 104,
+        "Rate": 1,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 58,
+        "Rate": 5,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 2,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 516,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 2,
+        "ItemID": 1,
+        "Num": 0,
+        "Rate": 516,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    },
+    {
+      "TableName": 14695981039346656837,
+      "RewardItem00": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem01": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem02": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem03": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem04": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem05": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem06": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem07": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem08": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem09": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem10": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem11": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem12": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem13": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem14": {
+        "Category": 0,
+        "ItemID": 0,
+        "Num": 0,
+        "Rate": 0,
+        "RareItemFlag": false
+      },
+      "RewardItem15": null,
+      "RewardItem16": null,
+      "RewardItem17": null,
+      "RewardItem18": null,
+      "RewardItem19": null,
+      "RewardItem20": null,
+      "RewardItem21": null,
+      "RewardItem22": null,
+      "RewardItem23": null,
+      "RewardItem24": null,
+      "RewardItem25": null,
+      "RewardItem26": null,
+      "RewardItem27": null,
+      "RewardItem28": null,
+      "RewardItem29": null
+    }
+  ]
+}

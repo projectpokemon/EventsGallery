@@ -1,0 +1,142 @@
+Event Raid Identifier: 20230622
+1-Star Gimmighoul
+	Tera Type: Random
+	Capture Level: 12
+	Ability: 1 Only
+	IVs: 1 Flawless
+	Shiny: Never
+		Moves:
+			- Tackle
+			- Astonish
+		Extra Moves:
+			None!
+		Item Drops:
+			 1 × Exp. Candy XS
+			 1 × Exp. Candy S
+			 1 × Swift Feather
+		Bonus Drops:
+			   30%  1 × Exp. Candy XS
+			    8%  1 × Exp. Candy S
+			    8%  1 × Swift Feather
+			    8%  1 × Chesto Berry
+			    8%  2 × Chesto Berry
+			    8%  1 × Persim Berry
+			   30%  1 × Pretty Feather
+
+2-Star Gimmighoul
+	Tera Type: Random
+	Capture Level: 20
+	Ability: 1 Only
+	IVs: 1 Flawless
+	Shiny: Never
+		Moves:
+			- Tackle
+			- Astonish
+			- Hex
+		Extra Moves:
+			None!
+		Item Drops:
+			 3 × Exp. Candy S
+			 1 × Swift Feather
+		Bonus Drops:
+			   28%  1 × Exp. Candy S
+			   20%  1 × Exp. Candy M
+			   10%  1 × Swift Feather
+			    4%  1 × Chesto Berry
+			    4%  2 × Chesto Berry
+			    4%  1 × Persim Berry
+			   30%  1 × Pearl
+
+3-Star Gimmighoul
+	Tera Type: Random
+	Capture Level: 35
+	Ability: 1 Only
+	IVs: 2 Flawless
+	Shiny: Never
+		Moves:
+			- Tackle
+			- Astonish
+			- Hex
+			- Power Gem
+		Extra Moves:
+			None!
+		Item Drops:
+			 1 × Exp. Candy S
+			 2 × Exp. Candy M
+			 2 × Swift Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   10%  1 × Exp. Candy S
+			   14%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy M
+			   10%  1 × Swift Feather
+			   11%  1 × Sitrus Berry
+			   13%  1 × Lum Berry
+			   12%  1 × Big Pearl
+			   25%  1 × Big Mushroom
+
+4-Star Gimmighoul
+	Tera Type: Random
+	Capture Level: 45
+	Ability: 1 Only
+	IVs: 3 Flawless
+	Shiny: Never
+		Moves:
+			- Take Down
+			- Astonish
+			- Hex
+			- Power Gem
+		Extra Moves:
+			- Nasty Plot
+		Item Drops:
+			 2 × Exp. Candy M
+			 1 × Exp. Candy L
+			 3 × Swift Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			16,48%  1 × Exp. Candy M
+			15,38%  1 × Exp. Candy M
+			 5,49%  2 × Exp. Candy L
+			10,99%  1 × Swift Feather
+			 7,69%  1 × Sitrus Berry
+			 7,69%  1 × Lum Berry
+			10,99%  3 × Kelpsy Berry
+			16,48%  1 × Big Pearl
+			 5,49%  1 × Nugget
+			  3,3%  2 × Tera Shard
+
+5-Star Gimmighoul
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Take Down
+			- Shadow Ball
+			- Hex
+			- Power Gem
+		Extra Moves:
+			- Nasty Plot
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Swift Feather
+			 4 × Tera Shard
+			 4 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  3 × Swift Feather
+			    8%  3 × Kelpsy Berry
+			   23%  1 × Nugget
+			    2%  1 × Comet Shard
+			    5%  1 × Nugget
+			    3%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    4%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
