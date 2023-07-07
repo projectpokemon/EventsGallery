@@ -1,0 +1,44 @@
+Event Raid Identifier: 20230707
+7-Star Delphox
+	Tera Type: Fairy
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Timid
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30,0x
+	Catchable: Only Once
+		Moves:
+			- Fire Blast
+			- Psychic
+			- Dazzling Gleam
+			- Will-O-Wisp
+		Extra Moves:
+			- Dazzling Gleam
+			- Magic Room
+			- Nasty Plot
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Calcium
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM141 Fire Blast (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			   10%  5 × Calcium
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Timid Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
