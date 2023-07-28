@@ -1,0 +1,45 @@
+Event Raid Identifier: 20230728
+7-Star Rillaboom
+	Tera Type: Normal
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Jolly
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 35,0x
+	Catchable: Only Once
+		Moves:
+			- Drum Beating
+			- Acrobatics
+			- Body Slam
+			- Low Kick
+		Extra Moves:
+			- Growth
+			- Growth
+			- Boomburst
+			- Bulk Up
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Carbos
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM066 Body Slam (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			   10%  5 × Carbos
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Jolly Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
