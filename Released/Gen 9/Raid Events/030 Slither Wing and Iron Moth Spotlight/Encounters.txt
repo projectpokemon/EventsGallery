@@ -1,0 +1,141 @@
+Event Raid Identifier: 20230922
+5-Star Slither Wing
+	Version: Scarlet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Superpower
+			- First Impression
+			- Flare Blitz
+			- Heavy Slam
+		Extra Moves:
+			- Sunny Day
+			- Stun Spore
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Muscle Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			24,21%  1 × Exp. Candy L
+			11,58%  2 × Exp. Candy L
+			 4,21%  1 × Rare Candy
+			10,53%  2 × Muscle Feather
+			 8,42%  3 × Hondew Berry
+			12,63%  1 × Big Pearl
+			 2,11%  1 × Pearl String
+			 5,26%  1 × Nugget
+			 2,11%  1 × Adamant Mint
+			 3,16%  1 × PP Up
+			 2,11%  1 × Bottle Cap
+			11,58%  2 × Tera Shard
+			 2,11%  1 × Ability Capsule
+
+5-Star Slither Wing
+	Version: Scarlet
+	Tera Type: Fire
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Superpower
+			- First Impression
+			- Flare Blitz
+			- Heavy Slam
+		Extra Moves:
+			- Sunny Day
+			- Stun Spore
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Muscle Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			24,21%  1 × Exp. Candy L
+			11,58%  2 × Exp. Candy L
+			 4,21%  1 × Rare Candy
+			10,53%  2 × Muscle Feather
+			 8,42%  3 × Hondew Berry
+			12,63%  1 × Big Pearl
+			 2,11%  1 × Pearl String
+			 5,26%  1 × Nugget
+			 2,11%  1 × Adamant Mint
+			 3,16%  1 × PP Up
+			 2,11%  1 × Bottle Cap
+			11,58%  2 × Tera Shard
+			 2,11%  1 × Ability Capsule
+
+5-Star Iron Moth
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Energy Ball
+			- Overheat
+			- Sludge Wave
+			- Acid Spray
+		Extra Moves:
+			- Electric Terrain
+			- Screech
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Swift Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			24,21%  1 × Exp. Candy L
+			11,58%  2 × Exp. Candy L
+			 4,21%  1 × Rare Candy
+			10,53%  2 × Swift Feather
+			 8,42%  3 × Kelpsy Berry
+			12,63%  1 × Big Pearl
+			 2,11%  1 × Pearl String
+			 5,26%  1 × Nugget
+			 2,11%  1 × Timid Mint
+			 3,16%  1 × PP Up
+			 2,11%  1 × Bottle Cap
+			11,58%  2 × Tera Shard
+			 2,11%  1 × Ability Capsule
+
+5-Star Iron Moth
+	Version: Violet
+	Tera Type: Grass
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Energy Ball
+			- Overheat
+			- Sludge Wave
+			- Acid Spray
+		Extra Moves:
+			- Electric Terrain
+			- Screech
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Swift Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			24,21%  1 × Exp. Candy L
+			11,58%  2 × Exp. Candy L
+			 4,21%  1 × Rare Candy
+			10,53%  2 × Swift Feather
+			 8,42%  3 × Kelpsy Berry
+			12,63%  1 × Big Pearl
+			 2,11%  1 × Pearl String
+			 5,26%  1 × Nugget
+			 2,11%  1 × Timid Mint
+			 3,16%  1 × PP Up
+			 2,11%  1 × Bottle Cap
+			11,58%  2 × Tera Shard
+			 2,11%  1 × Ability Capsule
+
