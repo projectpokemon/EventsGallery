@@ -1,53 +1,8 @@
 {
   "Table": [
     {
-      "ID": 20230929001,
-      "DevId": 35,
-      "Sex": 0,
-      "FormId": 0,
-      "MinLevel": 10,
-      "MaxLevel": 60,
-      "Area": {
-        "Area01": false,
-        "Area02": false,
-        "Area03": false,
-        "Area04": false,
-        "Area05": false,
-        "Area06": false,
-        "Area07": false,
-        "Area08": false,
-        "Area09": false,
-        "Area10": false,
-        "Area11": false,
-        "Area12": false,
-        "Area13": false,
-        "Area14": false,
-        "Area15": false,
-        "Area16": false,
-        "Area17": false,
-        "Area18": false,
-        "Area19": false,
-        "Area20": false,
-        "Area21": false,
-        "Area22": false,
-        "Area23": false
-      },
-      "LocationName": 14695981039346656837,
-      "Enable": {},
-      "Version": {
-        "A": true,
-        "B": true
-      },
-      "Item": {},
-      "EnableRarePercentage": false,
-      "RarePercentage": 0,
-      "AddRibbonType": 83,
-      "AddRibbonPercentage": 5,
-      "EnableScaleRange": false,
-      "MinScale": 0,
-      "MaxScale": 0
-    },
-    {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -80,7 +35,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -95,6 +52,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -127,7 +86,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -142,6 +103,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -174,7 +137,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -189,6 +154,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -221,7 +188,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -236,6 +205,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -268,7 +239,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -283,6 +256,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -315,7 +290,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -330,6 +307,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -362,7 +341,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -377,6 +358,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -409,7 +392,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -424,6 +409,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -456,7 +443,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -471,6 +460,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -503,7 +494,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -518,6 +511,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -550,7 +545,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -565,6 +562,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -597,7 +596,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -612,6 +613,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -644,7 +647,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -659,6 +664,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -691,7 +698,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -706,6 +715,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -738,7 +749,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -753,6 +766,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -785,7 +800,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -800,6 +817,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -832,7 +851,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -847,6 +868,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -879,7 +902,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -894,6 +919,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -926,7 +953,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -941,6 +970,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -973,7 +1004,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -988,6 +1021,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -1020,7 +1055,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -1035,6 +1072,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -1067,7 +1106,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -1082,6 +1123,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -1114,7 +1157,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -1129,6 +1174,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -1161,7 +1208,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -1176,6 +1225,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -1208,7 +1259,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -1223,6 +1276,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -1255,7 +1310,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -1270,6 +1327,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -1302,7 +1361,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -1317,6 +1378,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -1349,7 +1412,9 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
@@ -1364,6 +1429,8 @@
       "MaxScale": 0
     },
     {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
       "ID": 0,
       "DevId": 0,
       "Sex": 0,
@@ -1396,7 +1463,60 @@
         "Area23": false
       },
       "LocationName": 14695981039346656837,
-      "Enable": {},
+      "Enable": {
+        "IsUnrestricted": true
+      },
+      "Version": {
+        "A": true,
+        "B": true
+      },
+      "Item": {},
+      "EnableRarePercentage": false,
+      "RarePercentage": 0,
+      "AddRibbonType": 0,
+      "AddRibbonPercentage": 0,
+      "EnableScaleRange": false,
+      "MinScale": 0,
+      "MaxScale": 0
+    },
+    {
+      "IsSpecificArea": false,
+      "IsAreaConstrained": false,
+      "ID": 0,
+      "DevId": 0,
+      "Sex": 0,
+      "FormId": 0,
+      "MinLevel": 0,
+      "MaxLevel": 0,
+      "Area": {
+        "Area01": false,
+        "Area02": false,
+        "Area03": false,
+        "Area04": false,
+        "Area05": false,
+        "Area06": false,
+        "Area07": false,
+        "Area08": false,
+        "Area09": false,
+        "Area10": false,
+        "Area11": false,
+        "Area12": false,
+        "Area13": false,
+        "Area14": false,
+        "Area15": false,
+        "Area16": false,
+        "Area17": false,
+        "Area18": false,
+        "Area19": false,
+        "Area20": false,
+        "Area21": false,
+        "Area22": false,
+        "Area23": false
+      },
+      "LocationName": 14695981039346656837,
+      "Enable": {
+        "IsUnrestricted": true
+      },
       "Version": {
         "A": true,
         "B": true
