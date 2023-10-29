@@ -1,0 +1,31 @@
+Event Raid Identifier: 20231027
+5-Star Mismagius
+	Tera Type: Ghost
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Shadow Ball
+			- Mystical Fire
+			- Psychic
+			- Icy Wind
+		Extra Moves:
+			- Astonish
+			- Scary Face
+		Item Drops:
+			 2 × Exp. Candy M
+			 2 × Exp. Candy L
+			 3 × Rare Candy
+			 3 × Ghost Tera Shard
+		Bonus Drops:
+			   10%  4 × Exp. Candy S
+			   10%  2 × Exp. Candy M
+			   10%  2 × Exp. Candy L
+			   10%  2 × Exp. Candy XL
+			   10%  3 × Rare Candy
+			   10%  4 × Exp. Candy S
+			   10%  2 × Exp. Candy M
+			   10%  2 × Exp. Candy L
+			   10%  2 × Exp. Candy XL
+			   10%  3 × Rare Candy
+

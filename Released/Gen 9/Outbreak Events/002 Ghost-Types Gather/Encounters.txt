@@ -1,0 +1,21 @@
+Event Outbreak Identifier: 2023102
+
+Mimikyu Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)
+
+Greavard Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)
+
+Drifloon Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)
+
+Phantump Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)
