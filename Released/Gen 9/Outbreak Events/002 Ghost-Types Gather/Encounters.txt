@@ -1,4 +1,4 @@
-Event Outbreak Identifier: 2023102
+Event Outbreak Identifier: 20231027
 
 Mimikyu Mass Outbreak
 	Level: 10-60
