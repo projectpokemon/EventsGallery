@@ -1,0 +1,48 @@
+Event Raid Identifier: 20231117
+7-Star Eevee
+	Tera Type: Normal
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Hardy
+	Gender: Female
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 50,0x
+	Catchable: Only Once
+		Moves:
+			- Double-Edge
+			- Hyper Voice
+			- Bite
+			- Charm
+		Extra Moves:
+			- Baby-Doll Eyes
+		Item Drops:
+			 6 × Exp. Candy L
+			 6 × Exp. Candy XL
+			 5 × HP Up
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × Ability Patch (Only Once)
+			 1 × Water Stone (Only Once)
+			 1 × Thunder Stone (Only Once)
+			 1 × Fire Stone (Only Once)
+			 1 × Leaf Stone (Only Once)
+			 1 × Ice Stone (Only Once)
+		Bonus Drops:
+			   15%  5 × Exp. Candy L
+			   15%  5 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   10%  5 × HP Up
+			    5%  5 × Pomeg Berry
+			    5%  5 × Kelpsy Berry
+			    5%  5 × Qualot Berry
+			    5%  5 × Hondew Berry
+			    5%  5 × Grepa Berry
+			    5%  5 × Tamato Berry
+			    5%  2 × Comet Shard
+			    5%  1 × Bottle Cap
+			    7% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
