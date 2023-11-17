@@ -1,0 +1,41 @@
+Event Outbreak Identifier: 20231117
+
+Eevee Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkJittery (5%)
+
+Eevee Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkIntense (5%)
+
+Eevee Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkIntellectual (5%)
+
+Eevee Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkFlustered (5%)
+
+Eevee Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkRowdy (5%)
+
+Eevee Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkExcited (5%)
+
+Eevee Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkCalmness (5%)
+
+Eevee Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkUnsure (5%)
