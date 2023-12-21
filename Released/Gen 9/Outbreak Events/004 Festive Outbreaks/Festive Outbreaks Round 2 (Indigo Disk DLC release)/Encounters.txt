@@ -1,0 +1,35 @@
+Event Outbreak Identifier: 20231208
+
+Flabébé Mass Outbreak
+	Level: 10-65
+	Gender: Female
+	Shiny: 0,5% rate
+
+Flabébé-1 Mass Outbreak
+	Level: 10-65
+	Gender: Female
+	Shiny: 0,5% rate
+
+Flabébé-2 Mass Outbreak
+	Level: 10-65
+	Gender: Female
+	Shiny: 0,5% rate
+
+Flabébé-3 Mass Outbreak
+	Level: 10-65
+	Gender: Female
+	Shiny: 0,5% rate
+
+Flabébé-4 Mass Outbreak
+	Level: 10-65
+	Gender: Female
+	Shiny: 0,5% rate
+
+Litwick Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Milcery Mass Outbreak
+	Level: 10-65
+	Gender: Female
+	Shiny: 0,5% rate
