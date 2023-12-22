@@ -1,0 +1,5 @@
+Event Outbreak Identifier: 20231222
+
+Delibird Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate

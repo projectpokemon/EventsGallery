@@ -10,4 +10,5 @@ To import these files into your save, use our [tutorial for importing Poké Port
 | 1.1.0   | 002                 | 012               |
 | 1.2.0   | 013                 | 018               |
 | 1.3.0   | 019                 | 029               |
-| 2.0.1   | 030                 |                   |
+| 2.0.1   | 030                 | 037               |
+| 3.0.0   | 037                 |                   |
