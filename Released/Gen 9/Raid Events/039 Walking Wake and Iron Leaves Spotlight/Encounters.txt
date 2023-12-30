@@ -1,0 +1,89 @@
+Event Raid Identifier: 20230228
+5-Star Walking Wake
+	Version: Scarlet
+	Tera Type: Water
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+	Catchable: Only Once
+		Moves:
+			- Hydro Steam
+			- Dragon Pulse
+			- Noble Roar
+			- Flamethrower
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Sunny Day at 99% Time Remaining
+			- Use Hydro Steam at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 3 × Health Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Health Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Naive Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   16%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
+5-Star Iron Leaves
+	Version: Violet
+	Tera Type: Psychic
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+	Catchable: Only Once
+		Moves:
+			- Psyblade
+			- Leaf Blade
+			- Megahorn
+			- Swords Dance
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Electric Terrain at 99% Time Remaining
+			- Use Psyblade at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 3 × Health Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   23%  1 × Exp. Candy L
+			   11%  2 × Exp. Candy L
+			    4%  1 × Rare Candy
+			   10%  2 × Health Feather
+			    8%  3 × Tamato Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Naive Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   16%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
