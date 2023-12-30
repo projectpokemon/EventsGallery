@@ -1,0 +1,16 @@
+Event Outbreak Identifier: 20231225
+
+Dratini Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkJoyful (5%)
+
+Jangmo-o Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkJoyful (5%)
+
+Duraludon Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkJoyful (5%)
