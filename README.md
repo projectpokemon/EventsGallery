@@ -19,7 +19,10 @@ The collective effort of the Project Pokémon (and other) communities to preserv
 
 #### • Import Raid Events
 * For Sword/Shield raids, follow our [PKHeX Block Editing tutorial](https://projectpokemon.org/tutorials/save-editing/gen-8_157/block-editing-r106/). The blocks to be imported are labeled as follows: `*Object KDropRewards`, `*Object KDaiEncount`, `*Object KBonusRewards`, `*Object KNormalEncount`, `*Object KNormalEncountRigel1`, `*Object KNormalEncountRigel2`. 
-* For Scarlet/Violet raids, follow the [tutorial for importing Poké Portal News](https://projectpokemon.org/home/tutorials/save-editing/gen-9/gen-9-specific-edits-importing-poké-portal-news-raid-events-r124/).
+* For Scarlet/Violet raids, follow the [tutorial for importing Raid Events](https://projectpokemon.org/home/tutorials/save-editing/gen-9/gen-9-specific-edits-importing-poké-portal-news-raid-events-r124/).
+
+#### • Import SV Mass Outbreaks Events
+* Follow our [tutorial for importing Mass Outbreak Events](https://projectpokemon.org/home/tutorials/save-editing/gen-9/gen-9-specific-edits-importing-mass-outbreak-events-r127/)
 
 ### How do I get Gen 8 and 9 events if they are not on the save file?
 Pokemon games on Nintendo Switch use a system called BCAT. BCAT data is synchronized when your game goes online.
