@@ -1,0 +1,51 @@
+Event Raid Identifier: 20240112
+7-Star Blaziken
+	Tera Type: Flying
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Adamant
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30,0×
+	Catchable: Only Once
+		Moves:
+			- Blaze Kick
+			- Brave Bird
+			- Earthquake
+			- Low Kick
+		Shield Activation:
+			- 80% HP Remaining
+			- 80% Time Remaining
+		Extra Actions:
+			- Reset Player's Stat Changes at 90% HP Remaining
+			- Use Overheat at 79% HP Remaining
+			- Use Rock Slide at 50% HP Remaining
+			- Use Swords Dance at 90% Time Remaining
+			- Use Bulk Up at 65% Time Remaining
+			- Reset Raid Boss' Stat Changes at 70% HP Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Protein
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM164 Brave Bird (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			   10%  5 × Protein
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Adamant Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+
