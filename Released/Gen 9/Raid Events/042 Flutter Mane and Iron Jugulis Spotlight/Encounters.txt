@@ -1,0 +1,165 @@
+Event Raid Identifier: 20240126
+5-Star Flutter Mane
+	Version: Scarlet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Shadow Ball
+			- Moonblast
+			- Power Gem
+			- Icy Wind
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Sunny Day at 99% Time Remaining
+			- Use Dazzling Gleam at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Genius Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   25%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
+5-Star Flutter Mane
+	Version: Scarlet
+	Tera Type: Fairy
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Shadow Ball
+			- Moonblast
+			- Power Gem
+			- Icy Wind
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Sunny Day at 99% Time Remaining
+			- Use Dazzling Gleam at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Genius Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   25%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
+5-Star Iron Jugulis
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Dark Pulse
+			- Air Slash
+			- Earth Power
+			- Heat Wave
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Electric Terrain at 99% Time Remaining
+			- Use Snarl at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Genius Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   25%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
+5-Star Iron Jugulis
+	Version: Violet
+	Tera Type: Steel
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Dark Pulse
+			- Air Slash
+			- Earth Power
+			- Heat Wave
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Electric Terrain at 99% Time Remaining
+			- Use Snarl at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Genius Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   25%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
