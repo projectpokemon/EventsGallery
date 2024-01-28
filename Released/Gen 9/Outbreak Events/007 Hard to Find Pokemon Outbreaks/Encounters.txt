@@ -1,0 +1,49 @@
+Event Outbreak Identifier: 20240126
+
+Stunky Mass Outbreak
+	Version: Scarlet
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkUncommon (5%)
+
+Skrelp Mass Outbreak
+	Version: Scarlet
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkUncommon (5%)
+
+Gulpin Mass Outbreak
+	Version: Scarlet
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkRare (5%)
+
+Clauncher Mass Outbreak
+	Version: Scarlet
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkRare (5%)
+
+Stunky Mass Outbreak
+	Version: Violet
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkRare (5%)
+
+Skrelp Mass Outbreak
+	Version: Violet
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkRare (5%)
+
+Gulpin Mass Outbreak
+	Version: Violet
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkUncommon (5%)
+
+Clauncher Mass Outbreak
+	Version: Violet
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkUncommon (5%)
