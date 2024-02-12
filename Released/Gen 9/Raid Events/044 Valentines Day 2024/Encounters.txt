@@ -1,0 +1,66 @@
+Event Raid Identifier: 20240212
+3-Star Luvdisc
+	Tera Type: Fairy
+	Capture Level: 35
+	Ability: 1/2/H
+	IVs: 2 Flawless
+		Moves:
+			- Take Down
+			- Sweet Kiss
+			- Flail
+			- Draining Kiss
+		Extra Actions:
+			- Reset Player's Stat Changes at 60% HP Remaining
+		Item Drops:
+			 2 × Exp. Candy XS
+			 2 × Exp. Candy S
+			 2 × Exp. Candy M
+			 2 × Tera Shard
+		Bonus Drops:
+			   20%  1 × Exp. Candy XS
+			   20%  1 × Exp. Candy S
+			   15%  1 × Exp. Candy M
+			   10%  2 × Exp. Candy M
+			    5%  1 × Exp. Candy L
+			   10%  1 × Big Pearl
+			   20%  1 × Pearl
+
+5-Star Luvdisc
+	Tera Type: Fairy
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Safeguard
+			- Hydro Pump
+			- Soak
+			- Aqua Ring
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Charm at 85% Time Remaining
+			- Use Rain Dance at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 3 × Exp. Candy L
+			 3 × Exp. Candy XL
+			 2 × Exp. Candy M
+			 5 × Tera Shard
+			 3 × Rare Candy
+		Bonus Drops:
+			    5%  1 × Pearl String
+			   10%  2 × Exp. Candy M
+			   13%  2 × Exp. Candy L
+			   13%  3 × Exp. Candy L
+			   13%  2 × Exp. Candy XL
+			   13%  3 × Exp. Candy XL
+			   13%  3 × Rare Candy
+			   10%  5 × Rare Candy
+			    3%  3 × Fairy Tera Shard
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			    2%  1 × Ability Capsule
+
