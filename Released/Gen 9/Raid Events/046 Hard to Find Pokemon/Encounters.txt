@@ -1,0 +1,279 @@
+Event Raid Identifier: 20240216
+5-Star Armarouge
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Armor Cannon
+			- Expanding Force
+			- Flash Cannon
+			- Aura Sphere
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Sunny Day at 99% Time Remaining
+			- Use Psychic Terrain at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Genius Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   25%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
+5-Star Ceruledge
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Bitter Blade
+			- Shadow Claw
+			- Psycho Cut
+			- Night Slash
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Sunny Day at 99% Time Remaining
+			- Use Bulk Up at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Muscle Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   25%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Muscle Feather
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Adamant Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
+5-Star Stonjourner
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Rock Slide
+			- Body Press
+			- High Horsepower
+			- Heavy Slam
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Sandstorm at 99% Time Remaining
+			- Use Iron Defense at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Muscle Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   25%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Muscle Feather
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Adamant Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
+5-Star Eiscue
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Liquidation
+			- Ice Spinner
+			- Iron Head
+			- Zen Headbutt
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Amnesia at 99% Time Remaining
+			- Use Snowscape at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Muscle Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   25%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Muscle Feather
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Adamant Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+
+3-Star Armarouge
+	Tera Type: Random
+	Capture Level: 35
+	Ability: 1/2/H
+	IVs: 2 Flawless
+		Moves:
+			- Flame Charge
+			- Night Shade
+			- Lava Plume
+			- Flash Cannon
+		Extra Actions:
+			- Use Sunny Day at 80% Time Remaining
+		Item Drops:
+			 2 × Exp. Candy S
+			 4 × Exp. Candy M
+			 5 × TM Material
+			 2 × Swift Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  2 × Exp. Candy S
+			   18%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy M
+			   10%  1 × Health Feather
+			    7%  1 × Sitrus Berry
+			    8%  1 × Lum Berry
+			   12%  1 × Big Pearl
+			   25%  1 × Big Mushroom
+
+3-Star Ceruledge
+	Tera Type: Random
+	Capture Level: 35
+	Ability: 1/2/H
+	IVs: 2 Flawless
+		Moves:
+			- Flame Charge
+			- Night Shade
+			- Lava Plume
+			- Night Slash
+		Extra Actions:
+			- Use Sunny Day at 80% Time Remaining
+		Item Drops:
+			 2 × Exp. Candy S
+			 4 × Exp. Candy M
+			 5 × TM Material
+			 2 × Swift Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  2 × Exp. Candy S
+			   18%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy M
+			   10%  1 × Health Feather
+			    7%  1 × Sitrus Berry
+			    8%  1 × Lum Berry
+			   12%  1 × Big Pearl
+			   25%  1 × Big Mushroom
+
+3-Star Stonjourner
+	Tera Type: Random
+	Capture Level: 35
+	Ability: 1/2/H
+	IVs: 2 Flawless
+		Moves:
+			- Rock Tomb
+			- Stomp
+			- Low Kick
+			- Bulldoze
+		Extra Actions:
+			- Use Sandstorm at 80% Time Remaining
+		Item Drops:
+			 2 × Exp. Candy S
+			 4 × Exp. Candy M
+			 5 × TM Material
+			 2 × Swift Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  2 × Exp. Candy S
+			   18%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy M
+			   10%  1 × Health Feather
+			    7%  1 × Sitrus Berry
+			    8%  1 × Lum Berry
+			   12%  1 × Big Pearl
+			   25%  1 × Big Mushroom
+
+3-Star Eiscue
+	Tera Type: Random
+	Capture Level: 35
+	Ability: 1/2/H
+	IVs: 2 Flawless
+	Shiny: Never
+	Scale: 128
+		Moves:
+			- Headbutt
+			- Icy Wind
+			- Weather Ball
+			- Liquidation
+		Extra Actions:
+			- Use Snowscape at 80% Time Remaining
+		Item Drops:
+			 2 × Exp. Candy S
+			 4 × Exp. Candy M
+			 5 × TM Material
+			 2 × Swift Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   15%  2 × Exp. Candy S
+			   18%  1 × Exp. Candy M
+			    5%  2 × Exp. Candy M
+			   10%  1 × Health Feather
+			    7%  1 × Sitrus Berry
+			    8%  1 × Lum Berry
+			   12%  1 × Big Pearl
+			   25%  1 × Big Mushroom
+
