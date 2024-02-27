@@ -1,0 +1,13 @@
+Event Outbreak Identifier: 20240223
+
+Voltorb Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Foongus Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Voltorb-Hisui Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
