@@ -1,0 +1,56 @@
+Event Raid Identifier: 20240228
+7-Star Venusaur
+	Tera Type: Ground
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Modest
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30,0×
+	Catchable: Only Once
+		Moves:
+			- Earth Power
+			- Sludge Bomb
+			- Giga Drain
+			- Amnesia
+		Shield Activation:
+			- 85% HP Remaining
+			- 80% Time Remaining
+		Extra Actions:
+			- Use Sunny Day at 99% Time Remaining
+			- Use Growth at 98% Time Remaining
+			- Reset Player's Stat Changes at 85% Time Remaining
+			- Reset Raid Boss' Stat Changes at 80% HP Remaining
+			- Use Sunny Day at 50% HP Remaining
+			- Use Petal Blizzard at 97% Time Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Zinc
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM133 Earth Power (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   13%  3 × Exp. Candy L
+			   16%  5 × Exp. Candy L
+			    8%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			    8%  5 × Zinc
+			    8%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Modest Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    3%  1 × Sweet Herba Mystica
+			    3%  1 × Salty Herba Mystica
+			    3%  1 × Sour Herba Mystica
+			    3%  1 × Bitter Herba Mystica
+			    3%  1 × Spicy Herba Mystica
+
