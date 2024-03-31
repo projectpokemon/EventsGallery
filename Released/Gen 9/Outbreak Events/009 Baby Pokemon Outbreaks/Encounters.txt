@@ -1,0 +1,32 @@
+Event Outbreak Identifier: 20240329
+
+Pichu Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkVigor (5%)
+
+Happiny Mass Outbreak
+	Level: 10-65
+	Gender: Female
+	Shiny: Standard rate
+	Ribbon: MarkVigor (5%)
+
+Riolu Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkVigor (5%)
+
+Munchlax Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkVigor (5%)
+
+Elekid Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkVigor (5%)
+
+Magby Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkVigor (5%)
