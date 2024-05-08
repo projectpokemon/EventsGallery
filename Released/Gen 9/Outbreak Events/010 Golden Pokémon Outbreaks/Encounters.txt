@@ -1,0 +1,17 @@
+Event Outbreak Identifier: 20240426
+
+Magikarp Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Varoom Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Shinx Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Rellor Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
