@@ -1,0 +1,21 @@
+Event Outbreak Identifier: 20240712
+
+Pichu Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Pikachu Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Mimikyu Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Raichu Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Raichu-1 Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate

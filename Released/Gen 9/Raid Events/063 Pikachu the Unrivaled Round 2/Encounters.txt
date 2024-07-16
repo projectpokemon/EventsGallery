@@ -1,0 +1,57 @@
+Event Raid Identifier: 20240712
+7-Star Pikachu
+	Tera Type: Water
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Quiet
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 50,0×
+	Held Item: Light Ball
+	Catchable: Only Once
+		Moves:
+			- Thunder
+			- Surf
+			- Play Rough
+			- Iron Tail
+		Shield Activation:
+			- 99% HP Remaining
+			- 99% Time Remaining
+		Extra Actions:
+			- Use Rain Dance at 99% Time Remaining
+			- Use Surf at 98% Time Remaining
+			- Reduce Tera Orb Charge at 80% Time Remaining
+			- Reset Raid Boss' Stat Changes at 80% Time Remaining
+			- Reduce Tera Orb Charge at 65% Time Remaining
+			- Reset Raid Boss' Stat Changes at 65% HP Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Calcium
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM123 Surf (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   11%  3 × Exp. Candy L
+			   20%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    7%  5 × Calcium
+			    5%  2 × Exp. Candy XL
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    3%  2 × Nugget
+			    2%  1 × Quiet Mint
+			    4%  1 × PP Up
+			    3%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    3%  1 × Sweet Herba Mystica
+			    3%  1 × Salty Herba Mystica
+			    3%  1 × Sour Herba Mystica
+			    3%  1 × Bitter Herba Mystica
+			    3%  1 × Spicy Herba Mystica
+
