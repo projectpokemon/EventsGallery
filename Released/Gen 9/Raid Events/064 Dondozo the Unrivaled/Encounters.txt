@@ -1,0 +1,56 @@
+Event Raid Identifier: 20240726
+7-Star Dondozo
+	Tera Type: Water
+	Capture Level: 100
+	Ability: 1 Only
+	Nature: Adamant
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30,0×
+	Catchable: Only Once
+		Moves:
+			- Wave Crash
+			- Order Up
+			- Earthquake
+			- Avalanche
+		Shield Activation:
+			- 70% HP Remaining
+			- 70% Time Remaining
+		Extra Actions:
+			- Use Yawn at 95% Time Remaining
+			- Reduce Tera Orb Charge at 90% Time Remaining
+			- Reset Player's Stat Changes at 70% Time Remaining
+			- Reset Raid Boss' Stat Changes at 70% HP Remaining
+			- Use Curse at 50% HP Remaining
+			- Use Wave Crash at 30% HP Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × HP Up
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM046 Avalanche (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   13%  3 × Exp. Candy L
+			   16%  5 × Exp. Candy L
+			    8%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			    8%  5 × HP Up
+			    8%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Adamant Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    3%  1 × Sweet Herba Mystica
+			    3%  1 × Salty Herba Mystica
+			    3%  1 × Sour Herba Mystica
+			    3%  1 × Bitter Herba Mystica
+			    3%  1 × Spicy Herba Mystica
+
