@@ -1,0 +1,16 @@
+Event Outbreak Identifier: 20240809
+
+Wattrel Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+	Ribbon: MarkPumpedUp (5%)
+
+Riolu Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+	Ribbon: MarkPumpedUp (5%)
+
+Comfey Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+	Ribbon: MarkPumpedUp (5%)
