@@ -1,0 +1,26 @@
+Event Outbreak Identifier: 20240823
+
+Larvitar Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+	Ribbon: MarkCharismatic (5%)
+
+Bagon Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+	Ribbon: MarkCharismatic (5%)
+
+Goomy Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+	Ribbon: MarkCharismatic (5%)
+
+Sliggoo-1 Mass Outbreak
+	Level: 40-65
+	Shiny: 0,5% rate
+	Ribbon: MarkCharismatic (5%)
+
+Beldum Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+	Ribbon: MarkCharismatic (5%)
