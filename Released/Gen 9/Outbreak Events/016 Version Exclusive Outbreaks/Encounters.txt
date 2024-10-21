@@ -1,0 +1,25 @@
+Event Outbreak Identifier: 20241018
+
+Oranguru Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+
+Passimian Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+
+Cramorant Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+
+Morpeko Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+
+Vulpix-Alola Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+
+Sandshrew-Alola Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
