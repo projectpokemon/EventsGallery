@@ -1,0 +1,21 @@
+Event Outbreak Identifier: 20241028
+
+Gastly Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)
+
+Misdreavus Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)
+
+Bramblin Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)
+
+Shuppet Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)

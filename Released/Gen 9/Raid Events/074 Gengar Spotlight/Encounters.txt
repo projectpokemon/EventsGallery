@@ -1,0 +1,38 @@
+Event Raid Identifier: 20241028
+5-Star Gengar
+	Tera Type: Ghost
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Shadow Ball
+			- Sludge Bomb
+			- Dazzling Gleam
+			- Dark Pulse
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Astonish at 99% Time Remaining
+			- Use Lick at 90% HP Remaining
+			- Reset Raid Boss' Stat Changes at 70% HP Remaining
+			- Reduce Tera Orb Charge at 60% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 2 × Exp. Candy M
+			 2 × Exp. Candy L
+			 3 × Rare Candy
+			 3 × Ghost Tera Shard
+		Bonus Drops:
+			    9%  4 × Exp. Candy S
+			   10%  2 × Exp. Candy M
+			   10%  2 × Exp. Candy L
+			   10%  2 × Exp. Candy XL
+			   10%  3 × Rare Candy
+			    8%  4 × Exp. Candy S
+			   10%  2 × Exp. Candy M
+			   10%  2 × Exp. Candy L
+			   10%  2 × Exp. Candy XL
+			   10%  3 × Rare Candy
+			    3%  1 × Bitter Herba Mystica
+
