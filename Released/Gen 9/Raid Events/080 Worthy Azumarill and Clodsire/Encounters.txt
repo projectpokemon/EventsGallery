@@ -1,0 +1,83 @@
+Event Raid Identifier: 20241206
+5-Star Azumarill
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Hydro Pump
+			- Aqua Tail
+			- Play Rough
+			- Double-Edge
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Charm at 85% Time Remaining
+			- Use Rain Dance at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Health Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   22%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Health Feather
+			    8%  3 × Grepa Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Adamant Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Sweet Herba Mystica
+
+5-Star Clodsire
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Earthquake
+			- Poison Jab
+			- Yawn
+			- Amnesia
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Earthquake at 85% Time Remaining
+			- Use Toxic at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Clever Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   22%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Clever Feather
+			    8%  3 × Qualot Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Careful Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Sweet Herba Mystica
+
