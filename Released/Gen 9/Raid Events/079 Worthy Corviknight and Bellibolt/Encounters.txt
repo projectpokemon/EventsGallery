@@ -1,0 +1,83 @@
+Event Raid Identifier: 20241129
+5-Star Corviknight
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Scary Face
+			- Drill Peck
+			- Steel Wing
+			- Brave Bird
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Hone Claws at 85% Time Remaining
+			- Use Brave Bird at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Resist Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   22%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    8%  3 × Hondew Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Impish Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Spicy Herba Mystica
+
+5-Star Bellibolt
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	IVs: 4 Flawless
+		Moves:
+			- Discharge
+			- Weather Ball
+			- Electric Terrain
+			- Sucker Punch
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Discharge at 85% Time Remaining
+			- Use Spark at 75% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Genius Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   22%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    8%  3 × Kelpsy Berry
+			   12%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Spicy Herba Mystica
+
