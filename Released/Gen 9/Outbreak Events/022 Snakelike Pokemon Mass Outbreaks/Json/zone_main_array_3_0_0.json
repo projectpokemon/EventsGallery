@@ -1,0 +1,74 @@
+{
+  "Table": [
+    {
+      "ZoneID": 20250110101,
+      "LotValue": 100,
+      "Poke1": 2025011001,
+      "Poke1LotValue": 100,
+      "Poke2": 0,
+      "Poke2LotValue": 0,
+      "Poke3": 0,
+      "Poke3LotValue": 0,
+      "Poke4": 0,
+      "Poke4LotValue": 0,
+      "Poke5": 0,
+      "Poke5LotValue": 0
+    },
+    {
+      "ZoneID": 20250110102,
+      "LotValue": 100,
+      "Poke1": 2025011001,
+      "Poke1LotValue": 100,
+      "Poke2": 0,
+      "Poke2LotValue": 0,
+      "Poke3": 0,
+      "Poke3LotValue": 0,
+      "Poke4": 0,
+      "Poke4LotValue": 0,
+      "Poke5": 0,
+      "Poke5LotValue": 0
+    },
+    {
+      "ZoneID": 20250110103,
+      "LotValue": 100,
+      "Poke1": 2025011001,
+      "Poke1LotValue": 100,
+      "Poke2": 0,
+      "Poke2LotValue": 0,
+      "Poke3": 0,
+      "Poke3LotValue": 0,
+      "Poke4": 0,
+      "Poke4LotValue": 0,
+      "Poke5": 0,
+      "Poke5LotValue": 0
+    },
+    {
+      "ZoneID": 20250110104,
+      "LotValue": 100,
+      "Poke1": 2025011001,
+      "Poke1LotValue": 100,
+      "Poke2": 0,
+      "Poke2LotValue": 0,
+      "Poke3": 0,
+      "Poke3LotValue": 0,
+      "Poke4": 0,
+      "Poke4LotValue": 0,
+      "Poke5": 0,
+      "Poke5LotValue": 0
+    },
+    {
+      "ZoneID": 20250110105,
+      "LotValue": 100,
+      "Poke1": 2025011001,
+      "Poke1LotValue": 100,
+      "Poke2": 0,
+      "Poke2LotValue": 0,
+      "Poke3": 0,
+      "Poke3LotValue": 0,
+      "Poke4": 0,
+      "Poke4LotValue": 0,
+      "Poke5": 0,
+      "Poke5LotValue": 0
+    }
+  ]
+}

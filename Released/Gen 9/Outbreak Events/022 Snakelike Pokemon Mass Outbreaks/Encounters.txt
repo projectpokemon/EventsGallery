@@ -1,0 +1,13 @@
+Event Outbreak Identifier: 20250110
+
+Silicobra Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Ekans Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Seviper Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
