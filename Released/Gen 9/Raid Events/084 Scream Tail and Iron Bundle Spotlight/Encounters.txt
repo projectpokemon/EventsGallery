@@ -1,0 +1,85 @@
+Event Raid Identifier: 20250124
+5-Star Scream Tail
+	Version: Scarlet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Psychic
+			- Dazzling Gleam
+			- Hyper Voice
+			- Flamethrower
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Sunny Day at 99% Time Remaining
+			- Use Misty Terrain at 80% Time Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Swift Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   24%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Swift Feather
+			    7%  3 × Kelpsy Berry
+			   11%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Sour Herba Mystica
+
+5-Star Iron Bundle
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+		Moves:
+			- Ice Beam
+			- Chilling Water
+			- Freeze-Dry
+			- Electric Terrain
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Snowscape at 99% Time Remaining
+			- Use Aurora Veil at 98% Time Remaining
+			- Reset Raid Boss' Stat Changes at 50% HP Remaining
+			- Reduce Tera Orb Charge at 40% HP Remaining
+			- Reset Player's Stat Changes at 25% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Swift Feather
+			 2 × Tera Shard
+			 2 × Tera Shard (Only Host)
+		Bonus Drops:
+			   24%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Swift Feather
+			    7%  3 × Kelpsy Berry
+			   11%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  2 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Sour Herba Mystica
+
