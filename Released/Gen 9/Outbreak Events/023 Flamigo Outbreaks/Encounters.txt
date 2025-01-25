@@ -1,0 +1,5 @@
+Event Outbreak Identifier: 20250117
+
+Flamigo Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
