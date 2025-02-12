@@ -1,0 +1,13 @@
+Event Outbreak Identifier: 20250207
+
+Fletchling Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Starly Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Pikipek Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
