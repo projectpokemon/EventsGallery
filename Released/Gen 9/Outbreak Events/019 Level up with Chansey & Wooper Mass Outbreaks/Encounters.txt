@@ -4,8 +4,10 @@ Chansey Mass Outbreak
 	Level: 10-65
 	Gender: Female
 	Shiny: Standard rate
+	Region: Paldea
 
 Wooper Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkAbsentMinded (5%)
+	Region: Kitakami

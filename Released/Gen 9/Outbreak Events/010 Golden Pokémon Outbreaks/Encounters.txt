@@ -2,16 +2,20 @@ Event Outbreak Identifier: 20240426
 
 Magikarp Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
 
 Varoom Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
 
 Shinx Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Kitakami
 
 Rellor Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Blueberry Academy

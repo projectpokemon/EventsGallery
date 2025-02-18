@@ -3,33 +3,40 @@ Event Outbreak Identifier: 20231208
 Flabébé Mass Outbreak
 	Level: 10-65
 	Gender: Female
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
 
 Flabébé-1 Mass Outbreak
 	Level: 10-65
 	Gender: Female
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
 
 Flabébé-2 Mass Outbreak
 	Level: 10-65
 	Gender: Female
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
 
 Flabébé-3 Mass Outbreak
 	Level: 10-65
 	Gender: Female
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
 
 Flabébé-4 Mass Outbreak
 	Level: 10-65
 	Gender: Female
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
 
 Litwick Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Kitakami
 
 Milcery Mass Outbreak
 	Level: 10-65
 	Gender: Female
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Blueberry Academy

@@ -4,18 +4,22 @@ Gastly Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkCrafty (5%)
+	Region: Paldea
 
 Misdreavus Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkCrafty (5%)
+	Region: Paldea
 
 Bramblin Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkCrafty (5%)
+	Region: Paldea
 
 Shuppet Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkCrafty (5%)
+	Region: Paldea

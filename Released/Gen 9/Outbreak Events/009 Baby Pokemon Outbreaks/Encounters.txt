@@ -4,29 +4,35 @@ Pichu Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkVigor (5%)
+	Region: Paldea
 
 Happiny Mass Outbreak
 	Level: 10-65
 	Gender: Female
 	Shiny: Standard rate
 	Ribbon: MarkVigor (5%)
+	Region: Paldea
 
 Riolu Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkVigor (5%)
+	Region: Kitakami
 
 Munchlax Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkVigor (5%)
+	Region: Kitakami
 
 Elekid Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkVigor (5%)
+	Region: Blueberry Academy
 
 Magby Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkVigor (5%)
+	Region: Blueberry Academy

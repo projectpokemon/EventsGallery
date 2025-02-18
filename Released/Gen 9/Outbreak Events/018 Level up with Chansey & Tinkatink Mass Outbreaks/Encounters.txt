@@ -4,9 +4,11 @@ Chansey Mass Outbreak
 	Level: 10-65
 	Gender: Female
 	Shiny: Standard rate
+	Region: Paldea
 
 Tinkatink Mass Outbreak
 	Level: 10-65
 	Gender: Female
 	Shiny: Standard rate
 	Ribbon: MarkFerocious (5%)
+	Region: Paldea
