@@ -2,12 +2,15 @@ Event Outbreak Identifier: 20250207
 
 Fletchling Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
 
 Starly Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Kitakami
 
 Pikipek Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Blueberry Academy

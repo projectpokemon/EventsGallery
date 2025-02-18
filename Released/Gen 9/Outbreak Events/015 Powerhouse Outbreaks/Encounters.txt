@@ -2,25 +2,30 @@ Event Outbreak Identifier: 20240823
 
 Larvitar Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
 	Ribbon: MarkCharismatic (5%)
+	Region: Paldea
 
 Bagon Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
 	Ribbon: MarkCharismatic (5%)
+	Region: Paldea
 
 Goomy Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
 	Ribbon: MarkCharismatic (5%)
+	Region: Kitakami
 
 Sliggoo-1 Mass Outbreak
 	Level: 40-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
 	Ribbon: MarkCharismatic (5%)
+	Region: Kitakami
 
 Beldum Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
 	Ribbon: MarkCharismatic (5%)
+	Region: Blueberry Academy

@@ -2,12 +2,15 @@ Event Outbreak Identifier: 20240726
 
 Tatsugiri-Curly Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
 
 Tatsugiri-Droopy Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Kitakami
 
 Tatsugiri-Stretchy Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Blueberry Academy

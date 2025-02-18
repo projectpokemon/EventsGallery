@@ -1,21 +1,22 @@
-Event Outbreak Identifier: 20240426
+Event Outbreak Identifier: 20241220
 
-Magikarp Mass Outbreak
+Cetoddle Mass Outbreak
 	Level: 10-65
 	Shiny: 0.5% rate
 	Region: Paldea
 
-Varoom Mass Outbreak
+Chansey Mass Outbreak
 	Level: 10-65
-	Shiny: 0.5% rate
+	Gender: Female
+	Shiny: Standard rate
 	Region: Paldea
 
-Shinx Mass Outbreak
+Carbink Mass Outbreak
 	Level: 10-65
 	Shiny: 0.5% rate
 	Region: Kitakami
 
-Rellor Mass Outbreak
+Fraxure Mass Outbreak
 	Level: 10-65
 	Shiny: 0.5% rate
 	Region: Blueberry Academy

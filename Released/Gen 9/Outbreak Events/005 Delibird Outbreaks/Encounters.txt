@@ -2,4 +2,15 @@ Event Outbreak Identifier: 20231222
 
 Delibird Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
+
+Delibird Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Kitakami
+
+Delibird Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Blueberry Academy

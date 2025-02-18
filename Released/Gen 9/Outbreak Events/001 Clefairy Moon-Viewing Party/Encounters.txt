@@ -4,3 +4,10 @@ Clefairy Mass Outbreak
 	Level: 10-60
 	Shiny: Standard rate
 	Ribbon: MarkUpbeat (5%)
+	Region: Paldea
+
+Clefairy Mass Outbreak
+	Level: 10-60
+	Shiny: Standard rate
+	Ribbon: MarkUpbeat (5%)
+	Region: Kitakami

@@ -4,13 +4,16 @@ Dratini Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkJoyful (5%)
+	Region: Paldea
 
 Jangmo-o Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkJoyful (5%)
+	Region: Kitakami
 
 Duraludon Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
 	Ribbon: MarkJoyful (5%)
+	Region: Blueberry Academy

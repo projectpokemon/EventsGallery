@@ -2,20 +2,25 @@ Event Outbreak Identifier: 20240712
 
 Pichu Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Paldea
 
 Pikachu Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Kitakami
 
 Mimikyu Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Kitakami
 
 Raichu Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Blueberry Academy
 
-Raichu-1 Mass Outbreak
+Raichu-Alola Mass Outbreak
 	Level: 10-65
-	Shiny: 0,5% rate
+	Shiny: 0.5% rate
+	Region: Blueberry Academy

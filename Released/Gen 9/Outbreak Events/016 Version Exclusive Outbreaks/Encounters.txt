@@ -3,23 +3,29 @@ Event Outbreak Identifier: 20241018
 Oranguru Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
+	Region: Paldea
 
 Passimian Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
+	Region: Paldea
 
 Cramorant Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
+	Region: Kitakami
 
 Morpeko Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
+	Region: Kitakami
 
 Vulpix-Alola Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
+	Region: Blueberry Academy
 
 Sandshrew-Alola Mass Outbreak
 	Level: 10-65
 	Shiny: Standard rate
+	Region: Blueberry Academy
