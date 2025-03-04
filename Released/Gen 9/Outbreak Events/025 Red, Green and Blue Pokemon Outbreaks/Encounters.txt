@@ -1,0 +1,46 @@
+Event Outbreak Identifier: 20250228
+
+Charcadet Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Paldea
+
+Smoliv Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Paldea
+
+Finizen Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Paldea
+
+Applin Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Kitakami
+
+Sewaddle Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Kitakami
+
+Poliwag Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Kitakami
+
+Porygon Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Blueberry Academy
+
+Scyther Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Blueberry Academy
+
+Lapras Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Blueberry Academy
