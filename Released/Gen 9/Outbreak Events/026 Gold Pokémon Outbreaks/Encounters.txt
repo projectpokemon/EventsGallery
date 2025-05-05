@@ -1,0 +1,13 @@
+Event Outbreak Identifier: 20250430
+
+Wiglett Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Growlithe Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Swablu Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
