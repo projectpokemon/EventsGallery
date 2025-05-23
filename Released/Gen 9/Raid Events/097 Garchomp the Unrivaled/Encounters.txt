@@ -1,0 +1,56 @@
+Event Raid Identifier: 20250523
+7-Star Garchomp
+	Tera Type: Ground
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Jolly
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 25.0×
+	Catchable: Only Once
+		Moves:
+			- Earthquake
+			- Poison Jab
+			- Liquidation
+			- Fire Fang
+		Shield Activation:
+			- 95% HP Remaining
+			- 90% Time Remaining
+		Extra Actions:
+			- Use Breaking Swipe at 99% Time Remaining
+			- Reset Raid Boss' Stat Changes at 76% Time Remaining
+			- Use Swords Dance at 75% Time Remaining
+			- Use Swords Dance at 55% Time Remaining
+			- Reset Player's Stat Changes at 60% HP Remaining
+			- Reset Raid Boss' Stat Changes at 40% HP Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Carbos
+			40 × Tera Shard
+			20 × Tera Shard (Only Host)
+			 1 × TM149 Earthquake (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   13%  3 × Exp. Candy L
+			   16%  5 × Exp. Candy L
+			    8%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			    8%  5 × Carbos
+			    8%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Jolly Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 20 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    3%  1 × Sweet Herba Mystica
+			    3%  1 × Salty Herba Mystica
+			    3%  1 × Sour Herba Mystica
+			    3%  1 × Bitter Herba Mystica
+			    3%  1 × Spicy Herba Mystica
+
