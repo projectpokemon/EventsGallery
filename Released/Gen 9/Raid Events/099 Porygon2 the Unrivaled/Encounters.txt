@@ -7,7 +7,7 @@ Event Raid Identifier: 20250605
 	IVs: 6 Flawless
 	Shiny: Never
 	Scale: 128
-	HP Multiplier: 30,0×
+	HP Multiplier: 30.0×
 	Catchable: Only Once
 		Moves:
 			- Tri Attack
