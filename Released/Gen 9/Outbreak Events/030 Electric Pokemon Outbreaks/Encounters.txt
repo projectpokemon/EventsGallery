@@ -1,0 +1,25 @@
+Event Outbreak Identifier: 20250704
+
+Pawmi Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Dedenne Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Pachirisu Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Morpeko Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Plusle Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
+
+Minun Mass Outbreak
+	Level: 10-65
+	Shiny: 0,5% rate
