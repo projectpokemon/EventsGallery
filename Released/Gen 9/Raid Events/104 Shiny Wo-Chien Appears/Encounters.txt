@@ -1,0 +1,52 @@
+Event Raid Identifier: 20250723
+5-Star Wo-Chien
+	Tera Type: Grass
+	Capture Level: 75
+	Ability: 1 Only
+	Nature: Calm
+	IVs: 31/20/31/31/31/31
+	Shiny: Always
+	Scale: 128
+	Catchable: 0
+		Moves:
+			- Giga Drain
+			- Dark Pulse
+			- Snarl
+			- Pollen Puff
+		Shield Activation:
+			- 85% HP Remaining
+			- 85% Time Remaining
+		Extra Actions:
+			- Use Ruination at 99% Time Remaining
+			- Reset Player's Stat Changes at 80% Time Remaining
+			- Use Leaf Storm at 65% Time Remaining
+			- Reset Raid Boss' Stat Changes at 61% Time Remaining
+			- Reset Player's Stat Changes at 50% HP Remaining
+			- Reset Raid Boss' Stat Changes at 40% HP Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Zinc
+			40 × Tera Shard
+			20 × Tera Shard (Only Host)
+		Bonus Drops:
+			   13%  3 × Exp. Candy L
+			   16%  5 × Exp. Candy L
+			    8%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			    8%  5 × Zinc
+			    8%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Calm Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 20 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    3%  1 × Sweet Herba Mystica
+			    3%  1 × Salty Herba Mystica
+			    3%  1 × Sour Herba Mystica
+			    3%  1 × Bitter Herba Mystica
+			    3%  1 × Spicy Herba Mystica
+
