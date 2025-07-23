@@ -1,0 +1,17 @@
+Event Outbreak Identifier: 20250723
+
+Capsakid Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Paldea
+
+Petilil Mass Outbreak
+	Level: 10-65
+	Gender: Female
+	Shiny: 0.5% rate
+	Region: Kitakami
+
+Oddish Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Blueberry Academy
