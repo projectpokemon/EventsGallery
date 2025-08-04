@@ -1,0 +1,16 @@
+Event Outbreak Identifier: 20250804
+
+Frigibax Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Paldea
+
+Snorunt Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Kitakami
+
+Cubchoo Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Blueberry Academy
