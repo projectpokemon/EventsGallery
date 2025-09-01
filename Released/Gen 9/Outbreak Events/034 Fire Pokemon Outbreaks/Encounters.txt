@@ -1,0 +1,16 @@
+Event Outbreak Identifier: 20250901
+
+Charcadet Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Paldea
+
+Vulpix Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Kitakami
+
+Numel Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Blueberry Academy
