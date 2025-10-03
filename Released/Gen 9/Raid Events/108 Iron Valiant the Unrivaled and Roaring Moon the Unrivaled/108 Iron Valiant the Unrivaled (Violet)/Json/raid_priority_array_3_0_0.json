@@ -1,0 +1,18 @@
+{
+  "Table": [
+    {
+      "VersionNo": 20251003,
+      "GroupID": {
+        "Groups": {
+          "GroupID01": 1,
+          "GroupID02": 2,
+          "GroupID03": 2,
+          "GroupID04": 2,
+          "GroupID05": 2,
+          "GroupID06": 2,
+          "GroupID07": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+Event Raid Identifier: 20251003
+7-Star Iron Valiant
+	Version: Violet
+	Tera Type: Fairy
+	Capture Level: 100
+	Ability: 1 Only
+	Nature: Naive
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30.0×
+	Catchable: Only Once
+		Moves:
+			- Spirit Break
+			- Aura Sphere
+			- Zen Headbutt
+			- Shadow Ball
+		Shield Activation:
+			- 90% HP Remaining
+			- 90% Time Remaining
+		Extra Actions:
+			- Use Electric Terrain at 99% Time Remaining
+			- Reset Raid Boss' Stat Changes at 85% Time Remaining
+			- Use Electric Terrain at 55% Time Remaining
+			- Reset Player's Stat Changes at 65% HP Remaining
+			- Reset Raid Boss' Stat Changes at 45% HP Remaining
+			- Use Swords Dance at 40% HP Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Carbos
+			40 × Tera Shard
+			20 × Tera Shard (Only Host)
+			 1 × TM136 Electric Terrain (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   13%  3 × Exp. Candy L
+			   16%  5 × Exp. Candy L
+			    8%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			    8%  5 × Carbos
+			    8%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Naive Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 20 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    3%  1 × Sweet Herba Mystica
+			    3%  1 × Salty Herba Mystica
+			    3%  1 × Sour Herba Mystica
+			    3%  1 × Bitter Herba Mystica
+			    3%  1 × Spicy Herba Mystica
+
+5-Star Iron Treads
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+		Moves:
+			- High Horsepower
+			- Iron Head
+			- Ice Spinner
+			- Wild Charge
+		Shield Activation:
+			- 55% HP Remaining
+			- 55% Time Remaining
+		Extra Actions:
+			- Use Electric Terrain at 99% Time Remaining
+			- Reduce Tera Orb Charge at 85% Time Remaining
+			- Use Earthquake at 60% Time Remaining
+			- Reset Player's Stat Changes at 65% HP Remaining
+			- Reset Raid Boss' Stat Changes at 45% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Resist Feather
+			 4 × Tera Shard
+			 4 × Tera Shard (Only Host)
+		Bonus Drops:
+			   24%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Resist Feather
+			    7%  3 × Grepa Berry
+			   11%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Jolly Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  4 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Sour Herba Mystica
+
+5-Star Iron Bundle
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+		Moves:
+			- Freeze-Dry
+			- Chilling Water
+			- Icy Wind
+			- Encore
+		Shield Activation:
+			- 55% HP Remaining
+			- 55% Time Remaining
+		Extra Actions:
+			- Use Electric Terrain at 99% Time Remaining
+			- Reduce Tera Orb Charge at 85% Time Remaining
+			- Use Snowscape at 70% Time Remaining
+			- Reset Player's Stat Changes at 65% HP Remaining
+			- Reset Raid Boss' Stat Changes at 45% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Swift Feather
+			 4 × Tera Shard
+			 4 × Tera Shard (Only Host)
+		Bonus Drops:
+			   24%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Swift Feather
+			    7%  3 × Pomeg Berry
+			   11%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Timid Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  4 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Sour Herba Mystica
+
+5-Star Iron Hands
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+		Moves:
+			- Drain Punch
+			- Wild Charge
+			- Heavy Slam
+			- Ice Punch
+		Shield Activation:
+			- 55% HP Remaining
+			- 55% Time Remaining
+		Extra Actions:
+			- Use Electric Terrain at 99% Time Remaining
+			- Reduce Tera Orb Charge at 85% Time Remaining
+			- Use Rock Slide at 60% Time Remaining
+			- Reset Player's Stat Changes at 65% HP Remaining
+			- Reset Raid Boss' Stat Changes at 45% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Health Feather
+			 4 × Tera Shard
+			 4 × Tera Shard (Only Host)
+		Bonus Drops:
+			   24%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Health Feather
+			    7%  3 × Tamato Berry
+			   11%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Brave Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  4 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Sour Herba Mystica
+
+5-Star Iron Jugulis
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+		Moves:
+			- Dark Pulse
+			- Air Slash
+			- Earth Power
+			- Flash Cannon
+		Shield Activation:
+			- 55% HP Remaining
+			- 55% Time Remaining
+		Extra Actions:
+			- Use Electric Terrain at 99% Time Remaining
+			- Reduce Tera Orb Charge at 85% Time Remaining
+			- Use Tailwind at 70% Time Remaining
+			- Reset Player's Stat Changes at 65% HP Remaining
+			- Reset Raid Boss' Stat Changes at 45% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Genius Feather
+			 4 × Tera Shard
+			 4 × Tera Shard (Only Host)
+		Bonus Drops:
+			   24%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Genius Feather
+			    7%  3 × Grepa Berry
+			   11%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Modest Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  4 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Sour Herba Mystica
+
+5-Star Iron Moth
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+		Moves:
+			- Fiery Dance
+			- Sludge Wave
+			- Struggle Bug
+			- Energy Ball
+		Shield Activation:
+			- 55% HP Remaining
+			- 55% Time Remaining
+		Extra Actions:
+			- Use Electric Terrain at 99% Time Remaining
+			- Reduce Tera Orb Charge at 85% Time Remaining
+			- Use Heat Wave at 60% Time Remaining
+			- Reset Player's Stat Changes at 65% HP Remaining
+			- Reset Raid Boss' Stat Changes at 45% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Clever Feather
+			 4 × Tera Shard
+			 4 × Tera Shard (Only Host)
+		Bonus Drops:
+			   24%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Clever Feather
+			    7%  3 × Qualot Berry
+			   11%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Calm Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  4 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Sour Herba Mystica
+
+5-Star Iron Thorns
+	Version: Violet
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1 Only
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+		Moves:
+			- Rock Tomb
+			- Wild Charge
+			- Earthquake
+			- Ice Punch
+		Shield Activation:
+			- 55% HP Remaining
+			- 55% Time Remaining
+		Extra Actions:
+			- Use Electric Terrain at 99% Time Remaining
+			- Reduce Tera Orb Charge at 85% Time Remaining
+			- Use Rock Slide at 60% Time Remaining
+			- Reset Player's Stat Changes at 65% HP Remaining
+			- Reset Raid Boss' Stat Changes at 45% HP Remaining
+		Item Drops:
+			 1 × Exp. Candy L
+			 1 × Exp. Candy XL
+			 5 × Muscle Feather
+			 4 × Tera Shard
+			 4 × Tera Shard (Only Host)
+		Bonus Drops:
+			   24%  1 × Exp. Candy L
+			   13%  2 × Exp. Candy L
+			    5%  1 × Rare Candy
+			   10%  2 × Muscle Feather
+			    7%  3 × Hondew Berry
+			   11%  1 × Big Pearl
+			    2%  1 × Pearl String
+			    5%  1 × Nugget
+			    2%  1 × Careful Mint
+			    3%  1 × PP Up
+			    2%  1 × Bottle Cap
+			   11%  4 × Tera Shard
+			    2%  1 × Ability Capsule
+			    3%  1 × Sour Herba Mystica
+
