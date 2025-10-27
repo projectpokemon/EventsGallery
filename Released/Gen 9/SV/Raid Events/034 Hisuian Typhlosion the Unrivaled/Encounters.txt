@@ -1,0 +1,47 @@
+Event Raid Identifier: 20231103
+7-Star Typhlosion-1
+	Tera Type: Fire
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Modest
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30,0x
+	Catchable: Only Once
+		Moves:
+			- Infernal Parade
+			- Flamethrower
+			- Will-O-Wisp
+			- Focus Blast
+		Extra Moves:
+			- Will-O-Wisp
+			- Sunny Day
+			- Sunny Day
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 3 × Calcium
+			 3 × Carbos
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM107 Will-O-Wisp (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    5%  3 × Calcium
+			    5%  3 × Carbos
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Modest Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    5%  2 × Exp. Candy XL
+
