@@ -1,0 +1,205 @@
+Event Raid Identifier: 20230324
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Extra Moves:
+			- Heal Pulse
+		Item Drops:
+			 5 × Fire Tera Shard
+			 5 × Water Tera Shard
+			 5 × Grass Tera Shard
+			 5 × Tera Shard
+		Bonus Drops:
+			   20%  2 × Tera Shard
+			   15%  3 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Extra Moves:
+			- Heal Pulse
+		Item Drops:
+			 5 × Ice Tera Shard
+			 5 × Poison Tera Shard
+			 5 × Rock Tera Shard
+			 5 × Tera Shard
+		Bonus Drops:
+			   20%  2 × Tera Shard
+			   15%  3 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Extra Moves:
+			- Heal Pulse
+		Item Drops:
+			 5 × Dark Tera Shard
+			 5 × Bug Tera Shard
+			 5 × Psychic Tera Shard
+			 5 × Tera Shard
+		Bonus Drops:
+			   20%  2 × Tera Shard
+			   15%  3 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Extra Moves:
+			- Heal Pulse
+		Item Drops:
+			 5 × Ground Tera Shard
+			 5 × Flying Tera Shard
+			 5 × Electric Tera Shard
+			 5 × Tera Shard
+		Bonus Drops:
+			   20%  2 × Tera Shard
+			   15%  3 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Extra Moves:
+			- Heal Pulse
+		Item Drops:
+			 5 × Ghost Tera Shard
+			 5 × Fighting Tera Shard
+			 5 × Normal Tera Shard
+			 5 × Tera Shard
+		Bonus Drops:
+			   20%  2 × Tera Shard
+			   15%  3 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Extra Moves:
+			- Heal Pulse
+		Item Drops:
+			 5 × Steel Tera Shard
+			 5 × Fairy Tera Shard
+			 5 × Dragon Tera Shard
+			 5 × Tera Shard
+		Bonus Drops:
+			   20%  2 × Tera Shard
+			   15%  3 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Extra Moves:
+			- Heal Pulse
+		Item Drops:
+			 5 × Fire Tera Shard
+			 5 × Water Tera Shard
+			 5 × Grass Tera Shard
+			 5 × Ice Tera Shard
+			 5 × Poison Tera Shard
+			 5 × Rock Tera Shard
+			 5 × Dark Tera Shard
+			 5 × Bug Tera Shard
+			 5 × Psychic Tera Shard
+			15 × Tera Shard
+		Bonus Drops:
+			  100%  1 × Tera Shard
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Extra Moves:
+			- Heal Pulse
+		Item Drops:
+			 5 × Ground Tera Shard
+			 5 × Flying Tera Shard
+			 5 × Electric Tera Shard
+			 5 × Ghost Tera Shard
+			 5 × Fighting Tera Shard
+			 5 × Normal Tera Shard
+			 5 × Steel Tera Shard
+			 5 × Fairy Tera Shard
+			 5 × Dragon Tera Shard
+			15 × Tera Shard
+		Bonus Drops:
+			  100%  1 × Tera Shard
+

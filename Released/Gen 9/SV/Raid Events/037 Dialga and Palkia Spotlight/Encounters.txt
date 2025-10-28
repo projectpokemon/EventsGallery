@@ -1,0 +1,101 @@
+Event Raid Identifier: 20231208
+5-Star Dialga
+	Version: Scarlet
+	Tera Type: Dragon
+	Capture Level: 75
+	Ability: Hidden Only
+	Nature: Quiet
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+	Catchable: Only Once
+		Moves:
+			- Draco Meteor
+			- Earth Power
+			- Fire Blast
+			- Steel Beam
+		Shield Activation:
+			- 80% HP Remaining
+			- 75% Time Remaining
+		Extra Actions:
+			- Use Trick Room at 99% Time Remaining
+			- Use Stealth Rock at 99% HP Remaining
+			- Reset Player's Stat Changes at 80% HP Remaining
+			- Reset Raid Boss' Stat Changes at 75% Time Remaining
+			- Use Iron Defense at 50% HP Remaining
+			- Reset Raid Boss' Stat Changes at 50% Time Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Calcium
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM169 Draco Meteor (Only Once)
+			 1 × Ability Patch (Only Once)
+			50 × Steel Tera Shard (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			   10%  5 × Calcium
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Quiet Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    5%  2 × Exp. Candy XL
+
+5-Star Palkia
+	Version: Violet
+	Tera Type: Dragon
+	Capture Level: 75
+	Ability: Hidden Only
+	Nature: Modest
+	IVs: 4 Flawless
+	Shiny: Never
+	Scale: 128
+	Catchable: Only Once
+		Moves:
+			- Draco Meteor
+			- Thunder
+			- Fire Blast
+			- Hydro Pump
+		Shield Activation:
+			- 80% HP Remaining
+			- 75% Time Remaining
+		Extra Actions:
+			- Use Gravity at 99% Time Remaining
+			- Use Rain Dance at 99% HP Remaining
+			- Reset Player's Stat Changes at 80% HP Remaining
+			- Reset Raid Boss' Stat Changes at 75% Time Remaining
+			- Use Rain Dance at 50% HP Remaining
+			- Reset Raid Boss' Stat Changes at 45% Time Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Calcium
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM169 Draco Meteor (Only Once)
+			 1 × Ability Patch (Only Once)
+			50 × Water Tera Shard (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			   10%  5 × Calcium
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Modest Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    5%  2 × Exp. Candy XL
+
