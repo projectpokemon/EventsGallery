@@ -1,0 +1,56 @@
+Event Raid Identifier: 20251107
+7-Star Hydreigon
+	Tera Type: Poison
+	Capture Level: 100
+	Ability: 1 Only
+	Nature: Modest
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 25.0×
+	Catchable: Only Once
+		Moves:
+			- Tera Blast
+			- Dark Pulse
+			- Dragon Pulse
+			- Earth Power
+		Shield Activation:
+			- 85% HP Remaining
+			- 85% Time Remaining
+		Extra Actions:
+			- Use Snarl at 99% Time Remaining
+			- Reset Raid Boss' Stat Changes at 82% Time Remaining
+			- Use Nasty Plot at 70% Time Remaining
+			- Use Nasty Plot at 55% Time Remaining
+			- Reset Player's Stat Changes at 55% HP Remaining
+			- Use Dragon Dance at 40% HP Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Calcium
+			40 × Tera Shard
+			20 × Tera Shard (Only Host)
+			 1 × TM140 Nasty Plot (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   13%  3 × Exp. Candy L
+			   16%  5 × Exp. Candy L
+			    8%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			    8%  5 × Calcium
+			    8%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Modest Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 20 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    3%  1 × Sweet Herba Mystica
+			    3%  1 × Salty Herba Mystica
+			    3%  1 × Sour Herba Mystica
+			    3%  1 × Bitter Herba Mystica
+			    3%  1 × Spicy Herba Mystica
+
