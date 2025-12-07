@@ -1,0 +1,56 @@
+Event Raid Identifier: 20251205
+7-Star Dragapult
+	Tera Type: Dragon
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Naive
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 35.0×
+	Catchable: Only Once
+		Moves:
+			- Dragon Darts
+			- Shadow Ball
+			- Acrobatics
+			- Flamethrower
+		Shield Activation:
+			- 92% HP Remaining
+			- 92% Time Remaining
+		Extra Actions:
+			- Use Dragon Dance at 99% Time Remaining
+			- Reset Player's Stat Changes at 86% Time Remaining
+			- Use Breaking Swipe at 83% Time Remaining
+			- Reset Player's Stat Changes at 55% HP Remaining
+			- Reset Raid Boss' Stat Changes at 43% HP Remaining
+			- Use Dragon Dance at 40% HP Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Carbos
+			40 × Tera Shard
+			20 × Tera Shard (Only Host)
+			 1 × TM100 Dragon Dance (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			13.83%  3 × Exp. Candy L
+			17.02%  5 × Exp. Candy L
+			 8.51%  2 × Rare Candy
+			 5.32%  2 × Exp. Candy XL
+			 8.51%  5 × Carbos
+			 2.13%  1 × Star Piece
+			 2.13%  1 × Comet Shard
+			 5.32%  2 × Nugget
+			 3.19%  1 × Naive Mint
+			 5.32%  1 × PP Up
+			 4.26%  1 × Bottle Cap
+			 5.32% 20 × Tera Shard
+			 2.13%  1 × Ability Capsule
+			 1.06%  1 × Ability Patch
+			 3.19%  1 × Sweet Herba Mystica
+			 3.19%  1 × Salty Herba Mystica
+			 3.19%  1 × Sour Herba Mystica
+			 3.19%  1 × Bitter Herba Mystica
+			 3.19%  1 × Spicy Herba Mystica
+
