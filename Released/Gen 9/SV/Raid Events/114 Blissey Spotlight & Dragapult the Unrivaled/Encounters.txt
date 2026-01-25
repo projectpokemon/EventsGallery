@@ -1,0 +1,284 @@
+Event Raid Identifier: 20251212
+7-Star Dragapult
+	Tera Type: Dragon
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Naive
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 35.0×
+	Catchable: Only Once
+		Moves:
+			- Dragon Darts
+			- Shadow Ball
+			- Acrobatics
+			- Flamethrower
+		Shield Activation:
+			- 92% HP Remaining
+			- 92% Time Remaining
+		Extra Actions:
+			- Use Dragon Dance at 99% Time Remaining
+			- Reset Player's Stat Changes at 86% Time Remaining
+			- Use Breaking Swipe at 83% Time Remaining
+			- Reset Player's Stat Changes at 55% HP Remaining
+			- Reset Raid Boss' Stat Changes at 43% HP Remaining
+			- Use Dragon Dance at 40% HP Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Carbos
+			40 × Tera Shard
+			20 × Tera Shard (Only Host)
+			 1 × TM100 Dragon Dance (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   13%  3 × Exp. Candy L
+			   16%  5 × Exp. Candy L
+			    8%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			    8%  5 × Carbos
+			    8%  1 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Naive Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 20 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    3%  1 × Sweet Herba Mystica
+			    3%  1 × Salty Herba Mystica
+			    3%  1 × Sour Herba Mystica
+			    3%  1 × Bitter Herba Mystica
+			    3%  1 × Spicy Herba Mystica
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Heal Pulse at 50% HP Remaining
+		Item Drops:
+			10 × Fire Tera Shard
+			10 × Water Tera Shard
+			10 × Grass Tera Shard
+			10 × Tera Shard
+		Bonus Drops:
+			   20%  4 × Tera Shard
+			   15%  6 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Heal Pulse at 50% HP Remaining
+		Item Drops:
+			10 × Ice Tera Shard
+			10 × Poison Tera Shard
+			10 × Rock Tera Shard
+			10 × Tera Shard
+		Bonus Drops:
+			   20%  4 × Tera Shard
+			   15%  6 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Heal Pulse at 50% HP Remaining
+		Item Drops:
+			10 × Dark Tera Shard
+			10 × Bug Tera Shard
+			10 × Psychic Tera Shard
+			10 × Tera Shard
+		Bonus Drops:
+			   20%  4 × Tera Shard
+			   15%  6 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Heal Pulse at 50% HP Remaining
+		Item Drops:
+			10 × Ground Tera Shard
+			10 × Flying Tera Shard
+			10 × Electric Tera Shard
+			10 × Tera Shard
+		Bonus Drops:
+			   20%  4 × Tera Shard
+			   15%  6 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Heal Pulse at 50% HP Remaining
+		Item Drops:
+			10 × Ghost Tera Shard
+			10 × Fighting Tera Shard
+			10 × Normal Tera Shard
+			10 × Tera Shard
+		Bonus Drops:
+			   20%  4 × Tera Shard
+			   15%  6 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Heal Pulse at 50% HP Remaining
+		Item Drops:
+			10 × Steel Tera Shard
+			10 × Fairy Tera Shard
+			10 × Dragon Tera Shard
+			10 × Tera Shard
+		Bonus Drops:
+			   20%  4 × Tera Shard
+			   15%  6 × Tera Shard
+			   20%  3 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   35%  5 × Exp. Candy L
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Heal Pulse at 50% HP Remaining
+		Item Drops:
+			10 × Fire Tera Shard
+			10 × Water Tera Shard
+			10 × Grass Tera Shard
+			10 × Ice Tera Shard
+			10 × Poison Tera Shard
+			10 × Rock Tera Shard
+			10 × Dark Tera Shard
+			10 × Bug Tera Shard
+			10 × Psychic Tera Shard
+			30 × Tera Shard
+		Bonus Drops:
+			  100%  2 × Tera Shard
+
+5-Star Blissey
+	Tera Type: Random
+	Capture Level: 75
+	Ability: 1/2/H
+	Gender: Female
+	IVs: 4 Flawless
+		Moves:
+			- Heal Pulse
+			- Last Resort
+			- Soft-Boiled
+			- Seismic Toss
+		Shield Activation:
+			- 55% HP Remaining
+			- 40% Time Remaining
+		Extra Actions:
+			- Use Heal Pulse at 50% HP Remaining
+		Item Drops:
+			10 × Ground Tera Shard
+			10 × Flying Tera Shard
+			10 × Electric Tera Shard
+			10 × Ghost Tera Shard
+			10 × Fighting Tera Shard
+			10 × Normal Tera Shard
+			10 × Steel Tera Shard
+			10 × Fairy Tera Shard
+			10 × Dragon Tera Shard
+			30 × Tera Shard
+		Bonus Drops:
+			  100%  2 × Tera Shard
+
