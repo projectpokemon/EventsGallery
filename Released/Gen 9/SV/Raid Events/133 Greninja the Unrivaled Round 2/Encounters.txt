@@ -1,0 +1,51 @@
+Event Raid Identifier: 20230127
+7-Star Greninja
+	Tera Type: Poison
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Sassy
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30.0×
+	Catchable: Only Once
+		Moves:
+			- Gunk Shot
+			- Hydro Pump
+			- Ice Beam
+			- Night Slash
+		Shield Activation:
+			- 65% HP Remaining
+			- 75% Time Remaining
+		Extra Actions:
+			- Use Toxic Spikes at 99% Time Remaining
+			- Use Double Team at 99% Time Remaining
+			- Reset Raid Boss' Stat Changes at 65% HP Remaining
+			- Reset Player's Stat Changes at 85% Time Remaining
+			- Use Double Team at 50% HP Remaining
+			- Use Double Team at 40% Time Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Carbos
+			10 × Tera Shard
+			 5 × Tera Shard (Only Host)
+			 1 × TM091 Toxic Spikes (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy XL
+			   10%  2 × Rare Candy
+			   10%  5 × Carbos
+			    5%  2 × Exp. Candy XL
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Sassy Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5%  5 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+

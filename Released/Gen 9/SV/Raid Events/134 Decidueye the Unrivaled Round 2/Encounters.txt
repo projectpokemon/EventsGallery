@@ -1,0 +1,53 @@
+Event Raid Identifier: 20230317
+7-Star Decidueye
+	Tera Type: Flying
+	Capture Level: 100
+	Ability: Hidden Only
+	Nature: Brave
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 30.0×
+	Catchable: Only Once
+		Moves:
+			- Spirit Shackle
+			- Brave Bird
+			- Low Kick
+			- Leaf Blade
+		Shield Activation:
+			- 60% HP Remaining
+			- 80% Time Remaining
+		Extra Actions:
+			- Reset Player's Stat Changes at 95% Time Remaining
+			- Use Feather Dance at 94% Time Remaining
+			- Reset Raid Boss' Stat Changes at 81% Time Remaining
+			- Use Swords Dance at 80% Time Remaining
+			- Use Air Cutter at 60% HP Remaining
+			- Use Air Cutter at 60% HP Remaining
+		Item Drops:
+			 6 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 3 × Protein
+			 3 × Calcium
+			20 × Tera Shard
+			10 × Tera Shard (Only Host)
+			 1 × TM164 Brave Bird (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   15%  3 × Exp. Candy L
+			   23%  5 × Exp. Candy L
+			   10%  2 × Rare Candy
+			    5%  3 × Protein
+			    5%  3 × Calcium
+			   10%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Brave Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 10 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    5%  2 × Exp. Candy XL
+
