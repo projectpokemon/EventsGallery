@@ -1,0 +1,61 @@
+Event Outbreak Identifier: 20260717
+
+Dondozo Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkRowdy (5%)
+	Region: Paldea
+
+Tatsugiri Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)
+	Region: Paldea
+
+Tatsugiri-1 Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)
+	Region: Paldea
+
+Tatsugiri-2 Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkCrafty (5%)
+	Region: Paldea
+
+Veluza Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkFerocious (5%)
+	Region: Paldea
+
+Psyduck Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkAbsentMinded (5%)
+	Region: Paldea
+
+Slowpoke Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkZonedOut (5%)
+	Region: Paldea
+
+Basculin-2 Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkFerocious (5%)
+	Region: Kitakami
+
+Feebas Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkPrideful (5%)
+	Region: Kitakami
+
+Lapras Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkCalmness (5%)
+	Region: Blueberry Academy

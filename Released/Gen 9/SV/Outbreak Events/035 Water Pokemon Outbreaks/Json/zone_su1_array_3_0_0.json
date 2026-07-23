@@ -1,0 +1,32 @@
+{
+  "Table": [
+    {
+      "ZoneID": 20260717208,
+      "LotValue": 100,
+      "Poke1": 2026071708,
+      "Poke1LotValue": 100,
+      "Poke2": 0,
+      "Poke2LotValue": 0,
+      "Poke3": 0,
+      "Poke3LotValue": 0,
+      "Poke4": 0,
+      "Poke4LotValue": 0,
+      "Poke5": 0,
+      "Poke5LotValue": 0
+    },
+    {
+      "ZoneID": 20260717209,
+      "LotValue": 100,
+      "Poke1": 2026071709,
+      "Poke1LotValue": 100,
+      "Poke2": 0,
+      "Poke2LotValue": 0,
+      "Poke3": 0,
+      "Poke3LotValue": 0,
+      "Poke4": 0,
+      "Poke4LotValue": 0,
+      "Poke5": 0,
+      "Poke5LotValue": 0
+    }
+  ]
+}
