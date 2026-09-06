@@ -1,0 +1,31 @@
+Event Outbreak Identifier: 20260828
+
+Pawniard Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkCharismatic (5%)
+	Region: Paldea
+
+Bisharp Mass Outbreak
+	Level: 52-65
+	Shiny: Standard rate
+	Ribbon: MarkCharismatic (5%)
+	Region: Paldea
+
+Pawniard Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkCharismatic (5%)
+	Region: Kitakami
+
+Bisharp Mass Outbreak
+	Level: 52-65
+	Shiny: Standard rate
+	Ribbon: MarkCharismatic (5%)
+	Region: Kitakami
+
+Kingambit Mass Outbreak
+	Level: 53-65
+	Shiny: Standard rate
+	Ribbon: MarkCharismatic (5%)
+	Region: Kitakami
