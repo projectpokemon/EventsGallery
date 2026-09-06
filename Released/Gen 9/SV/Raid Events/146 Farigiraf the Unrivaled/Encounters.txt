@@ -1,0 +1,56 @@
+Event Raid Identifier: 20260821
+7-Star Farigiraf
+	Tera Type: Fairy
+	Capture Level: 100
+	Ability: 2 Only
+	Nature: Modest
+	Gender: Male
+	IVs: 6 Flawless
+	Shiny: Never
+	Scale: 128
+	HP Multiplier: 45.0×
+	Catchable: Only Once
+		Moves:
+			- Twin Beam
+			- Dazzling Gleam
+			- Shadow Ball
+			- Thunderbolt
+		Shield Activation:
+			- 90% HP Remaining
+			- 90% Time Remaining
+		Extra Actions:
+			- Use Nasty Plot at 90% Time Remaining
+			- Reset Player's Stat Changes at 70% Time Remaining
+			- Reset Raid Boss' Stat Changes at 60% Time Remaining
+			- Use Trick Room at 50% HP Remaining
+			- Use Dazzling Gleam at 45% HP Remaining
+			- Reset Raid Boss' Stat Changes at 30% HP Remaining
+		Item Drops:
+			10 × Exp. Candy L
+			 4 × Exp. Candy XL
+			 5 × Calcium
+			40 × Tera Shard
+			20 × Tera Shard (Only Host)
+			 1 × TM161 Trick Room (Only Once)
+			 1 × Ability Patch (Only Once)
+		Bonus Drops:
+			   13%  3 × Exp. Candy L
+			   16%  5 × Exp. Candy L
+			    8%  2 × Rare Candy
+			    5%  2 × Exp. Candy XL
+			    8%  5 × Calcium
+			    8%  2 × Star Piece
+			    2%  1 × Comet Shard
+			    5%  2 × Nugget
+			    3%  1 × Modest Mint
+			    5%  1 × PP Up
+			    4%  1 × Bottle Cap
+			    5% 20 × Tera Shard
+			    2%  1 × Ability Capsule
+			    1%  1 × Ability Patch
+			    3%  1 × Sweet Herba Mystica
+			    3%  1 × Salty Herba Mystica
+			    3%  1 × Sour Herba Mystica
+			    3%  1 × Bitter Herba Mystica
+			    3%  1 × Spicy Herba Mystica
+
