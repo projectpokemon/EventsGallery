@@ -1,0 +1,31 @@
+Event Outbreak Identifier: 20260814
+
+Mankey Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkAngry (5%)
+	Region: Paldea
+
+Primeape Mass Outbreak
+	Level: 28-65
+	Shiny: Standard rate
+	Ribbon: MarkAngry (5%)
+	Region: Paldea
+
+Mankey Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkAngry (5%)
+	Region: Kitakami
+
+Primeape Mass Outbreak
+	Level: 28-65
+	Shiny: Standard rate
+	Ribbon: MarkAngry (5%)
+	Region: Kitakami
+
+Annihilape Mass Outbreak
+	Level: 36-65
+	Shiny: Standard rate
+	Ribbon: MarkAngry (5%)
+	Region: Kitakami

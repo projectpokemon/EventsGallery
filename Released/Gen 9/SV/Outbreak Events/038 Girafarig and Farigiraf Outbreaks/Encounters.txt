@@ -1,0 +1,19 @@
+Event Outbreak Identifier: 20260821
+
+Girafarig Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkIntellectual (5%)
+	Region: Paldea
+
+Girafarig Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkIntellectual (5%)
+	Region: Blueberry Academy
+
+Farigiraf Mass Outbreak
+	Level: 33-65
+	Shiny: Standard rate
+	Ribbon: MarkIntellectual (5%)
+	Region: Blueberry Academy

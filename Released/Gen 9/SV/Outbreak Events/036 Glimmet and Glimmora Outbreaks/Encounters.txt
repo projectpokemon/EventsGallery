@@ -1,0 +1,16 @@
+Event Outbreak Identifier: 20260807
+
+Glimmet Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Paldea
+
+Glimmet Mass Outbreak
+	Level: 10-65
+	Shiny: 0.5% rate
+	Region: Kitakami
+
+Glimmora Mass Outbreak
+	Level: 35-65
+	Shiny: 0.5% rate
+	Region: Kitakami
